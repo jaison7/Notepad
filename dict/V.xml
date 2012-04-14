@@ -1,0 +1,6991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<V>
+<f ds="v neck"
+ meaning="neckline shaped like a &quot;V&quot;; piece of clothing with v-shaped neckline" />
+</V>
+<V>
+<f ds="v type engine"
+ meaning="(Automotive) car engine with cylinders forming two rows at an angle to each other that forms a V" />
+</V>
+<V>
+<f ds="v"
+ meaning="22nd letter of the alphabet" />
+</V>
+<V>
+<f ds="v-necked"
+ meaning="having a neckline shaped like a &quot;V&quot;; having a neck shaped like a &quot;V&quot;" />
+</V>
+<V>
+<f ds="vac"
+ meaning="cleaning device which sucks in dirt by creating a vacuum" />
+</V>
+<V>
+<f ds="vac"
+ meaning="(Informal) vacation" />
+</V>
+<V>
+<f ds="vacancy"
+ meaning="emptiness; available space, empty room at a hotel; available position, job opening" />
+</V>
+<V>
+<f ds="vacant look"
+ meaning="empty stare, vacant gaze" />
+</V>
+<V>
+<f ds="vacant positions"
+ meaning="tasks or jobs which are not yet taken" />
+</V>
+<V>
+<f ds="vacant possession"
+ meaning="(British) ownership of a property whose preceding tenants have already moved out" />
+</V>
+<V>
+<f ds="vacant seats"
+ meaning="places to sit which are still available" />
+</V>
+<V>
+<f ds="vacant within a few months"
+ meaning="full evacuation to be completed during the course of the next several months" />
+</V>
+<V>
+<f ds="vacant"
+ meaning="empty, unfilled; unoccupied; not in use; lacking expression; (Law) withno tenant and empty of furniture; not claimed (e.g. an inheritance)" />
+</V>
+<V>
+<f ds="vacantly"
+ meaning="in a vacant manner; expressionlessly, blankly" />
+</V>
+<V>
+<f ds="vacatable"
+ meaning="can be left empty; can be given up" />
+</V>
+<V>
+<f ds="vacate a house"
+ meaning="evacuate a house, leave a home" />
+</V>
+<V>
+<f ds="vacate"
+ meaning="give up, leave (an apartment, a seat, etc.); relinquish an office; annul" />
+</V>
+<V>
+<f ds="vacation home"
+ meaning="holiday apartment" />
+</V>
+<V>
+<f ds="vacation shutdown"
+ meaning="temporary closing of a business or factory for vacation" />
+</V>
+<V>
+<f ds="vacation"
+ meaning="holiday, fixed time in which public establishments (government offices, schools, etc.) and regular businesses cease their regular activities; period of time away from work devoted to rest and relaxation; act of vacating" />
+</V>
+<V>
+<f ds="vacation"
+ meaning="go on holiday, take a vacation" />
+</V>
+<V>
+<f ds="vacationer"
+ meaning="one on vacation, one on holiday; tourist, resorter" />
+</V>
+<V>
+<f ds="vacationist"
+ meaning="one who is on vacation, vacationer" />
+</V>
+<V>
+<f ds="vacationland"
+ meaning="resort area, area with many attractions and accommodations for vacationers" />
+</V>
+<V>
+<f ds="vaccinal"
+ meaning="of or related to vaccination" />
+</V>
+<V>
+<f ds="vaccinate"
+ meaning="render unsusceptible to a disease by inoculating; perform vaccination" />
+</V>
+<V>
+<f ds="vaccination against rabies"
+ meaning="vaccine given to prevent being infected with rabies" />
+</V>
+<V>
+<f ds="vaccination"
+ meaning="act or instance of rendering unsusceptible to disease by inoculating" />
+</V>
+<V>
+<f ds="vaccinator"
+ meaning="one who vaccinates" />
+</V>
+<V>
+<f ds="vaccine"
+ meaning="of or pertaining to vaccine; of or pertaining to vaccinia; derived from cows" />
+</V>
+<V>
+<f ds="vaccine"
+ meaning="solution of weakened or modified pathogen cells which is injected into the body in order to stimulate the production of antibodies to a disease, inoculation; (Computers) program that is designed to protect against computer viruses" />
+</V>
+<V>
+<f ds="vaccinia"
+ meaning="cowpox disease" />
+</V>
+<V>
+<f ds="vaccinial"
+ meaning="of vaccinia, pertaining to cowpox" />
+</V>
+<V>
+<f ds="vacillate"
+ meaning="sway to and from, fluctuate; hesitate, waver" />
+</V>
+<V>
+<f ds="vacillatingly"
+ meaning="indecisively, hesitantly, waveringly" />
+</V>
+<V>
+<f ds="vacillation"
+ meaning="swaying to and fro, fluctuation; hesitation, wavering" />
+</V>
+<V>
+<f ds="vacillator"
+ meaning="one who hesitates; that which sways back and forth" />
+</V>
+<V>
+<f ds="vacillatory"
+ meaning="that displays vacillation, irresolute" />
+</V>
+<V>
+<f ds="vacuity"
+ meaning="emptiness; absence of matter or meaning" />
+</V>
+<V>
+<f ds="vacuolate"
+ meaning="hollow; containing cavities" />
+</V>
+<V>
+<f ds="vacuolated"
+ meaning="containing small cavities" />
+</V>
+<V>
+<f ds="vacuolation"
+ meaning="creation of of small cavities; state of having vacuoles" />
+</V>
+<V>
+<f ds="vacuole"
+ meaning="cavity filled with fluid in the cytoplasm of a cell; cavity in the tissue" />
+</V>
+<V>
+<f ds="vacuous"
+ meaning="empty, lacking meaning; containing no content; vacant; having no occupation, idle" />
+</V>
+<V>
+<f ds="vacuously"
+ meaning="vacantly; in a meaningless manner; without content; idly, without occupation" />
+</V>
+<V>
+<f ds="vacuousness"
+ meaning="absence of content, emptiness; absence of meaning; idleness" />
+</V>
+<V>
+<f ds="vacuum bottle"
+ meaning="thermos" />
+</V>
+<V>
+<f ds="vacuum cleaner"
+ meaning="device used for cleaning which sucks in dirt by creating a vacuum" />
+</V>
+<V>
+<f ds="vacuum drier"
+ meaning="dryer used for drying raw materials that are heat sensitive" />
+</V>
+<V>
+<f ds="vacuum flask"
+ meaning="thermos" />
+</V>
+<V>
+<f ds="vacuum packed"
+ meaning="sterilized, sanitized, has not been touched" />
+</V>
+<V>
+<f ds="vacuum pump"
+ meaning="device used for generating a void by drawing in air" />
+</V>
+<V>
+<f ds="vacuum tube"
+ meaning="cathode ray tube that emits electron rays" />
+</V>
+<V>
+<f ds="vacuum"
+ meaning="of or pertaining to a vaccum; using a vacuum; producing vacuum" />
+</V>
+<V>
+<f ds="vacuum"
+ meaning="void, emptiness, vacuity; space that is empty of matter; electrical device which cleans surfaces by creating air suction" />
+</V>
+<V>
+<f ds="vacuum"
+ meaning="clean with a vacuum cleaner, operate a device for cleaning carpets and floors by air suction" />
+</V>
+<V>
+<f ds="vade mecum"
+ meaning="guidebook, handbook (Latin)" />
+</V>
+<V>
+<f ds="vagabond"
+ meaning="hobo, wanderer, person who does not have a permanent home" />
+</V>
+<V>
+<f ds="vagabond"
+ meaning="of or resembling a vagabond" />
+</V>
+<V>
+<f ds="vagabondage"
+ meaning="state of being a vagabond; wandering, vagrancy" />
+</V>
+<V>
+<f ds="vagabondism"
+ meaning="state of being a vagabond; wandering, vagrancy" />
+</V>
+<V>
+<f ds="vagal"
+ meaning="of the vagus nerves, pertaining to the tenth pair of nerves that relay signals to the brain" />
+</V>
+<V>
+<f ds="vagarious"
+ meaning="capricious, erratic" />
+</V>
+<V>
+<f ds="vagary"
+ meaning="odd or unexpected action or idea" />
+</V>
+<V>
+<f ds="vagectomy"
+ meaning="(Medicine) surgical removal of part of the vagus nerve (one of the nerves that relays signals to the brain)" />
+</V>
+<V>
+<f ds="vagina"
+ meaning="canal leading from the vulva to the uterus in the female mammal; sheath in a plant or animal" />
+</V>
+<V>
+<f ds="vaginal"
+ meaning="pertaining to the vagina; pertaining to or resembling a sheath" />
+</V>
+<V>
+<f ds="vaginally"
+ meaning="via the canal from the vulva to the uterus in female mammals, in a manner resembling or pertaining to the vagina" />
+</V>
+<V>
+<f ds="vaginate"
+ meaning="pertaining to the vagina; shaped like a sheath" />
+</V>
+<V>
+<f ds="vaginated"
+ meaning="shaped like a vagina" />
+</V>
+<V>
+<f ds="vaginectomy"
+ meaning="surgical removal of the vagina or part of the vagina; surgical removal of part or all of the membrane covering the testis and epididymis" />
+</V>
+<V>
+<f ds="vaginismus"
+ meaning="painful constriction of the vaginal muscle caused by psychological or physiological factors (i.e. injury, inflammation, etc.)" />
+</V>
+<V>
+<f ds="vaginitis"
+ meaning="inflammation of the vagina" />
+</V>
+<V>
+<f ds="vaginomycosis"
+ meaning="fungal infection of the vagina" />
+</V>
+<V>
+<f ds="vaginoplasty"
+ meaning="(Medicine) plastic surgery of the vagina, colposcope" />
+</V>
+<V>
+<f ds="vaginotomy"
+ meaning="surgical cutting of the vagina" />
+</V>
+<V>
+<f ds="vagotonia"
+ meaning="(Medicine) cranial nerves that are overactive, extreme stimulation of the vagus nerve that cause constipation and sweating" />
+</V>
+<V>
+<f ds="vagrancy"
+ meaning="condition of having no permanent home, state of wandering and having no occupation" />
+</V>
+<V>
+<f ds="vagrant"
+ meaning="wandering about with no permanent home and no livelihood; random, changeable; growing without restraint (Botany)" />
+</V>
+<V>
+<f ds="vagrant"
+ meaning="hobo, wanderer, person who does not have a permanent home" />
+</V>
+<V>
+<f ds="vagrantly"
+ meaning="wanderingly, in a vagrant manner" />
+</V>
+<V>
+<f ds="vague chance"
+ meaning="unlikely to occur, small chance" />
+</V>
+<V>
+<f ds="vague message"
+ meaning="unclear broadcast, ambiguous announcement" />
+</V>
+<V>
+<f ds="vague"
+ meaning="hazy, faint, indistinct; ambiguous; uncertain" />
+</V>
+<V>
+<f ds="vaguely"
+ meaning="faintly, indistinctly, obscurely; ambiguously; indefinitely" />
+</V>
+<V>
+<f ds="vagueness"
+ meaning="unclarity; ambiguity" />
+</V>
+<V>
+<f ds="vagus nerve"
+ meaning="one of the nerves that relays signals to the brain" />
+</V>
+<V>
+<f ds="vagus"
+ meaning="either of the tenth pair of cranial nerves which relay signals to the brain (Anatomy)" />
+</V>
+<V>
+<f ds="vaid"
+ meaning="person who practices Ayurveda, one who practices Ayurvedic medicine" />
+</V>
+<V>
+<f ds="vail"
+ meaning="lower; show respect by removing one&apos;s hat; profit, avail (Archaic)" />
+</V>
+<V>
+<f ds="vain endeavors"
+ meaning="useless efforts, attempt that produces no results" />
+</V>
+<V>
+<f ds="vain hope"
+ meaning="false hope, dream that has no hope of being fulfilled, illusion" />
+</V>
+<V>
+<f ds="vain idea"
+ meaning="futile idea, idea that cannot be put to successful use" />
+</V>
+<V>
+<f ds="vain promises"
+ meaning="assurance which can not be depended on, deceit" />
+</V>
+<V>
+<f ds="vain"
+ meaning="conceited, proud, egotistical; worthless, futile; without meaning or significance" />
+</V>
+<V>
+<f ds="vainglorious"
+ meaning="boastful, haughty, conceited" />
+</V>
+<V>
+<f ds="vaingloriousness"
+ meaning="showy and pretentious display, arrogant uncalled-for pride in a person&apos;s accomplishments" />
+</V>
+<V>
+<f ds="vainglory"
+ meaning="boastfulness, haughtiness, vanity" />
+</V>
+<V>
+<f ds="vainly"
+ meaning="in a vain manner; futilely, uselessly; conceitedly" />
+</V>
+<V>
+<f ds="vainness"
+ meaning="absence of worth or meaning; conceit; futility" />
+</V>
+<V>
+<f ds="vakeel"
+ meaning="lawyer or legal agent in India" />
+</V>
+<V>
+<f ds="vakil"
+ meaning="lawyer or legal agent in India" />
+</V>
+<V>
+<f ds="valance"
+ meaning="short curtain covering the top of a window; ruffle covering the base of a bed" />
+</V>
+<V>
+<f ds="vale"
+ meaning="(Latin) goodbye, bye, so long" />
+</V>
+<V>
+<f ds="vale"
+ meaning="valley; earthly life; farewell, expression of good wishes at parting" />
+</V>
+<V>
+<f ds="valediction"
+ meaning="farewell speech" />
+</V>
+<V>
+<f ds="valedictorian"
+ meaning="senior student with the highest grade point average who delivers the parting speech at a graduation ceremony" />
+</V>
+<V>
+<f ds="valedictory"
+ meaning="of or pertaining to a valediction, of or about a farewell speech" />
+</V>
+<V>
+<f ds="valedictory"
+ meaning="ceremonious farewell speech" />
+</V>
+<V>
+<f ds="valence electron"
+ meaning="electron in the outermost shell of an atom that participates in chemical bonding" />
+</V>
+<V>
+<f ds="valence"
+ meaning="chemical parameter related to the external electric charge of an atom or compound which gives an indication of its combining capacity (Chemistry)" />
+</V>
+<V>
+<f ds="valent"
+ meaning="having a specific combining capacity (Chemistry)" />
+</V>
+<V>
+<f ds="valentine"
+ meaning="sentimental card or gift sent to a sweetheart or loved one on Valentine&apos;s Day; object of one&apos;s affection, one to whom a card or gift is sent on Valentine&apos;s day" />
+</V>
+<V>
+<f ds="valerian"
+ meaning="Eurasian plant with white or pink flowers that has healing powers, allheal; sedative drug derived from the dried roots of the valerian plant" />
+</V>
+<V>
+<f ds="valerianella"
+ meaning="category of annual herbs of the Old World widely acclimatized" />
+</V>
+<V>
+<f ds="valerianic acid"
+ meaning="(Chemistry) valeric acid, liquid fatty acid existent in several plant oils (used in cosmetics and perfumes)" />
+</V>
+<V>
+<f ds="valerianic"
+ meaning="of or pertaining to the valerian root; pertaining to valeric acid" />
+</V>
+<V>
+<f ds="valeric acid"
+ meaning="(Chemistry) liquid fatty acid existent in several plant oils (used in cosmetics and perfumes)" />
+</V>
+<V>
+<f ds="valeric"
+ meaning="pertaining to the plant valerian; pertaining to valeric acid, of a sedative extracted from the valerian plant" />
+</V>
+<V>
+<f ds="valet"
+ meaning="personal manservant, butler; one who parks cars for people arriving at a restaurant or hotel; employee who performs personal services for guests (at a hotel or on a passenger ship)" />
+</V>
+<V>
+<f ds="valet"
+ meaning="attend, serve, act as valet" />
+</V>
+<V>
+<f ds="valeting"
+ meaning="act of working as a valet" />
+</V>
+<V>
+<f ds="valetudinarian"
+ meaning="one who worries chronically about his health; invalid" />
+</V>
+<V>
+<f ds="valetudinarian"
+ meaning="chronically worrying about one&apos;s health; constantly in poor health" />
+</V>
+<V>
+<f ds="valetudinarianism"
+ meaning="condition of being chronically ill; state of worrying chronically about one&apos;s health" />
+</V>
+<V>
+<f ds="valgus"
+ meaning="characterized by an abnormal turning outward of a bone from the middle of the body (especially a knee or foot)" />
+</V>
+<V>
+<f ds="valiance"
+ meaning="braveness, courage, heroic act" />
+</V>
+<V>
+<f ds="valiancy"
+ meaning="bravery, courage" />
+</V>
+<V>
+<f ds="valiant"
+ meaning="brave, daring" />
+</V>
+<V>
+<f ds="valiantly"
+ meaning="bravely, courageously, heroically" />
+</V>
+<V>
+<f ds="valid as of"
+ meaning="updated until -, can be used as of -" />
+</V>
+<V>
+<f ds="valid"
+ meaning="legitimate, legally acceptable, not expired; based; logical, well-founded" />
+</V>
+<V>
+<f ds="validate"
+ meaning="make valid; confirm; sanction; legalize" />
+</V>
+<V>
+<f ds="validation"
+ meaning="giving of legal authority; checking of a program in order to ensure that it works without malfunctions (Computers)" />
+</V>
+<V>
+<f ds="validator"
+ meaning="one who makes valid, one who provides authority; machine that prints tickets and documents (Travel business)" />
+</V>
+<V>
+<f ds="validatory"
+ meaning="making valid, legally binding" />
+</V>
+<V>
+<f ds="validity"
+ meaning="state of being valid, legitimacy; soundness, condition of being well-founded" />
+</V>
+<V>
+<f ds="validly"
+ meaning="legitimately; bindingly; in a valid manner" />
+</V>
+<V>
+<f ds="validness"
+ meaning="condition of being valid; legitimacy; soundness" />
+</V>
+<V>
+<f ds="valine"
+ meaning="amino acid found in plant and animal proteins" />
+</V>
+<V>
+<f ds="valise"
+ meaning="travel bag, suitcase" />
+</V>
+<V>
+<f ds="valium"
+ meaning="brand of tranquilizer used to relax the muscles" />
+</V>
+<V>
+<f ds="vallate"
+ meaning="having an edge, bordered by a ridge" />
+</V>
+<V>
+<f ds="vallecula"
+ meaning="furrow, depression (i.e. between the hemispheres of the brain)" />
+</V>
+<V>
+<f ds="valley line"
+ meaning="imaginary line along the length of the lowest points in an area" />
+</V>
+<V>
+<f ds="valley of Rehavya"
+ meaning="neighborhood in Jerusalem located by the valley from which the wood for the crucifix of Jesus was taken (according to Christian tradition)" />
+</V>
+<V>
+<f ds="valley of the shadow of death"
+ meaning="passage into death, despair, miserable place or period in one&apos;s life, hell" />
+</V>
+<V>
+<f ds="valley"
+ meaning="low area of land located between hills or mountains" />
+</V>
+<V>
+<f ds="valor medal"
+ meaning="title given for a heroic act performed during a time of battle" />
+</V>
+<V>
+<f ds="valor"
+ meaning="heroism, courage" />
+</V>
+<V>
+<f ds="valorisation"
+ meaning="establishment and maintenance of the high price of a certain commodity through governmental channels (also valorization)" />
+</V>
+<V>
+<f ds="valorise"
+ meaning="establish and maintain the high price of a certain commodity through governmental channels (also valorize)" />
+</V>
+<V>
+<f ds="valorization"
+ meaning="establishment and maintenance of the high price of a certain commodity through governmental channels (also valorisation)" />
+</V>
+<V>
+<f ds="valorize"
+ meaning="establish and maintain the high price of a certain commodity through governmental channels (also valorise)" />
+</V>
+<V>
+<f ds="valorous"
+ meaning="brave, courageous" />
+</V>
+<V>
+<f ds="valorously"
+ meaning="bravely, courageously" />
+</V>
+<V>
+<f ds="valour"
+ meaning="bravery, courage (alternate spelling for valor)" />
+</V>
+<V>
+<f ds="valse"
+ meaning="dance to waltz music" />
+</V>
+<V>
+<f ds="valse"
+ meaning="waltz, ballroom dance in three-quarters rhythm; music for waltz" />
+</V>
+<V>
+<f ds="valuable possessions"
+ meaning="possessions of high worth, valuable things that one owns" />
+</V>
+<V>
+<f ds="valuable"
+ meaning="something of great worth" />
+</V>
+<V>
+<f ds="valuable"
+ meaning="of great worth, costly; cherished, dear, important" />
+</V>
+<V>
+<f ds="valuableness"
+ meaning="greatness of value, preciousness, costliness, pricelessness" />
+</V>
+<V>
+<f ds="valuables"
+ meaning="small valuable items or objects (such as jewellery); valuable items in a collective manner" />
+</V>
+<V>
+<f ds="valuably"
+ meaning="with great value; usefully, helpfully, profitably" />
+</V>
+<V>
+<f ds="valuate"
+ meaning="estimate, appraise" />
+</V>
+<V>
+<f ds="valuation"
+ meaning="appraisal, estimate; judgment of the significance (of something)" />
+</V>
+<V>
+<f ds="valuational"
+ meaning="serving to estimate the worth or importance of, appraising" />
+</V>
+<V>
+<f ds="valuative"
+ meaning="serving to estimate the worth or importance of, appraising" />
+</V>
+<V>
+<f ds="valuator"
+ meaning="one who appraises, estimator of value or worth" />
+</V>
+<V>
+<f ds="value added"
+ meaning="difference between the value of merchandise made by a hired worker to the salary which is paid to him; long term profit which is not money" />
+</V>
+<V>
+<f ds="value days"
+ meaning="days that pass from when money is deposited into a bank to when the money is credited to the account" />
+</V>
+<V>
+<f ds="value proposition"
+ meaning="statement of the way a business suggests to use its resources to supply greater value to its clients" />
+</V>
+<V>
+<f ds="value system"
+ meaning="giving something worth according to its order of importance in the eyes of the individual or organization" />
+</V>
+<V>
+<f ds="value"
+ meaning="monetary or material worth; importance, merit; reasonable price, adequate return; numerical quantity; moral standards (generally used as &quot;values&quot;); length of a musical note; shade of a color; intended sound of letter" />
+</V>
+<V>
+<f ds="value"
+ meaning="prize, esteem, cherish; assess, estimate, appraise" />
+</V>
+<V>
+<f ds="valued"
+ meaning="highly esteemed, cherished; estimated, appraised" />
+</V>
+<V>
+<f ds="valueless"
+ meaning="worthless, having no value" />
+</V>
+<V>
+<f ds="valuer"
+ meaning="one who values, appraiser" />
+</V>
+<V>
+<f ds="valve"
+ meaning="device that controls the flow of a liquid through a passage or a pipe; membranous flap that controls the direction and/or flow of bodily fluids; one of two shells in a bivalve mollusc; device which changes the pitch in a wind instrument (Music)" />
+</V>
+<V>
+<f ds="valve"
+ meaning="set a valve, regulate the flow of liquid by providing a valve" />
+</V>
+<V>
+<f ds="valveless"
+ meaning="having no valve" />
+</V>
+<V>
+<f ds="valviform"
+ meaning="resembling a valve, shaped like a valve" />
+</V>
+<V>
+<f ds="valvotomy"
+ meaning="surgical cutting of a valve (Medicine)" />
+</V>
+<V>
+<f ds="valvular"
+ meaning="of or related to valves (such as heart valves)" />
+</V>
+<V>
+<f ds="valvulitis"
+ meaning="(Medicine) inflammation of a valve (especially of the heart)" />
+</V>
+<V>
+<f ds="valvuloplasty"
+ meaning="plastic surgery on a valve (Medicine)" />
+</V>
+<V>
+<f ds="vamoose"
+ meaning="get out, scram, go away" />
+</V>
+<V>
+<f ds="vamp"
+ meaning="part of boot or shoe which covers the instep; musical improvisation; reworking of an already existing piece (i.e. book or article); seductive woman who uses her sex appeal in a manipulative way (especially to exploit men) ; vampire" />
+</V>
+<V>
+<f ds="vamp"
+ meaning="improvise in playing music; make a vamp for a shoe; use sex appeal to manipulate and exploit" />
+</V>
+<V>
+<f ds="vampire bat"
+ meaning="type of bat that sucks blood" />
+</V>
+<V>
+<f ds="vampire"
+ meaning="legendary creature believed to be a rejuvenated corpse who sucks people&apos;s blood at night; extortionist, one who exploits others (especially a woman who uses seduction to manipulate others); vampire bat, bat that feeds on blood" />
+</V>
+<V>
+<f ds="vampirish"
+ meaning="resembling a vampire, similar to a vampire (bloodsucking, parasitic)" />
+</V>
+<V>
+<f ds="vampirism"
+ meaning="belief in vampires; supposed practices of vampires; gross exploitation" />
+</V>
+<V>
+<f ds="van Eyck"
+ meaning="Jan van Eyck (c1390-1441), Flemish Renaissance painter; Hubert van Eyck (1370-1426), Flemish Renaissance painter brother of Jan van Eyck; family name" />
+</V>
+<V>
+<f ds="van Gogh"
+ meaning="family name; Vincent van Gogh (1853-1890), Dutch postimpressionist painter, creator of &quot;Starry Night&quot;" />
+</V>
+<V>
+<f ds="van der Waals"
+ meaning="Johannes Diderik van der Waals (1837-1923), Dutch physicist, winner of the 1910 Nobel Prize in Physics; family name" />
+</V>
+<V>
+<f ds="van"
+ meaning="large closed vehicle used for transporting goods or people; caravan, trailer home, mobile home; railroad car (British)" />
+</V>
+<V>
+<f ds="vanadate"
+ meaning="salt or ester of vanadic acid (Chemistry)" />
+</V>
+<V>
+<f ds="vanadic"
+ meaning="of vanadic acid (Chemistry)" />
+</V>
+<V>
+<f ds="vanadium"
+ meaning="(V) toxic silvery white metallic element used in strengthening steel (Chemistry)" />
+</V>
+<V>
+<f ds="vandal"
+ meaning="one who purposefully destroys or damages something that is beautiful or something that belongs to someone else" />
+</V>
+<V>
+<f ds="vandalic"
+ meaning="of vandalism, of destruction and defacement" />
+</V>
+<V>
+<f ds="vandalise"
+ meaning="purposefully destroying or damaging something that is beautiful or public property or something that belongs to someone else (also vandalize)" />
+</V>
+<V>
+<f ds="vandalism"
+ meaning="purposeful destruction or damage of something that is beautiful or something that belongs to someone else; practices or spirit of the Vandals" />
+</V>
+<V>
+<f ds="vandalistic"
+ meaning="of or pertaining to vandalism" />
+</V>
+<V>
+<f ds="vandalization"
+ meaning="purposeful destruction or damage of something that is beautiful or something that belongs to someone else" />
+</V>
+<V>
+<f ds="vandalize a bus shelter"
+ meaning="damage a bus station, damage the structure at a bus stop" />
+</V>
+<V>
+<f ds="vandalize"
+ meaning="purposefully destroying or damaging something that is beautiful or public property or something that belongs to someone else (also vandalise)" />
+</V>
+<V>
+<f ds="vane"
+ meaning="weather vane; one of a set of blades mounted in a circle that rotates with the movement of the wind or water; guiding fin on a missile; webbed blade on either side of the shaft of a feather" />
+</V>
+<V>
+<f ds="vanguard"
+ meaning="troops in the forefront of the battle; leading position in an movement, those who are on the cutting edge of a trend" />
+</V>
+<V>
+<f ds="vanguardism"
+ meaning="actions and beliefs of people who consider themselves leaders or pioneers" />
+</V>
+<V>
+<f ds="vanilla extract"
+ meaning="liquid which is obtained from a vanilla plant and used for cooking" />
+</V>
+<V>
+<f ds="vanilla sugar"
+ meaning="sugar mixture that contains vanilla and is used in baking and making candy" />
+</V>
+<V>
+<f ds="vanilla"
+ meaning="type of vine cultivated for its seed pods from which a popular flavor is extracted; seed pod of the vanilla plant; flavor extracted from the vanilla plant, any synthetically produced flavor resembling the vanilla flavoring" />
+</V>
+<V>
+<f ds="vanillic"
+ meaning="of or containing vanilla or vanillin" />
+</V>
+<V>
+<f ds="vanillin"
+ meaning="crystalline compound obtained from the vanilla plant or synthetically manufactured that is used in perfumes and flavoring" />
+</V>
+<V>
+<f ds="vanish into the air"
+ meaning="disappear suddenly" />
+</V>
+<V>
+<f ds="vanish into thin air"
+ meaning="disappear without a trace, disappear without leaving clues as to where" />
+</V>
+<V>
+<f ds="vanish"
+ meaning="disappear, cease to exist" />
+</V>
+<V>
+<f ds="vanished from the face of the earth"
+ meaning="disappeared, not known where he went, vanished in the haze" />
+</V>
+<V>
+<f ds="vanished into thin air"
+ meaning="disappeared without a trace, completely gone" />
+</V>
+<V>
+<f ds="vanisher"
+ meaning="person or thing that disappears or ceases to exist" />
+</V>
+<V>
+<f ds="vanishingly"
+ meaning="fleetingly, in the manner of disappearing" />
+</V>
+<V>
+<f ds="vanity fair"
+ meaning="exhibition of frivolousness; world of nonsense and meaninglessness; celebrities, famous people" />
+</V>
+<V>
+<f ds="vanity of vanities"
+ meaning="nonsense, bullshit, fiddlesticks; all is vanity" />
+</V>
+<V>
+<f ds="vanity press"
+ meaning="vanity publisher, publishing house that publishes books and the author pays the costs, publisher that publishes the books of an author at the author&apos;s expense" />
+</V>
+<V>
+<f ds="vanity publisher"
+ meaning="vanity press, publishing house that publishes books and the author pays the costs, publisher that publishes the books of an author at the author&apos;s expense" />
+</V>
+<V>
+<f ds="vanity"
+ meaning="excessive pride, conceit (especially in one&apos;s appearance); something in which one takes excessive pride; something trivial, worthless item; state of being worthless; cabinet underneath a bathroom sink" />
+</V>
+<V>
+<f ds="vanquish"
+ meaning="win; conquer, defeat" />
+</V>
+<V>
+<f ds="vanquishable"
+ meaning="can be conquered, can be defeated, can be beaten" />
+</V>
+<V>
+<f ds="vanquisher"
+ meaning="victor; conqueror" />
+</V>
+<V>
+<f ds="vanquishment"
+ meaning="act of vanquishing, act of conquering; state of being vanquished or conquered" />
+</V>
+<V>
+<f ds="vantage ground"
+ meaning="beneficial stance" />
+</V>
+<V>
+<f ds="vantage point"
+ meaning="position of superiority; location or position that provides a broad view; personal point of view" />
+</V>
+<V>
+<f ds="vantage"
+ meaning="advantage, position of superiority; position providing an advantage in perspective" />
+</V>
+<V>
+<f ds="vanward"
+ meaning="at front" />
+</V>
+<V>
+<f ds="vanward"
+ meaning="toward the front" />
+</V>
+<V>
+<f ds="vapid compliment"
+ meaning="wise compliment, intelligent flattery" />
+</V>
+<V>
+<f ds="vapid"
+ meaning="tasteless, insipid; dull, boring" />
+</V>
+<V>
+<f ds="vapidity"
+ meaning="insipidity; dullness" />
+</V>
+<V>
+<f ds="vapidly"
+ meaning="in a tasteless or dull manner" />
+</V>
+<V>
+<f ds="vapidness"
+ meaning="tastelessness, insipidness; dullness" />
+</V>
+<V>
+<f ds="vapor bath"
+ meaning="steam bath, sauna" />
+</V>
+<V>
+<f ds="vapor pressure"
+ meaning="pressure caused as a result of the power of vapors spreading" />
+</V>
+<V>
+<f ds="vapor tension"
+ meaning="pressure caused as a result of power of rising steam" />
+</V>
+<V>
+<f ds="vapor"
+ meaning="steam, mist" />
+</V>
+<V>
+<f ds="vapor"
+ meaning="change into vapor, evaporate; boast" />
+</V>
+<V>
+<f ds="vaporarium"
+ meaning="Turkish bath; vapor bath, warm bath" />
+</V>
+<V>
+<f ds="vaporescence"
+ meaning="formation of water droplets, formation of vapor" />
+</V>
+<V>
+<f ds="vaporetto"
+ meaning="motorboat used as public transportation along the canals in Venice (Italy)" />
+</V>
+<V>
+<f ds="vaporing"
+ meaning="boasting, bragging, act of boastful talk" />
+</V>
+<V>
+<f ds="vaporings"
+ meaning="boastful behavior, arrogant talk (also vapourings)" />
+</V>
+<V>
+<f ds="vaporise"
+ meaning="convert into vapor, convert into a gaseous state; become converted into vapor, become dissipated (also vaporize)" />
+</V>
+<V>
+<f ds="vaporiser"
+ meaning="device which vaporizes (especially one that vaporizes medicine for inhalation); that which vaporizes (also vaporizer)" />
+</V>
+<V>
+<f ds="vaporish"
+ meaning="resembling vapor; given to depression" />
+</V>
+<V>
+<f ds="vaporishness"
+ meaning="state of being vapor-like; condition of being given to depression" />
+</V>
+<V>
+<f ds="vaporization"
+ meaning="process by which something is changed into vapor" />
+</V>
+<V>
+<f ds="vaporize"
+ meaning="convert into vapor, convert into a gaseous state; become converted into vapor, become dissipated (also vaporise)" />
+</V>
+<V>
+<f ds="vaporizer"
+ meaning="device which vaporizes (especially one that vaporizes medicine for inhalation); that which vaporizes (also vaporiser)" />
+</V>
+<V>
+<f ds="vaporous"
+ meaning="resembling vapor; producing vapor; imaginary; lacking substance" />
+</V>
+<V>
+<f ds="vaporously"
+ meaning="with vapor; in a vaporous manner" />
+</V>
+<V>
+<f ds="vaporousness"
+ meaning="state of being vaporous; gaseousness; condition of being imaginary" />
+</V>
+<V>
+<f ds="vaporware"
+ meaning="(Computers) software that was announced by a company far in advance and has not yet been released (and may never be)" />
+</V>
+<V>
+<f ds="vapour"
+ meaning="steam, mist (also vapor)" />
+</V>
+<V>
+<f ds="vapour"
+ meaning="turn to vapor, vaporize, steam; talk pompously, boast, brag (also vapor)" />
+</V>
+<V>
+<f ds="vapourings"
+ meaning="boastful behavior, arrogant talk (also vaporings)" />
+</V>
+<V>
+<f ds="vapours"
+ meaning="mental depression, state of low spirits, melancholy (also vapors)" />
+</V>
+<V>
+<f ds="vaquero"
+ meaning="cowboy, cattle rancher" />
+</V>
+<V>
+<f ds="varia"
+ meaning="miscellany" />
+</V>
+<V>
+<f ds="variability"
+ meaning="state of being given to variation, changeability, fickleness" />
+</V>
+<V>
+<f ds="variable charges"
+ meaning="payments whose sizes are dependent upon the amount of production" />
+</V>
+<V>
+<f ds="variable cost"
+ meaning="expense whose size is dependent upon the amount of production" />
+</V>
+<V>
+<f ds="variable interest"
+ meaning="interest rate which is not fixed, interest rate which changes" />
+</V>
+<V>
+<f ds="variable interest loan"
+ meaning="loan with a interest rate that is not fixed during the term of the loan" />
+</V>
+<V>
+<f ds="variable name"
+ meaning="collection of characters that comprise a unique signal for a variable in a program" />
+</V>
+<V>
+<f ds="variable rate"
+ meaning="price which changes" />
+</V>
+<V>
+<f ds="variable rate mortgage"
+ meaning="mortgage with a interest rate that can be changed during the term of the loan" />
+</V>
+<V>
+<f ds="variable rates shares"
+ meaning="group of stocks that change in price as the market changes" />
+</V>
+<V>
+<f ds="variable resistor"
+ meaning="device that allows one to change electrical resistance" />
+</V>
+<V>
+<f ds="variable wind"
+ meaning="wind of changing intensity" />
+</V>
+<V>
+<f ds="variable"
+ meaning="something given to variation; quantity that may represent any one of a set of values (Mathematics); star whose brightness variates at intervals (Astronomy)" />
+</V>
+<V>
+<f ds="variable"
+ meaning="changeable, fluctuating, inconstant; fickle; having a quantity that is unfixed; deviating from the norm" />
+</V>
+<V>
+<f ds="variableness"
+ meaning="changeability, state of being variable" />
+</V>
+<V>
+<f ds="variably"
+ meaning="changeably, in a variable manner" />
+</V>
+<V>
+<f ds="variance analysis"
+ meaning="analysis of the distribution or error that is random in experiment results" />
+</V>
+<V>
+<f ds="variance"
+ meaning="act or instance of variation; divergence; discrepancy, strife, discord" />
+</V>
+<V>
+<f ds="variant"
+ meaning="that which differs somewhat from the norm" />
+</V>
+<V>
+<f ds="variate"
+ meaning="variable (Statistics)" />
+</V>
+<V>
+<f ds="variation"
+ meaning="act or instance of varying; degree of diversity; change; modified version (as of a musical piece); deviation" />
+</V>
+<V>
+<f ds="variational"
+ meaning="having variation; deviating, changeable; being of a modified version" />
+</V>
+<V>
+<f ds="variative"
+ meaning="changing, given to variation" />
+</V>
+<V>
+<f ds="varicella"
+ meaning="chicken pox disease (Medicine)" />
+</V>
+<V>
+<f ds="varicelliform"
+ meaning="resembling chicken pox" />
+</V>
+<V>
+<f ds="varicocele"
+ meaning="enlarged vein in or near scrotum (Medicine)" />
+</V>
+<V>
+<f ds="varicolored"
+ meaning="multi colored, diverse in color" />
+</V>
+<V>
+<f ds="varicose veins"
+ meaning="enlarged veins in the legs" />
+</V>
+<V>
+<f ds="varicose"
+ meaning="swollen, enlarged; having varicose veins; pertaining to the treatment of varicose veins" />
+</V>
+<V>
+<f ds="varicosis"
+ meaning="dilation of a vein; condition of suffering from varicose veins" />
+</V>
+<V>
+<f ds="varicosity"
+ meaning="state of being varicose, condition of being enlarged or swollen" />
+</V>
+<V>
+<f ds="varicotomy"
+ meaning="surgical removal of varicose veins in the legs" />
+</V>
+<V>
+<f ds="varied work"
+ meaning="diverse work" />
+</V>
+<V>
+<f ds="varied"
+ meaning="different, diverse; of different kinds; changing" />
+</V>
+<V>
+<f ds="variedly"
+ meaning="in a varied manner, in a different way; in a diverse manner" />
+</V>
+<V>
+<f ds="variegate"
+ meaning="change appearance (especially color); make interesting; variate" />
+</V>
+<V>
+<f ds="variegation"
+ meaning="change of appearance (especially color); variation" />
+</V>
+<V>
+<f ds="varietal"
+ meaning="wine made exclusively or almost exclusively from one variety of grape" />
+</V>
+<V>
+<f ds="varietal"
+ meaning="of variety, diverse, assorted" />
+</V>
+<V>
+<f ds="varietally"
+ meaning="diversely, in a varied manner" />
+</V>
+<V>
+<f ds="variety show"
+ meaning="production which has different types of performances" />
+</V>
+<V>
+<f ds="variety store"
+ meaning="convenience store, mini-mart" />
+</V>
+<V>
+<f ds="variety theater"
+ meaning="theater which has different kinds of performances" />
+</V>
+<V>
+<f ds="variety"
+ meaning="diversity, multiplicity; assortment; kind, sort" />
+</V>
+<V>
+<f ds="variola"
+ meaning="smallpox disease" />
+</V>
+<V>
+<f ds="variolar"
+ meaning="of or related to smallpox; sick with smallpox" />
+</V>
+<V>
+<f ds="variolate"
+ meaning="inoculate with smallpox virus" />
+</V>
+<V>
+<f ds="variolate"
+ meaning="resembling smallpox, of smallpox" />
+</V>
+<V>
+<f ds="varioloid"
+ meaning="resembling smallpox; pertaining to smallpox" />
+</V>
+<V>
+<f ds="variolous"
+ meaning="of or related to smallpox; sick with smallpox" />
+</V>
+<V>
+<f ds="variorum"
+ meaning="an edition of a text with footnotes by various scholars" />
+</V>
+<V>
+<f ds="various aspects"
+ meaning="different sides or viewpoints" />
+</V>
+<V>
+<f ds="various reasons"
+ meaning="different explanations" />
+</V>
+<V>
+<f ds="various"
+ meaning="assorted, different; individual; several" />
+</V>
+<V>
+<f ds="variously"
+ meaning="in various ways, in differing ways" />
+</V>
+<V>
+<f ds="variousness"
+ meaning="diverseness; state of being assorted" />
+</V>
+<V>
+<f ds="varix"
+ meaning="enlarged and elongated vein, varicose vein" />
+</V>
+<V>
+<f ds="varmint"
+ meaning="annoying or injurious person or animal; pest; vermin (Informal)" />
+</V>
+<V>
+<f ds="varna"
+ meaning="caste group in Hindu society" />
+</V>
+<V>
+<f ds="varnish facts"
+ meaning="embellish the facts, add untrue information to facts" />
+</V>
+<V>
+<f ds="varnish"
+ meaning="surface coat (usually of paint) which glazes and protects; solution which provides a glossy or protective coating, lacquer; superficially polished appearance" />
+</V>
+<V>
+<f ds="varnish"
+ meaning="cover with a protective (often glossy) coating; give something a superficially polished appearance" />
+</V>
+<V>
+<f ds="varnisher"
+ meaning="one who lacquers, one who varnishes, one who coats with shellac" />
+</V>
+<V>
+<f ds="varsity"
+ meaning="sports team which represents a school or university" />
+</V>
+<V>
+<f ds="varus"
+ meaning="characterized by an abnormal turning inward of a bone from the middle of the body (especially a knee or foot)" />
+</V>
+<V>
+<f ds="vary"
+ meaning="change something, alter; change, fluctuate; give variety to" />
+</V>
+<V>
+<f ds="varying circumstances"
+ meaning="changing conditions, change in stability" />
+</V>
+<V>
+<f ds="varying"
+ meaning="changing; giving variety to" />
+</V>
+<V>
+<f ds="varyingly"
+ meaning="differently; in a varying manner, alternatingly, divergently" />
+</V>
+<V>
+<f ds="vas deferens"
+ meaning="tube that carries sperm between the testes and the urethra" />
+</V>
+<V>
+<f ds="vas"
+ meaning="tube in which body fluid flows, duct (Anatomy)" />
+</V>
+<V>
+<f ds="vasal"
+ meaning="of a vessel, of a duct" />
+</V>
+<V>
+<f ds="vascular plant"
+ meaning="plant that has specialized cells to transport water or mineral salts and sugars within its tissues" />
+</V>
+<V>
+<f ds="vascular"
+ meaning="having vessels or ducts; of or pertaining to vessels which carry fluids (i.e. blood, sap, etc.)" />
+</V>
+<V>
+<f ds="vascularisation"
+ meaning="process of becoming vascular; process of vascularizing; formation of new blood vessels, angiogenesis; (Medicine) pathological formation of blood vessels (also vascularization)" />
+</V>
+<V>
+<f ds="vascularise"
+ meaning="develop blood vessels; become vascular (also vascularize)" />
+</V>
+<V>
+<f ds="vascularity"
+ meaning="state of being vascular-like" />
+</V>
+<V>
+<f ds="vascularization"
+ meaning="process of becoming vascular; process of vascularizing; formation of new blood vessels, angiogenesis; (Medicine) pathological formation of blood vessels (also vascularisation)" />
+</V>
+<V>
+<f ds="vascularize"
+ meaning="develop blood vessels; become vascular (also vascularise)" />
+</V>
+<V>
+<f ds="vascularly"
+ meaning="through blood vessels" />
+</V>
+<V>
+<f ds="vasculature"
+ meaning="vascular system, system of blood vessels" />
+</V>
+<V>
+<f ds="vasculitis"
+ meaning="inflammation of the blood vessels" />
+</V>
+<V>
+<f ds="vasculum"
+ meaning="type of box botanists use to carry specimens as they collect them, collecting box or case used by botanists" />
+</V>
+<V>
+<f ds="vase"
+ meaning="container used for holding cut flowers or for decoration" />
+</V>
+<V>
+<f ds="vasectomise"
+ meaning="surgically cut and tie the vas deferens in order to prevent the emission of sperm during ejaculation (also vasectomize)" />
+</V>
+<V>
+<f ds="vasectomize"
+ meaning="surgically cut and tie the vas deferens in order to prevent the emission of sperm during ejaculation (also vasectomise)" />
+</V>
+<V>
+<f ds="vasectomy"
+ meaning="surgical procedure in which the vas deferens are cut and tied in order to prevent the emission of sperm during ejaculation" />
+</V>
+<V>
+<f ds="vaseline"
+ meaning="brand name for a jelly-like substance that is made from white petroleum and is used in medical and cosmetic ointments" />
+</V>
+<V>
+<f ds="vasoactive"
+ meaning="having an affect on the diameter of blood vessels, that makes an effect on the diameter of blood vessels" />
+</V>
+<V>
+<f ds="vasoconstriction"
+ meaning="constriction of blood vessels" />
+</V>
+<V>
+<f ds="vasoconstrictive"
+ meaning="causing constriction of the blood vessels" />
+</V>
+<V>
+<f ds="vasoconstrictor"
+ meaning="that which causes the constriction of blood vessels" />
+</V>
+<V>
+<f ds="vasodepressor"
+ meaning="something which widens blood vessels" />
+</V>
+<V>
+<f ds="vasodilatation"
+ meaning="dilation of the blood vessels" />
+</V>
+<V>
+<f ds="vasodilation"
+ meaning="dilation of the blood vessels" />
+</V>
+<V>
+<f ds="vasodilator"
+ meaning="something which causes the dilation of blood vessels" />
+</V>
+<V>
+<f ds="vasoligation"
+ meaning="ligation of a duct (especially the vas deferens)" />
+</V>
+<V>
+<f ds="vasomotion"
+ meaning="change in the diameter of a vessels (especially blood vessels)" />
+</V>
+<V>
+<f ds="vasomotor"
+ meaning="altering the diameter of vessels (especially blood vessels)" />
+</V>
+<V>
+<f ds="vasopressor"
+ meaning="chemical substance which raises blood pressure by constricting arteries and capillaries" />
+</V>
+<V>
+<f ds="vasotonic"
+ meaning="pertaining to the tone of a blood vessel (Medicine)" />
+</V>
+<V>
+<f ds="vassal"
+ meaning="tenant-farmer, one who gave total allegiance to a feudal lord in return for protection and the right to occupy and cultivate land, serf; subordinate; servant, enslaved person" />
+</V>
+<V>
+<f ds="vassalage"
+ meaning="state of being a vassal; condition of being subordinate" />
+</V>
+<V>
+<f ds="vast difference"
+ meaning="great variation" />
+</V>
+<V>
+<f ds="vast knowledge"
+ meaning="wide knowledge, extensive knowledge" />
+</V>
+<V>
+<f ds="vast"
+ meaning="large, enormous, huge" />
+</V>
+<V>
+<f ds="vastly"
+ meaning="immensely, extensively, tremendously" />
+</V>
+<V>
+<f ds="vastness"
+ meaning="immensity, enormousness, extensiveness, boundlessness" />
+</V>
+<V>
+<f ds="vastus"
+ meaning="wide muscle" />
+</V>
+<V>
+<f ds="vat"
+ meaning="large container, tank, tub" />
+</V>
+<V>
+<f ds="vatic"
+ meaning="prophetic, pertaining to a prophet" />
+</V>
+<V>
+<f ds="vatical"
+ meaning="prophetic, of a prophet" />
+</V>
+<V>
+<f ds="vaticination"
+ meaning="prophecy, prediction, forecast; act of predicting" />
+</V>
+<V>
+<f ds="vator"
+ meaning="lift; elevator" />
+</V>
+<V>
+<f ds="vaudevillian"
+ meaning="performer in a vaudeville theater; one who writes or performs vaudeville acts" />
+</V>
+<V>
+<f ds="vault of heaven"
+ meaning="sky, heavens" />
+</V>
+<V>
+<f ds="vault of the sky"
+ meaning="heavens, sky" />
+</V>
+<V>
+<f ds="vault"
+ meaning="arch, dome; room with an arch or a dome; secure room for storing money or valuables; underground burial chamber; pole vaulting" />
+</V>
+<V>
+<f ds="vault"
+ meaning="leap up or over (especially with the help of the hands or a vaulting pole); rising up suddenly (as to fame or success); create a vaulted structure; be in the form of a vaulted structure" />
+</V>
+<V>
+<f ds="vaulted ceiling"
+ meaning="dome shaped ceiling, arch in the ceiling" />
+</V>
+<V>
+<f ds="vaulted"
+ meaning="arched; having an arched roof or ceiling, covered with a vault" />
+</V>
+<V>
+<f ds="vaulter"
+ meaning="athlete who vaults; leaper" />
+</V>
+<V>
+<f ds="vaulting"
+ meaning="leaping motion; arched structure" />
+</V>
+<V>
+<f ds="vaulting-horse"
+ meaning="type of gymnastics apparatus" />
+</V>
+<V>
+<f ds="vaulty"
+ meaning="arched" />
+</V>
+<V>
+<f ds="vaunt"
+ meaning="act or instance of boasting" />
+</V>
+<V>
+<f ds="vaunt"
+ meaning="boast, brag, exaggerate about oneself" />
+</V>
+<V>
+<f ds="vaunted"
+ meaning="highly praised; extremely boasted" />
+</V>
+<V>
+<f ds="vaunter"
+ meaning="line-shooter, person who is an arrogant boaster, extremely arrogant and loquacious person, braggart" />
+</V>
+<V>
+<f ds="vauntful"
+ meaning="boastful; tending to boast" />
+</V>
+<V>
+<f ds="vauntingly"
+ meaning="boastfully, while bragging" />
+</V>
+<V>
+<f ds="vcard"
+ meaning="virtual business card, business card that can be transmitted over electronic mail and the Internet; standard for electronic business cards and applications that handle them on the Internet" />
+</V>
+<V>
+<f ds="veal"
+ meaning="meat of a calf" />
+</V>
+<V>
+<f ds="vector graphics"
+ meaning="graphic picture created by mathematical formulas" />
+</V>
+<V>
+<f ds="vector"
+ meaning="(Mathematics, Physics) quantity with magnitude and direction (represented by an arrow indicating its direction); (Biology) insect which carries diseases, means of disease transfer; route of a plane" />
+</V>
+<V>
+<f ds="vectored"
+ meaning="of a vector, of a mathematical representation of a quantity that has both magnitude and direction" />
+</V>
+<V>
+<f ds="vectorial"
+ meaning="of or related to a vector (straight segment with length and direction, mathematical expression denoting size and direction)" />
+</V>
+<V>
+<f ds="vectors in quadrature"
+ meaning="vertical vectors, perpendicular vectors" />
+</V>
+<V>
+<f ds="vedette boat"
+ meaning="small boat for watching enemy" />
+</V>
+<V>
+<f ds="vedette"
+ meaning="mounted sentinel posted to watch for enemy" />
+</V>
+<V>
+<f ds="vee"
+ meaning="letter &quot;V&quot;; anything in the shape of the letter &quot;V&quot;" />
+</V>
+<V>
+<f ds="veep"
+ meaning="vice-president (Slang)" />
+</V>
+<V>
+<f ds="veer off"
+ meaning="deviate, fail" />
+</V>
+<V>
+<f ds="veer round"
+ meaning="swerve around, detour around" />
+</V>
+<V>
+<f ds="veer"
+ meaning="change direction, swerve, turn about, alter one&apos;s course" />
+</V>
+<V>
+<f ds="veeringly"
+ meaning="in a veering manner, while swerving, with a change of direction" />
+</V>
+<V>
+<f ds="veery"
+ meaning="Wilson&apos;s thrush, golden-brown thrush noted for its beautiful song and found in eastern United States (Zoology)" />
+</V>
+<V>
+<f ds="veg out"
+ meaning="(Slang) relax and do nothing" />
+</V>
+<V>
+<f ds="veg"
+ meaning="(Slang) relax completely, relax and do nothing" />
+</V>
+<V>
+<f ds="veg"
+ meaning="(British) vegetable" />
+</V>
+<V>
+<f ds="vegan"
+ meaning="pertaining to vegetarianism; having the characteristics of a vegetarian" />
+</V>
+<V>
+<f ds="vegan"
+ meaning="vegetarian who does not eat any animal products" />
+</V>
+<V>
+<f ds="veganism"
+ meaning="vegetarianism which entirely omits any animal products" />
+</V>
+<V>
+<f ds="vegetable crustless pie"
+ meaning="casserole made from mixed vegetables an does not have a doughy covering" />
+</V>
+<V>
+<f ds="vegetable cutlet"
+ meaning="vegetable patty, paste of steamed and mashed vegetables that is shaped into patties and fried" />
+</V>
+<V>
+<f ds="vegetable dealer"
+ meaning="one who works at a vegetable stand, one who sells vegetables" />
+</V>
+<V>
+<f ds="vegetable fat"
+ meaning="fat which is extracted from vegetables" />
+</V>
+<V>
+<f ds="vegetable fiber"
+ meaning="fibers contained in vegetables, type of nutrient obtained from the cellulose of vegetables" />
+</V>
+<V>
+<f ds="vegetable garden"
+ meaning="plot of land on which vegetables are planted and grown" />
+</V>
+<V>
+<f ds="vegetable kingdom"
+ meaning="plant kingdom, group of plants in general" />
+</V>
+<V>
+<f ds="vegetable marrow"
+ meaning="cucumber, zucchini" />
+</V>
+<V>
+<f ds="vegetable oil"
+ meaning="oil which is extracted from vegetables" />
+</V>
+<V>
+<f ds="vegetable peeler"
+ meaning="kitchen utensil used for peeling the skin off vegetables" />
+</V>
+<V>
+<f ds="vegetable quiche"
+ meaning="baked item based on mixed vegetables" />
+</V>
+<V>
+<f ds="vegetable salad"
+ meaning="mixture of assorted chopped spiced vegetables" />
+</V>
+<V>
+<f ds="vegetable shortening"
+ meaning="cooking solid fat made from hydrogenated vegetable oils" />
+</V>
+<V>
+<f ds="vegetable soup"
+ meaning="soup that is made out of various vegetables" />
+</V>
+<V>
+<f ds="vegetable"
+ meaning="plant, edible fruit of a plant; (Informal) person having little or no brain activity (usually due to an injury)" />
+</V>
+<V>
+<f ds="vegetable"
+ meaning="consisting of or pertaining to vegetables" />
+</V>
+<V>
+<f ds="vegetal"
+ meaning="of plants or vegetables; vegetative, relating to development and growth (as opposed to sexual reproduction)" />
+</V>
+<V>
+<f ds="vegetarian restaurant"
+ meaning="place where food based from vegetables is ordered and eaten on location" />
+</V>
+<V>
+<f ds="vegetarian village"
+ meaning="rural town in which all of the residents are vegetarians" />
+</V>
+<V>
+<f ds="vegetarian"
+ meaning="one who only eats vegetables, one who does not eat meat, herbivore" />
+</V>
+<V>
+<f ds="vegetarian"
+ meaning="of or relating to vegetarians; , consisting of vegetables, not containing meat" />
+</V>
+<V>
+<f ds="vegetarianism"
+ meaning="practice of not eating meat or fish" />
+</V>
+<V>
+<f ds="vegetate"
+ meaning="grow, produce vegetation (as a plant); lead a dull and inactive life" />
+</V>
+<V>
+<f ds="vegetation"
+ meaning="plants, plant growth; unhealthy outgrowth (Medicine)" />
+</V>
+<V>
+<f ds="vegetational"
+ meaning="concerning plants and vegetables; concerning abnormal outgrowth" />
+</V>
+<V>
+<f ds="vegetative"
+ meaning="concerning plants and plant growth; relating to development and growth (as opposed to sexual reproduction); having a dull or excessively immobile lifestyle" />
+</V>
+<V>
+<f ds="veggie"
+ meaning="person who does not eat meat or animal products, one who lives by the principles of vegetarianism" />
+</V>
+<V>
+<f ds="veggie"
+ meaning="plant, edible fruit of a plant (Informal)" />
+</V>
+<V>
+<f ds="vegie"
+ meaning="(Informal) vegetable" />
+</V>
+<V>
+<f ds="vehemence"
+ meaning="passion, fervor, force, strong conviction" />
+</V>
+<V>
+<f ds="vehemency"
+ meaning="passion, fervor, force, strong conviction" />
+</V>
+<V>
+<f ds="vehement accusation"
+ meaning="angry accusation, placement of blame made in a furious manner" />
+</V>
+<V>
+<f ds="vehement protest"
+ meaning="lively objection to something" />
+</V>
+<V>
+<f ds="vehement"
+ meaning="fervent, impassioned; intense, strong" />
+</V>
+<V>
+<f ds="vehemently"
+ meaning="fervently, passionately, intensely, with strong conviction" />
+</V>
+<V>
+<f ds="vehicle owner"
+ meaning="one who holds the rights to a transportation vehicle, one who has a transportation vehicle" />
+</V>
+<V>
+<f ds="vehicle"
+ meaning="means of transport (car, bus, etc.); instrument; means, medium" />
+</V>
+<V>
+<f ds="vehicular"
+ meaning="intended for or concerning vehicles (especially cars)" />
+</V>
+<V>
+<f ds="veil of mist"
+ meaning="heavy fog or mist" />
+</V>
+<V>
+<f ds="veil of secrecy"
+ meaning="cover of secrecy, envelope of secrecy" />
+</V>
+<V>
+<f ds="veil"
+ meaning="length of cloth worn by women as a face covering; netting attached to a woman&apos;s hat; something which hides or conceals (such as a curtain); nun&apos;s headdress; vow&apos;s of a nun; membrane which covers an immature mushroom" />
+</V>
+<V>
+<f ds="veil"
+ meaning="cover; hide" />
+</V>
+<V>
+<f ds="veiled threat"
+ meaning="implied threat, subtle intimidation" />
+</V>
+<V>
+<f ds="veiled"
+ meaning="covered with a veil; concealed, hidden" />
+</V>
+<V>
+<f ds="vein"
+ meaning="blood vessel which carries blood to the heart; any blood vessel (Informal); bundle of sap-carrying vessels in plants; band of ore between rock layers; pervading quality, mood; vessels in insect wings" />
+</V>
+<V>
+<f ds="veined"
+ meaning="patterned with or as if with veins; full of veins; streaked (as if with veins)" />
+</V>
+<V>
+<f ds="veining"
+ meaning="venation, pattern of veins" />
+</V>
+<V>
+<f ds="veiny"
+ meaning="of veins, of blood vessels; resembling veins, like veins" />
+</V>
+<V>
+<f ds="velamen"
+ meaning="membrane or outer layer; membranous moisture absorbing layer on the aerial roots of some epiphytic plants (non-parasitic plants that grow on the surface of other things, such as rocks)" />
+</V>
+<V>
+<f ds="velar"
+ meaning="of or related to a velum; sound produced with the tongue up or near the soft palate" />
+</V>
+<V>
+<f ds="velarise"
+ meaning="(Linguistics) pronounce with the back of the tongue close to the soft palate, enunciate with velar articulation (also velarize)" />
+</V>
+<V>
+<f ds="velarium"
+ meaning="type of large awning that was used to cover the in the Colosseum and amphitheatres in ancient Rome; interior ceiling placed to make the acoustics in a theatre better" />
+</V>
+<V>
+<f ds="velarize"
+ meaning="(Linguistics) pronounce with the back of the tongue close to the soft palate, enunciate with velar articulation (also velarise)" />
+</V>
+<V>
+<f ds="veld"
+ meaning="grassy plain (in southern Africa)" />
+</V>
+<V>
+<f ds="veldt"
+ meaning="open grassland; South African savannas" />
+</V>
+<V>
+<f ds="veliger"
+ meaning="larval stage of some mollusks when developing the velum" />
+</V>
+<V>
+<f ds="velleity"
+ meaning="mere wish (without attempt to realize it)" />
+</V>
+<V>
+<f ds="vellicate"
+ meaning="pull, pinch; contort" />
+</V>
+<V>
+<f ds="vellication"
+ meaning="plucking, pinching" />
+</V>
+<V>
+<f ds="vellum"
+ meaning="fine parchment made from the skin of a young animal (i.e. lambskin, calfskin, or kidskin); manuscript written on vellum; heavy off-white parchment resembling leather vellum" />
+</V>
+<V>
+<f ds="velocipede"
+ meaning="tricycle; any of various types of early bicycles propelled by pedals attached to the front wheel or by the rider pushing his feet along the ground" />
+</V>
+<V>
+<f ds="velocity circulation"
+ meaning="relation between the gross national product and the circulation of money that is used to determine the speed that money changes hands in an economy (Economics)" />
+</V>
+<V>
+<f ds="velocity of circulation"
+ meaning="relation between the gross national product and the circulation of money that is used to determine the speed that money changes hands in an economy (Economics)" />
+</V>
+<V>
+<f ds="velocity of fall"
+ meaning="speed at with a body falls" />
+</V>
+<V>
+<f ds="velocity of light"
+ meaning="speed of light" />
+</V>
+<V>
+<f ds="velocity of money circulation"
+ meaning="the quickness of the turnover of money, economic equation which teaches us about the swiftness of transferring funds from one factor in the market to another (Economics)" />
+</V>
+<V>
+<f ds="velocity of sound"
+ meaning="speed of sound" />
+</V>
+<V>
+<f ds="velocity vector"
+ meaning="rate of speed and direction" />
+</V>
+<V>
+<f ds="velocity"
+ meaning="speed; rate of change of the position of a moving body in relation to its speed and direction of travel" />
+</V>
+<V>
+<f ds="velodrome"
+ meaning="arena for bicycle racing; track for bicycling" />
+</V>
+<V>
+<f ds="velour"
+ meaning="velvet-like fabric with a thick nap" />
+</V>
+<V>
+<f ds="velum"
+ meaning="membranous covering (such as the soft palate); veil, thin membrane which covers an immature mushroom" />
+</V>
+<V>
+<f ds="velvet coat"
+ meaning="garment worn on the upper body which is made of a silky fine fabric known as velvet" />
+</V>
+<V>
+<f ds="velvet glove"
+ meaning="hand coverings made of a silky material" />
+</V>
+<V>
+<f ds="velvet hair"
+ meaning="soft and gentle hair" />
+</V>
+<V>
+<f ds="velvet skin"
+ meaning="skin that is as soft and tender as velvet" />
+</V>
+<V>
+<f ds="velvet"
+ meaning="soft plush fabric having a shiny pile and smooth plain underside; something that is velvet-like in texture or appearance (e.g. skin, flower); fur-like layer on deer antlers; (Slang) unexpected monetary profit (as from gambling)" />
+</V>
+<V>
+<f ds="velvet"
+ meaning="soft like velvet, resembling velvet; made of velvet" />
+</V>
+<V>
+<f ds="velveteen"
+ meaning="short and thick velvet-like cloth (usually made of cotton)" />
+</V>
+<V>
+<f ds="velvety"
+ meaning="like or suggestive of velvet, smooth and soft" />
+</V>
+<V>
+<f ds="vena cava"
+ meaning="(Medicine) either of two main veins that carry blood to the right atrium of the heart; superior vena cava or the inferior vena cava" />
+</V>
+<V>
+<f ds="vena"
+ meaning="vein" />
+</V>
+<V>
+<f ds="venal"
+ meaning="characterized by bribery; corrupt; able to be purchased (especially in an illegal way)" />
+</V>
+<V>
+<f ds="venality"
+ meaning="state of being venal; corruption" />
+</V>
+<V>
+<f ds="venally"
+ meaning="in a venal manner; corruptly" />
+</V>
+<V>
+<f ds="venalness"
+ meaning="condition of being venal; corruptness" />
+</V>
+<V>
+<f ds="venation"
+ meaning="system of veins; pattern of veins" />
+</V>
+<V>
+<f ds="vend"
+ meaning="sell goods in a vending machine; peddle merchandise (especially on the street)" />
+</V>
+<V>
+<f ds="vendable"
+ meaning="salable, marketable" />
+</V>
+<V>
+<f ds="vendee"
+ meaning="buyer, emptor" />
+</V>
+<V>
+<f ds="vender"
+ meaning="salesman; supplier, equipment salesman; automatic machine for selling goods" />
+</V>
+<V>
+<f ds="vendetta"
+ meaning="blood feud (especially between two families); outstanding feud, enmity" />
+</V>
+<V>
+<f ds="vendibility"
+ meaning="marketability, state of being merchandisable" />
+</V>
+<V>
+<f ds="vendible"
+ meaning="marketable, salable" />
+</V>
+<V>
+<f ds="vending machine"
+ meaning="automated device used for selling items" />
+</V>
+<V>
+<f ds="vending"
+ meaning="area in a hotel or motel where vending machines are located" />
+</V>
+<V>
+<f ds="vendition"
+ meaning="selling, marketing" />
+</V>
+<V>
+<f ds="vendor"
+ meaning="salesman; supplier, equipment salesman (for example in the field of computers, etc.); automatic machine for selling goods" />
+</V>
+<V>
+<f ds="vendue"
+ meaning="public sale" />
+</V>
+<V>
+<f ds="veneer board"
+ meaning="very thin sheet of wood" />
+</V>
+<V>
+<f ds="veneer sheet"
+ meaning="very thin sheet of wood" />
+</V>
+<V>
+<f ds="veneer"
+ meaning="thin layer of material that is superior to the material which it is covering (usually wood); superficially fine or pleasing appearance" />
+</V>
+<V>
+<f ds="veneer"
+ meaning="cover with a thin layer of material that is superior to the material which it is covering (usually wood); give a superficially fine or pleasing appearance" />
+</V>
+<V>
+<f ds="venepuncture"
+ meaning="piercing of a vein, puncturing of a vein (Medicine)" />
+</V>
+<V>
+<f ds="venerability"
+ meaning="honorableness, state of being worthy of reverence" />
+</V>
+<V>
+<f ds="venerable"
+ meaning="worthy of honor and esteem (because of age, achievement, or position); deserving reverence and respect (because of historical or religious status)" />
+</V>
+<V>
+<f ds="venerably"
+ meaning="honorably, in a manner deserving of respect" />
+</V>
+<V>
+<f ds="venerate"
+ meaning="esteem, respect, revere" />
+</V>
+<V>
+<f ds="veneration"
+ meaning="reverence, respect; expression of deep admiration; condition of being greatly honored" />
+</V>
+<V>
+<f ds="venerator"
+ meaning="admirer, one who respects, one who esteems, adorer" />
+</V>
+<V>
+<f ds="venereal disease"
+ meaning="sexually transmitted disease" />
+</V>
+<V>
+<f ds="venereal diseases"
+ meaning="sexually transmitted diseases" />
+</V>
+<V>
+<f ds="venereal"
+ meaning="pertaining to sexual intercourse; resulting from sexual intercourse; pertaining or associated with venereal disease; of or pertaining to the genitals" />
+</V>
+<V>
+<f ds="venereological"
+ meaning="of sexually transmitted diseases" />
+</V>
+<V>
+<f ds="venereologist"
+ meaning="expert on sexually transmitted diseases" />
+</V>
+<V>
+<f ds="venereology"
+ meaning="study of sexually transmitted diseases" />
+</V>
+<V>
+<f ds="venery"
+ meaning="sexual intercourse; pursuit of sexual activity; hunting (Archaic)" />
+</V>
+<V>
+<f ds="venesection"
+ meaning="bloodletting, practice of drawing blood from a vein as a medical therapy, phlebotomy" />
+</V>
+<V>
+<f ds="vengeance"
+ meaning="infliction of a punishment as a payback for an injury or a wrong, retribution, retaliation" />
+</V>
+<V>
+<f ds="vengeful"
+ meaning="vindictive, desiring vengeance" />
+</V>
+<V>
+<f ds="vengefully"
+ meaning="with vengeance, vindictively, avengingly, in retaliation" />
+</V>
+<V>
+<f ds="vengefulness"
+ meaning="vindictiveness, desire for revenge" />
+</V>
+<V>
+<f ds="venial error"
+ meaning="error than can be forgiven" />
+</V>
+<V>
+<f ds="venial sin"
+ meaning="sin that can be forgiven" />
+</V>
+<V>
+<f ds="venial"
+ meaning="may be forgiven, pardonable; of minor sin (Roman Catholic Church)" />
+</V>
+<V>
+<f ds="veniality"
+ meaning="quality of being venial; condition of being venial" />
+</V>
+<V>
+<f ds="venially"
+ meaning="in a pardonable manner, in a manner which may be excused; with regards to a minor sin (Roman Catholic Church)" />
+</V>
+<V>
+<f ds="venin"
+ meaning="poisonous substance found in snake venoms" />
+</V>
+<V>
+<f ds="venipuncture"
+ meaning="puncturing of a vein (Medicine)" />
+</V>
+<V>
+<f ds="venire"
+ meaning="judge&apos;s invitation to serve on a jury" />
+</V>
+<V>
+<f ds="venireman"
+ meaning="person requested by a judge to serve jury duty" />
+</V>
+<V>
+<f ds="venisection"
+ meaning="bloodletting, practice of drawing blood from a vein as a medical therapy, phlebotomy" />
+</V>
+<V>
+<f ds="venison"
+ meaning="deer meat" />
+</V>
+<V>
+<f ds="venography"
+ meaning="(Medicine) phlebography, method for examining a vein in which a radiopaque material in injected into the vein and a conventional x-ray image of the area is taken (used to detect blockages)" />
+</V>
+<V>
+<f ds="venom"
+ meaning="poison secreted by an animal through a bite or a sting (i.e. snake&apos;s bite, sting of a spider); spite" />
+</V>
+<V>
+<f ds="venomous snake"
+ meaning="poisonous snake" />
+</V>
+<V>
+<f ds="venomous"
+ meaning="spiteful, malignant; poisonous" />
+</V>
+<V>
+<f ds="venomously"
+ meaning="spitefully, malignantly; poisonously" />
+</V>
+<V>
+<f ds="venomousness"
+ meaning="poisonousness; hatefulness, viciousness, vindictiveness" />
+</V>
+<V>
+<f ds="venose"
+ meaning="veiny; having prominent veins" />
+</V>
+<V>
+<f ds="venosity"
+ meaning="state of being venose" />
+</V>
+<V>
+<f ds="venous blood"
+ meaning="blood in the veins returning to the heart" />
+</V>
+<V>
+<f ds="venous"
+ meaning="relating to or full of veins; pertaining to the blood in the veins that are returning to the heart (as oppose to the blood in the arteries that are leaving the heart)" />
+</V>
+<V>
+<f ds="vent fury"
+ meaning="express anger, release one&apos;s rage" />
+</V>
+<V>
+<f ds="vent"
+ meaning="opening for the release of air or gas, aperture; opening in an animal&apos;s body for the discharge of waste; means of release or expression (i.e. strong feelings, opinions, etc.); opening in a gun breech from which the charge is ignited" />
+</V>
+<V>
+<f ds="vent"
+ meaning="give expression to (strong feelings or opinions); release air or gas; provide with a vent" />
+</V>
+<V>
+<f ds="venter"
+ meaning="abdomen, belly (Anatomy, Zoology); uterus of a woman (Law)" />
+</V>
+<V>
+<f ds="ventifact"
+ meaning="rillstone, stone whose surface has been worn down by erosion caused by wind-driven sand (Geology)" />
+</V>
+<V>
+<f ds="ventilate"
+ meaning="provide with fresh air, air out, freshen; raise a point or question for discussion; supply the blood with oxygen" />
+</V>
+<V>
+<f ds="ventilation"
+ meaning="act of providing with fresh air, airing out, freshening; act of raising a point or question for discussion; oxygenation of the blood" />
+</V>
+<V>
+<f ds="ventilator"
+ meaning="fan, device which circulates the air; machine which helps a person breathe, respirator" />
+</V>
+<V>
+<f ds="ventilatory"
+ meaning="pertaining to ventilation" />
+</V>
+<V>
+<f ds="ventrad"
+ meaning="toward the abdomen" />
+</V>
+<V>
+<f ds="ventral"
+ meaning="of or near the belly" />
+</V>
+<V>
+<f ds="ventrally"
+ meaning="toward the abdomen" />
+</V>
+<V>
+<f ds="ventricle"
+ meaning="cavity in an organ or a body; one of the two main chambers of the heart; any of the four cavities of the brain" />
+</V>
+<V>
+<f ds="ventricose"
+ meaning="swollen, potbellied" />
+</V>
+<V>
+<f ds="ventricular"
+ meaning="of or pertaining to a ventricle or a ventriculus" />
+</V>
+<V>
+<f ds="ventriculus"
+ meaning="stomach of an insect; muscular digestive pouch of a bird" />
+</V>
+<V>
+<f ds="ventriloquism"
+ meaning="art of speaking so that the voice seems to come from a source other than the speaker" />
+</V>
+<V>
+<f ds="ventriloquist"
+ meaning="expert in ventriloquism, one who is skilled in the art of speaking so that the voice seems to come from a source other than the speaker" />
+</V>
+<V>
+<f ds="ventriloquy"
+ meaning="art of speaking so that the voice seems to come from a source other than the speaker" />
+</V>
+<V>
+<f ds="venture capital"
+ meaning="risk capital, money invested in a new business or the stocks of a new business" />
+</V>
+<V>
+<f ds="venture to say"
+ meaning="dare to say" />
+</V>
+<V>
+<f ds="venture"
+ meaning="take a risk in order to achieve a goal; dare to express something (even in the face of possible opposition); chance investing money in a risky but possibly lucrative business venture" />
+</V>
+<V>
+<f ds="venture"
+ meaning="risky undertaking, enterprise whose results are not certain; business undertaking which promises to bring great profit but involves a good deal of risk; amount invested or wagered" />
+</V>
+<V>
+<f ds="ventured his life"
+ meaning="risked his life, placed himself in great danger" />
+</V>
+<V>
+<f ds="venturer"
+ meaning="one who ventures, risk-taker, one who dares" />
+</V>
+<V>
+<f ds="venturesome"
+ meaning="open to taking risks; willing to experience new things; risky, dangerous" />
+</V>
+<V>
+<f ds="venturesomely"
+ meaning="in a venturesome manner" />
+</V>
+<V>
+<f ds="venturesomeness"
+ meaning="state of being willing to take risks or experience new things; riskiness" />
+</V>
+<V>
+<f ds="venturous"
+ meaning="willing to take risks, adventurous; risky, dangerous" />
+</V>
+<V>
+<f ds="venturously"
+ meaning="in a venturous manner; riskily; dangerously" />
+</V>
+<V>
+<f ds="venturousness"
+ meaning="riskiness; state of being willing to take risks or experience new things" />
+</V>
+<V>
+<f ds="venue"
+ meaning="scene or setting of an event; scene of the crime; place of trial; statement declaring that a trial is being held in the proper court" />
+</V>
+<V>
+<f ds="venular"
+ meaning="of venules, of small veins" />
+</V>
+<V>
+<f ds="venule"
+ meaning="small vein (especially leading from the capillaries to the veins); small vein in the wing of an insect or in a leaf" />
+</V>
+<V>
+<f ds="ver"
+ meaning="edition, variation" />
+</V>
+<V>
+<f ds="veracious"
+ meaning="honest, truthful; accurate" />
+</V>
+<V>
+<f ds="veraciously"
+ meaning="honestly, truthfully; accurately" />
+</V>
+<V>
+<f ds="veraciousness"
+ meaning="honestness, truthfulness; accurateness" />
+</V>
+<V>
+<f ds="veracity"
+ meaning="truthfulness, honesty; accuracy; something that is a truth" />
+</V>
+<V>
+<f ds="veranda"
+ meaning="open portico which is attached to the exterior of a building and is often roofed or partially enclosed, porch" />
+</V>
+<V>
+<f ds="verandah"
+ meaning="veranda, open portico which is attached to the exterior of a building and is often roofed or partially enclosed, porch" />
+</V>
+<V>
+<f ds="veratrine"
+ meaning="poisonous alkaloid substance extracted from the root of the veratrum or from sabadilla seeds (occasionally used in topical ointments to treat rheumatism and neuralgia)" />
+</V>
+<V>
+<f ds="verb analysis"
+ meaning="finding the root and tense of a verb" />
+</V>
+<V>
+<f ds="verb conjugation"
+ meaning="using a verb in its different forms" />
+</V>
+<V>
+<f ds="verb"
+ meaning="part of speech used to express action or state of being or the relationship between the subject and object in a sentence (Grammar)" />
+</V>
+<V>
+<f ds="verbage"
+ meaning="(Computer Slang) useless wordiness (combination of the words verbiage and garbage)" />
+</V>
+<V>
+<f ds="verbal abuse"
+ meaning="maltreating someone by speaking to them inappropriately" />
+</V>
+<V>
+<f ds="verbal agreement"
+ meaning="oral agreement, agreement made without any written documentation" />
+</V>
+<V>
+<f ds="verbal appeal"
+ meaning="verbal request, spoken request" />
+</V>
+<V>
+<f ds="verbal clause"
+ meaning="clause of a sentence that function as a verb (Grammar)" />
+</V>
+<V>
+<f ds="verbal contract"
+ meaning="contract made orally and not in writing" />
+</V>
+<V>
+<f ds="verbal memory"
+ meaning="memory of words and their meanings" />
+</V>
+<V>
+<f ds="verbal message"
+ meaning="spoken announcement, message that is spoken and not written" />
+</V>
+<V>
+<f ds="verbal noun"
+ meaning="gerund" />
+</V>
+<V>
+<f ds="verbal promise"
+ meaning="spoken pledge" />
+</V>
+<V>
+<f ds="verbal translation"
+ meaning="converting a word into a different language" />
+</V>
+<V>
+<f ds="verbal violence"
+ meaning="aggression that is expressed in words alone and not physically" />
+</V>
+<V>
+<f ds="verbal"
+ meaning="word derived from a verb (generally a noun or an adjective)" />
+</V>
+<V>
+<f ds="verbal"
+ meaning="expressed in words (as opposed to actions or pictures); spoken, oral; pertaining to verbs of words derived from verbs" />
+</V>
+<V>
+<f ds="verbalisation"
+ meaning="voicing, act of expressing in words (also verbalization)" />
+</V>
+<V>
+<f ds="verbalise"
+ meaning="express in words (especially orally); be verbose; (Grammar) make a word into a verb (also verbalize)" />
+</V>
+<V>
+<f ds="verbalism"
+ meaning="wording; verbal remark; verbal expression that has little meaning or pertinence; (Canada &amp; USA) manner by which something is expressed; verbiage; verbosity, use of excess of words" />
+</V>
+<V>
+<f ds="verbalist"
+ meaning="one who is skilled in the use of words; one who favors words over ideas or substance" />
+</V>
+<V>
+<f ds="verbalization"
+ meaning="act of expressing in words (especially orally); act of making a word into a verb (Grammar)" />
+</V>
+<V>
+<f ds="verbalize"
+ meaning="express in words (especially orally); be verbose; (Grammar) make a word into a verb (also verbalise)" />
+</V>
+<V>
+<f ds="verbally"
+ meaning="with words; orally; with regards to verbs or words derived from verbs" />
+</V>
+<V>
+<f ds="verbatim"
+ meaning="being characterized by use of the same words" />
+</V>
+<V>
+<f ds="verbatim"
+ meaning="word for word, with the identical words" />
+</V>
+<V>
+<f ds="verbena"
+ meaning="any of a number of plants cultivated for their five-petalled flowers and the lemon-scented oil which can be extracted from the leaves of some species" />
+</V>
+<V>
+<f ds="verbiage"
+ meaning="wordiness; style of verbal expression" />
+</V>
+<V>
+<f ds="verbless"
+ meaning="lacking verbs" />
+</V>
+<V>
+<f ds="verbolatry"
+ meaning="word-worship, worship of words, grammatolatry" />
+</V>
+<V>
+<f ds="verbomania"
+ meaning="excessive and incoherent speech, abnormal talkativeness" />
+</V>
+<V>
+<f ds="verbose"
+ meaning="wordy, long-winded, containing more words than necessary" />
+</V>
+<V>
+<f ds="verbosely"
+ meaning="in a verbose manner, loquaciously" />
+</V>
+<V>
+<f ds="verboseness"
+ meaning="state of being verbose, garrulousness, wordiness" />
+</V>
+<V>
+<f ds="verbosity"
+ meaning="excess of words, wordiness" />
+</V>
+<V>
+<f ds="verboten"
+ meaning="(from German) forbidden by law; not allowed, banned, prohibited" />
+</V>
+<V>
+<f ds="verbum sap"
+ meaning="(Latin) &quot;a word to the wise&quot;, one hint is enough to any wise person; no need to say more" />
+</V>
+<V>
+<f ds="verdancy"
+ meaning="greenness, state of being covered in green plants; state of being inexperienced" />
+</V>
+<V>
+<f ds="verdant"
+ meaning="green; covered with vegetation; inexperienced" />
+</V>
+<V>
+<f ds="verdantly"
+ meaning="like one who is inexperienced, like a novice; in green; with a cover of vegetation" />
+</V>
+<V>
+<f ds="verderer"
+ meaning="officer of the forests, overseer of forest lands (Medieval England)" />
+</V>
+<V>
+<f ds="verderership"
+ meaning="office of forest ranger in Medieval England" />
+</V>
+<V>
+<f ds="verderor"
+ meaning="officer of the forests, overseer of forest lands (Medieval England)" />
+</V>
+<V>
+<f ds="verdict"
+ meaning="judgment made by a jury, sentence; decision" />
+</V>
+<V>
+<f ds="verdigris"
+ meaning="green or greenish-blue incrustation that forms on copper and copper alloys due to oxidization" />
+</V>
+<V>
+<f ds="verdure"
+ meaning="greenness of vegetation; vegetation; fresh and healthy condition" />
+</V>
+<V>
+<f ds="verge"
+ meaning="edge, brink; wand, staff (especially one that indicates authority)" />
+</V>
+<V>
+<f ds="verge"
+ meaning="border, approach; border, be on the verge; tend towards, lean in a certain direction" />
+</V>
+<V>
+<f ds="verger"
+ meaning="officer who carries a verge or staff before a bishop; church official" />
+</V>
+<V>
+<f ds="vergilius"
+ meaning="male first name (Latin)" />
+</V>
+<V>
+<f ds="verifiability"
+ meaning="degree to which something can be verified" />
+</V>
+<V>
+<f ds="verifiable"
+ meaning="can be verified" />
+</V>
+<V>
+<f ds="verifiableness"
+ meaning="state of being verifiable" />
+</V>
+<V>
+<f ds="verifiably"
+ meaning="in a confirmable manner, in a manner that can be substantiated" />
+</V>
+<V>
+<f ds="verification"
+ meaning="confirmation, substantiation, proof" />
+</V>
+<V>
+<f ds="verificatory"
+ meaning="of verification" />
+</V>
+<V>
+<f ds="verified information"
+ meaning="data which is known to be correct and proven" />
+</V>
+<V>
+<f ds="verified"
+ meaning="proven to be true, confirmed, substantiated" />
+</V>
+<V>
+<f ds="verifier"
+ meaning="person or thing that verifies" />
+</V>
+<V>
+<f ds="verify"
+ meaning="confirm the truth of something; ascertain the truth of something (as by investigation); witness or swear to the truth of something (Law)" />
+</V>
+<V>
+<f ds="verily"
+ meaning="truly, surely (Archaic)" />
+</V>
+<V>
+<f ds="verisimilitude"
+ meaning="that which appears to be true; appearance of truth" />
+</V>
+<V>
+<f ds="verism"
+ meaning="belief that reality and truth must be accurately represented in literature and the arts (thereby legitimizing the use of vulgarity and/or obscenity)" />
+</V>
+<V>
+<f ds="veritable"
+ meaning="real, actual, authentic; substantial" />
+</V>
+<V>
+<f ds="veritably"
+ meaning="really, actually; substantially" />
+</V>
+<V>
+<f ds="veritas"
+ meaning="(Latin) &quot;Truth&quot;, goddess of truth and a daughter of Saturn (Roman Mythology); name given to the integrity of truthfulness that was deemed one of the main qualities that any good Roman should possess" />
+</V>
+<V>
+<f ds="verite"
+ meaning="truth (French)" />
+</V>
+<V>
+<f ds="verity"
+ meaning="quality of being true or in accordance with fact; truth, fact" />
+</V>
+<V>
+<f ds="verjuice"
+ meaning="sour juice from unripe fruit (grapes or apples); sour juice of crab apples; acid liquor made from verjuice (used in the past for cooking instead of vinegar); sourness of temper, sourness of disposition, tartness" />
+</V>
+<V>
+<f ds="vermeil"
+ meaning="vermilion red; gilded metal (such as silver, copper, bronze)" />
+</V>
+<V>
+<f ds="vermicelli"
+ meaning="pasta formed in long thin threads that are thinner than spaghetti" />
+</V>
+<V>
+<f ds="vermicidal"
+ meaning="killing worms" />
+</V>
+<V>
+<f ds="vermicide"
+ meaning="drug or poison for killing worms (especially parasitic intestinal worms)" />
+</V>
+<V>
+<f ds="vermicular"
+ meaning="pertaining to worms; shaped like worms or worm tracks; wormlike" />
+</V>
+<V>
+<f ds="vermiculate"
+ meaning="pertaining to worms; shaped like worms or worm tracks; wormlike" />
+</V>
+<V>
+<f ds="vermiculation"
+ meaning="wavy decoration resembling worms or worm tracks; condition or result of worm infestation; wavy wormlike movement (as of the intestines)" />
+</V>
+<V>
+<f ds="vermiculite"
+ meaning="any of various hydrated silica minerals which expand into worm-like shapes when exposed to heat and are used for heat insulation and as medium for plant growing" />
+</V>
+<V>
+<f ds="vermiform appendix"
+ meaning="part of the intestines" />
+</V>
+<V>
+<f ds="vermiform"
+ meaning="like a worm in shape or form" />
+</V>
+<V>
+<f ds="vermifugal"
+ meaning="fatal to worms, kills worms" />
+</V>
+<V>
+<f ds="vermifuge"
+ meaning="substance which kills worms" />
+</V>
+<V>
+<f ds="vermilion"
+ meaning="scarlet color; bright red pigment made from a chemical reaction between mercury and sulfur" />
+</V>
+<V>
+<f ds="vermillion"
+ meaning="Chinese red, scarlet color; bright red pigment made from a chemical reaction between mercury and sulfur, cinnabar, mercuric sulfide used to make a reddish pigment" />
+</V>
+<V>
+<f ds="vermillion"
+ meaning="of bright red color" />
+</V>
+<V>
+<f ds="vermin"
+ meaning="small harmful animals or insects that cause damage to crops and property and are often difficult to subdue (e.g. cockroaches, mice, flies)" />
+</V>
+<V>
+<f ds="vermination"
+ meaning="infestation of vermin" />
+</V>
+<V>
+<f ds="verminous"
+ meaning="infested with vermin; of or caused by vermin; repulsive" />
+</V>
+<V>
+<f ds="verminously"
+ meaning="in a verminous manner; with vermin; repulsively" />
+</V>
+<V>
+<f ds="vermis cerebelli"
+ meaning="(Anatomy) middle lobe of the cerebellum" />
+</V>
+<V>
+<f ds="vermis"
+ meaning="middle lobe of the cerebellum (Anatomy)" />
+</V>
+<V>
+<f ds="vermouth"
+ meaning="herb-flavored white wine used in cocktails and as an aperitif" />
+</V>
+<V>
+<f ds="vernacular"
+ meaning="local language of a particular place; regular spoken language (as opposed to literary language); speech that is characteristic to a certain field; ordinary terms for organisms that also have scientific names (Biology)" />
+</V>
+<V>
+<f ds="vernacular"
+ meaning="of or pertaining to the vernacular; in the local language; in ordinary terms" />
+</V>
+<V>
+<f ds="vernacularly"
+ meaning="with regards to the vernacular; with ordinary terms; in a native dialect" />
+</V>
+<V>
+<f ds="vernal weather"
+ meaning="springtime weather, pleasant sunny weather that is characteristic of the spring" />
+</V>
+<V>
+<f ds="vernal"
+ meaning="pertaining to spring; occurring in spring; youthful (Literary)" />
+</V>
+<V>
+<f ds="vernalisation"
+ meaning="acceleration of plant development by exposing seeds or bulbs to cold temperatures (also vernalization)" />
+</V>
+<V>
+<f ds="vernalise"
+ meaning="speed up the development process of a plant by exposing its seed or bulb to cold temperatures (also vernalize)" />
+</V>
+<V>
+<f ds="vernalization"
+ meaning="acceleration of plant development by exposing seeds or bulbs to cold temperatures (also vernalisation)" />
+</V>
+<V>
+<f ds="vernalize"
+ meaning="speed up the development process of a plant by exposing its seed or bulb to cold temperatures (also vernalise)" />
+</V>
+<V>
+<f ds="vernally"
+ meaning="occurring every spring; youthfully (Literary)" />
+</V>
+<V>
+<f ds="vernier scale"
+ meaning="short graduated scale that slides along a larger scale and is used to measure tiny distances falling between the divisions of the larger scale (invented by the French mathematician Pierre Vernier)" />
+</V>
+<V>
+<f ds="vernier"
+ meaning="Vernier scale, short graduated scale that measures fractions of divisions on fixed scale; device that provides a tool with a higher level of accuracy (Machinery)" />
+</V>
+<V>
+<f ds="vernissage"
+ meaning="private showing of works of art in an exhibition (before the official opening of the exhibition)" />
+</V>
+<V>
+<f ds="vernix"
+ meaning="vernix caseosa, fatty substance that covers the skin of a fetus" />
+</V>
+<V>
+<f ds="veronica"
+ meaning="shrub with small blue flowers; impression of Jesus&apos; face on a cloth with which St. Veronica allegedly wiped his face on the way to Calvary; picture of Jesus&apos; face on a cloth; bullfighting move entailing a stationary stance and a swing of the cape" />
+</V>
+<V>
+<f ds="verruca"
+ meaning="wart; wart-like projection on a leaf or the skin of an animal" />
+</V>
+<V>
+<f ds="verrucose"
+ meaning="covered with warts, warty" />
+</V>
+<V>
+<f ds="verrucosis"
+ meaning="profusion of warts (Pathology)" />
+</V>
+<V>
+<f ds="verrucous"
+ meaning="of warts; warty, covered in warts" />
+</V>
+<V>
+<f ds="verrugas plantares"
+ meaning="plantar warts" />
+</V>
+<V>
+<f ds="versatile"
+ meaning="fulfilling many functions, multi-purpose; skilled to do many things; changeable; moving freely in different directions (Biology)" />
+</V>
+<V>
+<f ds="versatilely"
+ meaning="in a versatile manner; with many abilities; in a freely moving fashion; changeably" />
+</V>
+<V>
+<f ds="versatileness"
+ meaning="state of being versatile; changeableness" />
+</V>
+<V>
+<f ds="versatility"
+ meaning="state of being versatile, state of having many abilities or functions" />
+</V>
+<V>
+<f ds="verse"
+ meaning="rhyme; stanza; poem; subdivision of a Biblical chapter" />
+</V>
+<V>
+<f ds="versed in"
+ meaning="knows much about, expert at" />
+</V>
+<V>
+<f ds="versed on a subject"
+ meaning="knowledgeable in an area, skilled in a subject" />
+</V>
+<V>
+<f ds="versed"
+ meaning="proficient, experienced, skilled, practiced" />
+</V>
+<V>
+<f ds="versicle"
+ meaning="short verse of liturgy (Christianity); short verse of poetry" />
+</V>
+<V>
+<f ds="versicolor"
+ meaning="having changing colors, diverse in color" />
+</V>
+<V>
+<f ds="versicolored"
+ meaning="having changing colors, diverse in color" />
+</V>
+<V>
+<f ds="versification"
+ meaning="writing of poems; meter, rhythm, weight (of poetry); conversion of prose into poetry; poetical version of a written work" />
+</V>
+<V>
+<f ds="versifier"
+ meaning="one who versifies" />
+</V>
+<V>
+<f ds="versify"
+ meaning="compose poetry; convert prose into poetry; put into verse" />
+</V>
+<V>
+<f ds="version update"
+ meaning="improving the functionality of an existing program and declaring a new version" />
+</V>
+<V>
+<f ds="version"
+ meaning="create a new version of something" />
+</V>
+<V>
+<f ds="version"
+ meaning="particular form of something, variant, rendering; translation; adaptation, novel that was recasted in a new form; (Medicine) act of changing direction, process of turning something; (Obstetrics) turning of a fetus in the womb using the hands to help the d" />
+</V>
+<V>
+<f ds="versional"
+ meaning="showing an account of one point of view, giving a particular form or translation of something" />
+</V>
+<V>
+<f ds="verso"
+ meaning="left-hand page; opposite side of a page or a coin" />
+</V>
+<V>
+<f ds="versus"
+ meaning="against, in contrast to" />
+</V>
+<V>
+<f ds="vert"
+ meaning="color green (Heraldry); green vegetation in a forest; right to cut down green vegetation (English Forest Law)" />
+</V>
+<V>
+<f ds="vertebra"
+ meaning="segments of bone which form the spinal column" />
+</V>
+<V>
+<f ds="vertebral column"
+ meaning="spinal column, spine, backbone" />
+</V>
+<V>
+<f ds="vertebral"
+ meaning="composed of or pertaining to vertebrae; having a spinal column" />
+</V>
+<V>
+<f ds="vertebrally"
+ meaning="with reference to a vertebra" />
+</V>
+<V>
+<f ds="vertebrate"
+ meaning="having a spinal column, belonging to the class of vertebrates" />
+</V>
+<V>
+<f ds="vertebrate"
+ meaning="something which has a spinal column, something which belongs to the class of vertebrates" />
+</V>
+<V>
+<f ds="vertebrated"
+ meaning="having a spinal column; sectional, linked" />
+</V>
+<V>
+<f ds="vertex"
+ meaning="peak, highest point, top, summit" />
+</V>
+<V>
+<f ds="vertical angles"
+ meaning="two opposite and equal angles formed by the intersection of two lines" />
+</V>
+<V>
+<f ds="vertical equity"
+ meaning="principle that people of different economic statuses should be taxed at different rates (Economics)" />
+</V>
+<V>
+<f ds="vertical frequency"
+ meaning="rate of updating, number of times in one second that the screen is scanned from top to bottom" />
+</V>
+<V>
+<f ds="vertical integration"
+ meaning="merger of companies that have a similar range of activity in marketing and production in order to gain more control in that range" />
+</V>
+<V>
+<f ds="vertical line"
+ meaning="line which is positioned upright" />
+</V>
+<V>
+<f ds="vertical merger"
+ meaning="(Economics) merger in which a company that supplies a component merges with a company that uses the component in its product (ex: computer manufacturer acquires microchip company)" />
+</V>
+<V>
+<f ds="vertical motion"
+ meaning="movement in a straight up and down direction" />
+</V>
+<V>
+<f ds="vertical section"
+ meaning="vertical cut, lengthwise portion" />
+</V>
+<V>
+<f ds="vertical speed indicator"
+ meaning="device used to measure the speed of a moving body" />
+</V>
+<V>
+<f ds="vertical stabilizer"
+ meaning="stabilizer that is part of an airplane empennage" />
+</V>
+<V>
+<f ds="vertical step"
+ meaning="step or movement in a straight up and down direction" />
+</V>
+<V>
+<f ds="vertical"
+ meaning="upright line; upright position" />
+</V>
+<V>
+<f ds="vertical"
+ meaning="upright, perpendicular; located at the vertex; pertaining to all stages of a product from design to sale (Economics); having a multi-level structure" />
+</V>
+<V>
+<f ds="verticality"
+ meaning="state of being vertical; condition of being straight up and down" />
+</V>
+<V>
+<f ds="vertically opposite angles"
+ meaning="two opposite and equal angles formed by the intersection of two lines" />
+</V>
+<V>
+<f ds="vertically"
+ meaning="uprightly, perpendicularly" />
+</V>
+<V>
+<f ds="vertically-challenged"
+ meaning="not tall, short" />
+</V>
+<V>
+<f ds="verticalness"
+ meaning="state of being vertical or perpendicular" />
+</V>
+<V>
+<f ds="verticil"
+ meaning="whorl, arrangement of parts in a circular fashion around a central point (as of leaves around a stem)" />
+</V>
+<V>
+<f ds="verticillate"
+ meaning="grouping of leaves or flowers arranged in a circular manner (Botany)" />
+</V>
+<V>
+<f ds="vertiginous"
+ meaning="causing a dizzying feeling; spinning about an axis; dizzy; changeable" />
+</V>
+<V>
+<f ds="vertiginously"
+ meaning="in a dizzying manner; with vertigo; changeably" />
+</V>
+<V>
+<f ds="vertigo"
+ meaning="feeling of dizziness; instance of feeling dizzy" />
+</V>
+<V>
+<f ds="vervain"
+ meaning="any of several plants that grow in temperate climates and are cultivated for their colorful flowers (of blue, purple, and white)" />
+</V>
+<V>
+<f ds="verve"
+ meaning="enthusiasm; energy" />
+</V>
+<V>
+<f ds="very bad"
+ meaning="very awful, extremely bad" />
+</V>
+<V>
+<f ds="very big grin"
+ meaning="very large smile" />
+</V>
+<V>
+<f ds="very briefly"
+ meaning="told in a sharp summary" />
+</V>
+<V>
+<f ds="very busy"
+ meaning="extremely busy, quite occupied, has a lot of work" />
+</V>
+<V>
+<f ds="very cautious"
+ meaning="very careful" />
+</V>
+<V>
+<f ds="very close"
+ meaning="extremely near physically or emotionally" />
+</V>
+<V>
+<f ds="very curious"
+ meaning="very strange, very unusual; eager to know" />
+</V>
+<V>
+<f ds="very dry"
+ meaning="arid, very hot" />
+</V>
+<V>
+<f ds="very easily"
+ meaning="with little difficulty, with ease" />
+</V>
+<V>
+<f ds="very fast"
+ meaning="very quick, extremely rapid" />
+</V>
+<V>
+<f ds="very fat"
+ meaning="very thick, very large, very wide, very obese; containing a lot of fat" />
+</V>
+<V>
+<f ds="very few"
+ meaning="extremely few, very little" />
+</V>
+<V>
+<f ds="very frequently"
+ meaning="extremely frequently, very often, at a very high frequency of occurrence" />
+</V>
+<V>
+<f ds="very good"
+ meaning="extremely good, very nice" />
+</V>
+<V>
+<f ds="very hard"
+ meaning="extremely strong or difficult; with all one&apos;s strength" />
+</V>
+<V>
+<f ds="very high frequency"
+ meaning="range of radio frequencies between 30 and 300 megahertz" />
+</V>
+<V>
+<f ds="very hungry"
+ meaning="feeling a very strong desire to eat, feeling the need to eat" />
+</V>
+<V>
+<f ds="very important person"
+ meaning="extremely important individual" />
+</V>
+<V>
+<f ds="very interesting"
+ meaning="extremely appealing; very fascinating" />
+</V>
+<V>
+<f ds="very late"
+ meaning="extremely tardy, long after the scheduled time" />
+</V>
+<V>
+<f ds="very light"
+ meaning="having a very low weight; having a bright or light-filled appearance" />
+</V>
+<V>
+<f ds="very likely"
+ meaning="extremely likely, highly reasonable, almost certainly" />
+</V>
+<V>
+<f ds="very little"
+ meaning="very small amount, very few, not many" />
+</V>
+<V>
+<f ds="very long"
+ meaning="having a great length; lengthy period of time" />
+</V>
+<V>
+<f ds="very long time"
+ meaning="vast amount of time, ages and ages" />
+</V>
+<V>
+<f ds="very much"
+ meaning="extremely; immensely, a lot" />
+</V>
+<V>
+<f ds="very much alive"
+ meaning="extremely active" />
+</V>
+<V>
+<f ds="very often"
+ meaning="very frequently, extremely often" />
+</V>
+<V>
+<f ds="very old"
+ meaning="elderly, aged; of a long time ago, very old-fashioned" />
+</V>
+<V>
+<f ds="very old man"
+ meaning="elderly man, male senior citizen" />
+</V>
+<V>
+<f ds="very poor"
+ meaning="dirt poor, pauper, person of meager means" />
+</V>
+<V>
+<f ds="very quickly"
+ meaning="very fast, extremely rapidly" />
+</V>
+<V>
+<f ds="very short"
+ meaning="not tall; very brief" />
+</V>
+<V>
+<f ds="very shortly"
+ meaning="in an extremely short period of time" />
+</V>
+<V>
+<f ds="very simple"
+ meaning="quite uncomplicated, very elementary, quite plain" />
+</V>
+<V>
+<f ds="very slowly"
+ meaning="at a extremely low rate of speed" />
+</V>
+<V>
+<f ds="very small"
+ meaning="quite little, miniature, tiny" />
+</V>
+<V>
+<f ds="very small amount"
+ meaning="extremely tiny quantity" />
+</V>
+<V>
+<f ds="very small amount of"
+ meaning="tiny bit of -, tad of -, tiny amount of -" />
+</V>
+<V>
+<f ds="very soon"
+ meaning="within a short period of time, in the near future" />
+</V>
+<V>
+<f ds="very strong"
+ meaning="extremely forceful or tough" />
+</V>
+<V>
+<f ds="very thin"
+ meaning="thin as a rail, extremely thin" />
+</V>
+<V>
+<f ds="very thirsty"
+ meaning="extremely thirsty, dying of thirst" />
+</V>
+<V>
+<f ds="very wealthy"
+ meaning="extremely affluent, very rich" />
+</V>
+<V>
+<f ds="very well"
+ meaning="excellently; great, fine, very good" />
+</V>
+<V>
+<f ds="very young"
+ meaning="very juvenile, in infancy" />
+</V>
+<V>
+<f ds="very"
+ meaning="particular, specific; absolute, complete; simple, mere; genuine; actual" />
+</V>
+<V>
+<f ds="very"
+ meaning="extremely, in an emphasized manner" />
+</V>
+<V>
+<f ds="vesica"
+ meaning="bladder" />
+</V>
+<V>
+<f ds="vesical"
+ meaning="of or related to the bladder" />
+</V>
+<V>
+<f ds="vesicant"
+ meaning="causing blisters to form" />
+</V>
+<V>
+<f ds="vesicant"
+ meaning="substance which causes blisters" />
+</V>
+<V>
+<f ds="vesicate"
+ meaning="raise blisters; cause the formation of blisters" />
+</V>
+<V>
+<f ds="vesication"
+ meaning="eruption of blisters, formation of blisters" />
+</V>
+<V>
+<f ds="vesicatory"
+ meaning="causing vesicles" />
+</V>
+<V>
+<f ds="vesicle"
+ meaning="bladder or bladder-like cavity; small blister filled with fluid; sac in the body, cyst (especially one filled with fluid); cavity formed in a rock by a pocket of gas that is trapped during the rock&apos;s formation (Geology)" />
+</V>
+<V>
+<f ds="vesicotomy"
+ meaning="incision of the urinary bladder" />
+</V>
+<V>
+<f ds="vesicular"
+ meaning="pertaining to or made up of vesicles" />
+</V>
+<V>
+<f ds="vesiculate"
+ meaning="blistered; covered with vesicles" />
+</V>
+<V>
+<f ds="vesiculate"
+ meaning="raise blisters; cause the formation of vesicles" />
+</V>
+<V>
+<f ds="vesiculation"
+ meaning="formation of vesicles; inducement of blisters" />
+</V>
+<V>
+<f ds="vesper"
+ meaning="evening star, planet Venus; evening (Archaic)" />
+</V>
+<V>
+<f ds="vesper"
+ meaning="bell which calls worshippers to evening prayer service (Christianity)" />
+</V>
+<V>
+<f ds="vesperal"
+ meaning="evening prayer book; altar cover" />
+</V>
+<V>
+<f ds="vesperal"
+ meaning="of vespers, of evening prayer" />
+</V>
+<V>
+<f ds="vespers"
+ meaning="evening prayer service (Christianity)" />
+</V>
+<V>
+<f ds="vespertine"
+ meaning="of evening; blooming in the evening (of plants), active in the evening (of animals)" />
+</V>
+<V>
+<f ds="vespiary"
+ meaning="wasp nest" />
+</V>
+<V>
+<f ds="vessel"
+ meaning="large craft made for navigation on water, boat, ship; container, receptacle (especially for holding liquids); tubular duct through which bodily fluids flow (e.g. blood vessel); one who has or demonstrates a certain quality" />
+</V>
+<V>
+<f ds="vest"
+ meaning="sleeveless garment that is usually worn over a shirt and often under a suit jacket, waistcoat; sleeveless garment worn for protection (i.e. life vest, bulletproof vest); undershirt (British); dickey, vestee" />
+</V>
+<V>
+<f ds="vest"
+ meaning="dress oneself or another (as with clerical garments); give authority and/or right of possession to someone (usually over an estate); grant certain rights or the control of something to a person or group of people" />
+</V>
+<V>
+<f ds="vestal virgin"
+ meaning="nun, virgin dedicated to the service of the Roman goddess Vesta" />
+</V>
+<V>
+<f ds="vestal"
+ meaning="virginal, modest, chaste, pure; of or pertaining to the goddess Vesta" />
+</V>
+<V>
+<f ds="vested interest"
+ meaning="title law, right of possession, tenure" />
+</V>
+<V>
+<f ds="vested interests"
+ meaning="special interest, concerned interest" />
+</V>
+<V>
+<f ds="vested right"
+ meaning="natural right, privilege which does not need proof" />
+</V>
+<V>
+<f ds="vested"
+ meaning="guaranteed by law; permanently endowed, inalienable; clothed or robed (especially in ecclesiastical vestments)" />
+</V>
+<V>
+<f ds="vestee"
+ meaning="decorative garment which is shaped like the front of a shirt and is worn underneath a jacket or sweater, dickey" />
+</V>
+<V>
+<f ds="vestibular"
+ meaning="of or related to corridor, of entrance" />
+</V>
+<V>
+<f ds="vestibule"
+ meaning="entrance hall just inside the front doors of a building; small cavity leading from one larger cavity or canal to another (Anatomy); closed passageway between two railroad cars" />
+</V>
+<V>
+<f ds="vestige"
+ meaning="sign, mark, trace; remnant; undeveloped remains of a body part or an organ that was healthy and functional in a previous stage of development (Biology)" />
+</V>
+<V>
+<f ds="vestigial"
+ meaning="of a vestige; of a remnant" />
+</V>
+<V>
+<f ds="vestigially"
+ meaning="residually, in a vestigial manner, in a manner pertaining to what remains" />
+</V>
+<V>
+<f ds="vestigium"
+ meaning="vestige, residual structure (Anatomy)" />
+</V>
+<V>
+<f ds="vestiture"
+ meaning="something which covers, clothing; coat (of fur); scales" />
+</V>
+<V>
+<f ds="vestlike"
+ meaning="resembling a vest, similar to a vest" />
+</V>
+<V>
+<f ds="vestment"
+ meaning="robe indicating rank or office; clerical garment (especially one worn during a religious ceremony)" />
+</V>
+<V>
+<f ds="vestry"
+ meaning="room in a church in which vestments or sacred vessels are stored; room in a church where meetings or classes are conducted; general meeting of the parishioners of a church" />
+</V>
+<V>
+<f ds="vestryman"
+ meaning="member of church committee" />
+</V>
+<V>
+<f ds="vesture"
+ meaning="apparel, clothing" />
+</V>
+<V>
+<f ds="vesture"
+ meaning="dress, clothe (Archaic)" />
+</V>
+<V>
+<f ds="vesuvian"
+ meaning="pertaining to Mount Vesuvius (in Italy); volcanic" />
+</V>
+<V>
+<f ds="vesuvianite"
+ meaning="type of mineral (silicate of calcium and aluminum)" />
+</V>
+<V>
+<f ds="vet"
+ meaning="expert in the medical treatment of animals, animal doctor" />
+</V>
+<V>
+<f ds="vet"
+ meaning="check, examine; medically examine an animal; practice veterinary medicine" />
+</V>
+<V>
+<f ds="vetch"
+ meaning="type of climbing plant" />
+</V>
+<V>
+<f ds="veteran soldier"
+ meaning="one who has served in the army for a long period of time" />
+</V>
+<V>
+<f ds="veteran"
+ meaning="soldier who has been serving in the armed forces for a long time and has much experience; former member of the armed forces; one who is seasoned and experienced in any area" />
+</V>
+<V>
+<f ds="veteran"
+ meaning="of or pertaining to veterans; experienced, seasoned" />
+</V>
+<V>
+<f ds="veterinarian"
+ meaning="expert in the medical treatment of animals, animal doctor" />
+</V>
+<V>
+<f ds="veterinary hospital"
+ meaning="place where animals are taken care of when sick" />
+</V>
+<V>
+<f ds="veterinary medicine"
+ meaning="branch of medicine that studies and deals with the diagnosis and treatment of animal diseases; medical treatment for animals" />
+</V>
+<V>
+<f ds="veterinary officer"
+ meaning="veterinarian, animal doctor, one who provides health care to animals" />
+</V>
+<V>
+<f ds="veterinary surgeon"
+ meaning="animal doctor, person who deals with the medical treatment of animals" />
+</V>
+<V>
+<f ds="veterinary"
+ meaning="veterinarian, expert in medical and surgical treatment of animals, animal doctor" />
+</V>
+<V>
+<f ds="veterinary"
+ meaning="pertaining to the medical treatment of animals" />
+</V>
+<V>
+<f ds="veto joining"
+ meaning="vote to to participation, refuse participation by a vote" />
+</V>
+<V>
+<f ds="veto"
+ meaning="authority to nullify the majority decision of a formal body; prohibition, authoritative nullification" />
+</V>
+<V>
+<f ds="veto"
+ meaning="nullify the majority decision of a formal body; prohibit, reject" />
+</V>
+<V>
+<f ds="vetoer"
+ meaning="one who vetoes a measure; one who prohibits" />
+</V>
+<V>
+<f ds="vex"
+ meaning="anger, irritate, exasperate; puzzle, confuse and concern" />
+</V>
+<V>
+<f ds="vexation"
+ meaning="state of being vexed; someone or something that vexes; act of vexing" />
+</V>
+<V>
+<f ds="vexatious claim"
+ meaning="petty claim that is only intended to annoy" />
+</V>
+<V>
+<f ds="vexatious"
+ meaning="annoying, irritating; puzzling, causing concern and confusion" />
+</V>
+<V>
+<f ds="vexatiously"
+ meaning="in a vexatious manner, annoyingly" />
+</V>
+<V>
+<f ds="vexatiousness"
+ meaning="quality of that which causes vexation" />
+</V>
+<V>
+<f ds="vexed"
+ meaning="angry, annoyed; troubled, confused and concerned" />
+</V>
+<V>
+<f ds="vexillological"
+ meaning="pertaining to the study of flags" />
+</V>
+<V>
+<f ds="vexillologist"
+ meaning="one who engages in the study of flags" />
+</V>
+<V>
+<f ds="vexillology"
+ meaning="study of flags" />
+</V>
+<V>
+<f ds="vexillum"
+ meaning="large upper petal of some plants (Botany); military flag carried by soldiers in ancient Rome" />
+</V>
+<V>
+<f ds="vexingly"
+ meaning="annoyingly, in a bothersome manner, in an irritating manner" />
+</V>
+<V>
+<f ds="vgc"
+ meaning="extremely good condition" />
+</V>
+<V>
+<f ds="via lactia"
+ meaning="milk duct" />
+</V>
+<V>
+<f ds="via media"
+ meaning="through the middle; golden path" />
+</V>
+<V>
+<f ds="via"
+ meaning="by way of, by means of" />
+</V>
+<V>
+<f ds="viability"
+ meaning="state of being viable; ability to sustain life outside the womb; feasibility (as of a plan or a venture)" />
+</V>
+<V>
+<f ds="viable"
+ meaning="capable of living; having a reasonable chance of succeeding, practical; having the ability to survive outside the uterus (of a fetus)" />
+</V>
+<V>
+<f ds="viably"
+ meaning="in a viable manner; feasibly; with the ability to survive outside the womb" />
+</V>
+<V>
+<f ds="viaduct"
+ meaning="long bridge built over columned arches which carries a road or a railroad across a valley or a river" />
+</V>
+<V>
+<f ds="vial"
+ meaning="small bottle or flask (especially for holding medicine)" />
+</V>
+<V>
+<f ds="viand"
+ meaning="foodstuff; delicacy" />
+</V>
+<V>
+<f ds="viands"
+ meaning="provisions; food provision" />
+</V>
+<V>
+<f ds="viaticum"
+ meaning="sacred bread and wine of the Holy Communion for those on the verge of death (Christianity); supplies or money for a long trip" />
+</V>
+<V>
+<f ds="vibe"
+ meaning="vibration, tremor (Slang); intuitive feeling, premonition" />
+</V>
+<V>
+<f ds="vibes"
+ meaning="atmosphere intuitively sensed, feelings projected by someone (Slang); musical instrument with electrically operated resonators, vibraphone" />
+</V>
+<V>
+<f ds="vibraharp"
+ meaning="musical instrument with electrically operated resonators, vibraphone" />
+</V>
+<V>
+<f ds="vibrance"
+ meaning="vitality, energy; pulse, throb" />
+</V>
+<V>
+<f ds="vibrancy"
+ meaning="vitality, essentiality, powerfulness, vigorousness" />
+</V>
+<V>
+<f ds="vibrant"
+ meaning="pulsating with energy, filled with action; lively, stimulating; characterized by rapid movement, vibrating; resonating; bright" />
+</V>
+<V>
+<f ds="vibrantly"
+ meaning="in a vibrant manner; energetically; vivaciously; with resonance" />
+</V>
+<V>
+<f ds="vibraphone"
+ meaning="musical instrument with electrically operated resonators" />
+</V>
+<V>
+<f ds="vibrate"
+ meaning="move back and forth rapidly, oscillate; experience a pulsation, tremble; make a sound by vibrating, resonate; be stirred by a moment of deep emotion" />
+</V>
+<V>
+<f ds="vibration"
+ meaning="act of vibrating; process of being vibrated; single oscillation; atmosphere intuitively sensed, feelings projected by someone (Slang)" />
+</V>
+<V>
+<f ds="vibrational"
+ meaning="characterized by vibration; of or pertaining to vibration" />
+</V>
+<V>
+<f ds="vibrato"
+ meaning="tremulous musical effect caused by rapid changes in pitch" />
+</V>
+<V>
+<f ds="vibrator"
+ meaning="any of various instruments causing a vibratory action; device for vibratory massage; vibrating electrical device used for sexual stimulation" />
+</V>
+<V>
+<f ds="vibratory"
+ meaning="capable of vibrating; characterized by vibration" />
+</V>
+<V>
+<f ds="vibrio"
+ meaning="any of a number of self-propelled comma-shaped bacteria of which some species cause cholera" />
+</V>
+<V>
+<f ds="vibriosis"
+ meaning="venereal disease in cattle and sheep which often causes infertility or natural abortions" />
+</V>
+<V>
+<f ds="vibrissa"
+ meaning="stiff sensory hairs or whiskers on the face of a mammal (e.g. hairs in the nostrils of a human); bristly feathers near the beak of an insect-eating bird" />
+</V>
+<V>
+<f ds="viburnum"
+ meaning="evergreen tree or bush with small clusters of white flowers that sometimes have pink edges" />
+</V>
+<V>
+<f ds="vicar"
+ meaning="priest who serves in various substitute capacities in different Christian denominations" />
+</V>
+<V>
+<f ds="vicarage"
+ meaning="vicar&apos;s house; position or office of a vicar" />
+</V>
+<V>
+<f ds="vicarial"
+ meaning="of or related to vicar; in a substituting capacity" />
+</V>
+<V>
+<f ds="vicariate"
+ meaning="office or position of vicar; vicar" />
+</V>
+<V>
+<f ds="vicarious liability"
+ meaning="liability that is assigned or accepted on behalf of another person" />
+</V>
+<V>
+<f ds="vicarious performance"
+ meaning="execution of an action by investing someone else with the authority to act" />
+</V>
+<V>
+<f ds="vicarious"
+ meaning="indirect, through another; performed for or experienced by one person in place of another; substituted, delegated; happening in an unusual part of the body (Physiology)" />
+</V>
+<V>
+<f ds="vicariously"
+ meaning="in a vicarious manner; indirectly; via substitution" />
+</V>
+<V>
+<f ds="vicariousness"
+ meaning="being a replacement; state of being vicarious" />
+</V>
+<V>
+<f ds="vicarius non habet vicarium"
+ meaning="legal rule that forbids a legal representative from transferring the power of attorney to a third party" />
+</V>
+<V>
+<f ds="vice chairman"
+ meaning="deputy chairman, subsidiary to the chairman, takes over in the chairman&apos;s absence" />
+</V>
+<V>
+<f ds="vice commander"
+ meaning="deputy commander, commander&apos;s aid on every level who can act in his name and in his stead" />
+</V>
+<V>
+<f ds="vice consul"
+ meaning="deputy consul, assistant to the consul" />
+</V>
+<V>
+<f ds="vice president"
+ meaning="second in command to the president" />
+</V>
+<V>
+<f ds="vice squad"
+ meaning="police force division that deals with moral issues" />
+</V>
+<V>
+<f ds="vice versa"
+ meaning="the opposite, the relation being reversed" />
+</V>
+<V>
+<f ds="vice"
+ meaning="character of a buffoon in a morality play" />
+</V>
+<V>
+<f ds="vice"
+ meaning="act of moral corruption; depravity; fault in one&apos;s personal character; physical blemish, deformity; sexual immorality (particularly prostitution); bad habit displayed by a domestic animal" />
+</V>
+<V>
+<f ds="vice"
+ meaning="instead of, in place of" />
+</V>
+<V>
+<f ds="vice"
+ meaning="in place of, deputy" />
+</V>
+<V>
+<f ds="vice-admiral"
+ meaning="naval officer of the rank one lower than admiral" />
+</V>
+<V>
+<f ds="vice-chancellor"
+ meaning="vice president, person who is one rank lower than president; person who is one rank lower than chancellor" />
+</V>
+<V>
+<f ds="vice-consulship"
+ meaning="position of one who is ranked just lower than a consul" />
+</V>
+<V>
+<f ds="vice-presidency"
+ meaning="main authoritative power when the president is lacking" />
+</V>
+<V>
+<f ds="vice-presidential"
+ meaning="of the vice president" />
+</V>
+<V>
+<f ds="vice-principal"
+ meaning="second in charge after the headmaster of an educational institution" />
+</V>
+<V>
+<f ds="vicegerency"
+ meaning="position of vicegerent, position of the delegate of a king" />
+</V>
+<V>
+<f ds="vicegerent"
+ meaning="representative of the ruler, one to whom the monarch has delegated authority" />
+</V>
+<V>
+<f ds="vicennial"
+ meaning="once every 20 years" />
+</V>
+<V>
+<f ds="viceregal"
+ meaning="pertaining to a viceroy, pertaining to a king&apos;s deputy" />
+</V>
+<V>
+<f ds="viceregally"
+ meaning="like a viceroy, like a deputy to a king" />
+</V>
+<V>
+<f ds="viceroy"
+ meaning="province governor who represents the king; orange and black butterfly that is native to North America and somewhat resembles the monarch" />
+</V>
+<V>
+<f ds="viceroyalty"
+ meaning="office or authority of the viceroy; area ruled by a viceroy" />
+</V>
+<V>
+<f ds="vichyssoise"
+ meaning="creamy soup made with potatoes and leeks" />
+</V>
+<V>
+<f ds="vicinage"
+ meaning="area; proximity; neighborhood" />
+</V>
+<V>
+<f ds="vicinal"
+ meaning="of or related to an area; close by, adjacent, neighboring" />
+</V>
+<V>
+<f ds="vicinity"
+ meaning="proximity, nearby area, environs, neighborhood" />
+</V>
+<V>
+<f ds="vicious attack"
+ meaning="brutal assault" />
+</V>
+<V>
+<f ds="vicious circle"
+ meaning="neverending cycle, situation that one cannot escape from or change, cycle of action and reaction that repeats itself over and over again; chain of events wherein the reaction to one difficulty produces a new problem that markes the original difficulty wor" />
+</V>
+<V>
+<f ds="vicious rumor"
+ meaning="malicious rumor, malicious gossip" />
+</V>
+<V>
+<f ds="vicious"
+ meaning="evil, spiteful; ferocious, fierce; faulty in character" />
+</V>
+<V>
+<f ds="viciously"
+ meaning="in a vicious manner; ferociously; spitefully; faultily" />
+</V>
+<V>
+<f ds="viciousness"
+ meaning="quality of being vicious; cruelty, wickedness" />
+</V>
+<V>
+<f ds="vicissitude"
+ meaning="unpredictable changes (especially during the course of a lifetime); variability; hardship during a lifetime" />
+</V>
+<V>
+<f ds="vicissitudes of fate"
+ meaning="ups and downs of fate, sudden changes that occur to a person or society" />
+</V>
+<V>
+<f ds="vicissitudes"
+ meaning="unexpected changes (especially in a person&apos;s future events or fate or destiny)" />
+</V>
+<V>
+<f ds="vicontiel"
+ meaning="pertaining to a viscount" />
+</V>
+<V>
+<f ds="victim of abuse"
+ meaning="one who has been mistreated, one who is mistreated" />
+</V>
+<V>
+<f ds="victim of an attack"
+ meaning="one who was assaulted, one who has been attacked" />
+</V>
+<V>
+<f ds="victim of circumstances"
+ meaning="someone who was harmed by the existing circumstances" />
+</V>
+<V>
+<f ds="victim"
+ meaning="one who falls prey (to an attack, deception, etc.)" />
+</V>
+<V>
+<f ds="victimisation"
+ meaning="becoming a victim; damaging; punishing (alternate spelling for victimization)" />
+</V>
+<V>
+<f ds="victimise"
+ meaning="discriminate against, exploit, persecute; make a victim of; cheat, swindle; slay as or like a sacrificial victim; punish unfairly (also victimize)" />
+</V>
+<V>
+<f ds="victimiser"
+ meaning="person who makes a victim out of another, abuser, maltreater (also victimizer)" />
+</V>
+<V>
+<f ds="victimization"
+ meaning="becoming a victim; act or instance of victimizing" />
+</V>
+<V>
+<f ds="victimize"
+ meaning="discriminate against, exploit, persecute; make a victim of; cheat, swindle; slay as or like a sacrificial victim; punish unfairly (also victimise)" />
+</V>
+<V>
+<f ds="victimizer"
+ meaning="person who makes a victim out of another, abuser, maltreater (also victimiser)" />
+</V>
+<V>
+<f ds="victimless"
+ meaning="without a victim, without a dupe" />
+</V>
+<V>
+<f ds="victims of hostilities"
+ meaning="people which have been affected by terrorist activity, people who terrorists use to achieve their goals" />
+</V>
+<V>
+<f ds="victor"
+ meaning="winner, conqueror, hero" />
+</V>
+<V>
+<f ds="victoria plum"
+ meaning="large red plum that is usually served as dessert" />
+</V>
+<V>
+<f ds="victorious"
+ meaning="triumphant, winning, successful; characterized by or pertaining to victory" />
+</V>
+<V>
+<f ds="victoriously"
+ meaning="triumphantly, successfully, in a victorious manner" />
+</V>
+<V>
+<f ds="victoriousness"
+ meaning="state or quality of being victorious, triumph, success" />
+</V>
+<V>
+<f ds="victory medal"
+ meaning="special award received for winning in a competition" />
+</V>
+<V>
+<f ds="victory parade"
+ meaning="special march which occurs after winning in an event" />
+</V>
+<V>
+<f ds="victory rally"
+ meaning="gathering in order to celebrate a win" />
+</V>
+<V>
+<f ds="victory"
+ meaning="triumph over an opponent; instance of defeating an opponent; success in the face of a challenge or a struggle" />
+</V>
+<V>
+<f ds="victress"
+ meaning="female victor, woman who wins, female winner" />
+</V>
+<V>
+<f ds="victual"
+ meaning="comestible, food, things which can be eaten; article of food; food provision" />
+</V>
+<V>
+<f ds="victual"
+ meaning="supply with food" />
+</V>
+<V>
+<f ds="victualer"
+ meaning="one who supplies with food; owner of inn; supply-carrying ship" />
+</V>
+<V>
+<f ds="victualler"
+ meaning="one who supplies with food; owner of inn; supply-carrying ship" />
+</V>
+<V>
+<f ds="victualling"
+ meaning="act of supplying with food" />
+</V>
+<V>
+<f ds="victuals"
+ meaning="viands; provisions, food provision" />
+</V>
+<V>
+<f ds="vicugna"
+ meaning="mammal similar to the llama but smaller with thick coat of fine reddish brown wool and long hanging white hair on the breast and belly (native to the Andes mountains in South America)" />
+</V>
+<V>
+<f ds="vicuna"
+ meaning="silky-fleeced ruminant mammal which is similar to the llama and is native to the Andes mountains in South America" />
+</V>
+<V>
+<f ds="vid"
+ meaning="videotape, magnetic tape than can store visual and sound information (Slang)" />
+</V>
+<V>
+<f ds="vide infra"
+ meaning="see below" />
+</V>
+<V>
+<f ds="vide supra"
+ meaning="see above" />
+</V>
+<V>
+<f ds="vide"
+ meaning="(Latin) see (word used to refer readers to a different place in the text)" />
+</V>
+<V>
+<f ds="videlicet"
+ meaning="in other words, that is (Latin)" />
+</V>
+<V>
+<f ds="video adapter"
+ meaning="graphics card, expansion board which is responsible for transferring pictures to on-screen display" />
+</V>
+<V>
+<f ds="video arcade"
+ meaning="place offering video games; video game room" />
+</V>
+<V>
+<f ds="video camera"
+ meaning="camera which can record both motion pictures and sound for viewing on television" />
+</V>
+<V>
+<f ds="video cassette"
+ meaning="cassette on which motion pictures and sound are recorded" />
+</V>
+<V>
+<f ds="video cast"
+ meaning="streaming video presentation" />
+</V>
+<V>
+<f ds="video chat"
+ meaning="conversation held between two or more participants in which a web camera is used so that each participant can see the face of the other participants via the Internet" />
+</V>
+<V>
+<f ds="video clip"
+ meaning="small segment of a video recording" />
+</V>
+<V>
+<f ds="video disk"
+ meaning="compact disc containing video data" />
+</V>
+<V>
+<f ds="video game"
+ meaning="game played on a television or computer" />
+</V>
+<V>
+<f ds="video graphic adaptor"
+ meaning="special computer card which gives a computer enhanced graphical capabilities and improved colors" />
+</V>
+<V>
+<f ds="video recorder"
+ meaning="device used to record and play videos, video player" />
+</V>
+<V>
+<f ds="video screen"
+ meaning="special surface onto which videos are projected" />
+</V>
+<V>
+<f ds="video tape"
+ meaning="cassette for the recording or viewing of amateur or professional motion pictures on a television screen; film designed for viewing on a VCR (video cassette recorder)" />
+</V>
+<V>
+<f ds="video"
+ meaning="visual part of a film or television (excluding the sound); medium of television; video cassette (Informal); short film made to go along with a song, music video" />
+</V>
+<V>
+<f ds="video"
+ meaning="relating to the transmission or reception of a televised image" />
+</V>
+<V>
+<f ds="videocamera"
+ meaning="camera which can record both motion pictures and sound for viewing on television" />
+</V>
+<V>
+<f ds="videocassette library"
+ meaning="library containing videocassettes" />
+</V>
+<V>
+<f ds="videocassette"
+ meaning="cassette for the recording or viewing of motion pictures on a television screen" />
+</V>
+<V>
+<f ds="videoconference"
+ meaning="discussion in which the parties are located in different places but are able to see one another via a telecommunication network" />
+</V>
+<V>
+<f ds="videoconferencing"
+ meaning="system which enables to hold a meeting or conference among people at remote places via video" />
+</V>
+<V>
+<f ds="videodisc"
+ meaning="disc on which images and sounds are stored to be read by a laser, optical disk" />
+</V>
+<V>
+<f ds="videogame"
+ meaning="game played on an electronic device with a screen" />
+</V>
+<V>
+<f ds="videomat"
+ meaning="vending machines for rental of videos and DVDs" />
+</V>
+<V>
+<f ds="videophile"
+ meaning="person who has great passion for and collects video or radio or television or newspaper equipment and items" />
+</V>
+<V>
+<f ds="videophone"
+ meaning="telephone that can transmit and receive both visual image and sound" />
+</V>
+<V>
+<f ds="videotape"
+ meaning="cassette for the recording or viewing of amateur or professional motion pictures on a television screen; film designed for viewing on a VCR (video cassette recorder)" />
+</V>
+<V>
+<f ds="videotape"
+ meaning="record motion pictures on a video tape, film with a video camera" />
+</V>
+<V>
+<f ds="videotelephone"
+ meaning="telephone that can transmit and receive both visual image and sound" />
+</V>
+<V>
+<f ds="videotext"
+ meaning="broadcasting of textual information via cable television" />
+</V>
+<V>
+<f ds="viduity"
+ meaning="widowhood" />
+</V>
+<V>
+<f ds="vie"
+ meaning="contend, compete" />
+</V>
+<V>
+<f ds="view finder"
+ meaning="small telescope, small magnifying eyepiece" />
+</V>
+<V>
+<f ds="view vision"
+ meaning="area that one can see from a specific standpoint" />
+</V>
+<V>
+<f ds="view with a friendly eye"
+ meaning="look at in a open and non-threatening manner" />
+</V>
+<V>
+<f ds="view with a jaundiced eye"
+ meaning="be jealous, be envious" />
+</V>
+<V>
+<f ds="view"
+ meaning="vista, scenery, sight; opinion, outlook; gaze, look; field of vision; in Computers display of a certain point of view of a three-dimensional image in CAD/CAM programs (Computers)" />
+</V>
+<V>
+<f ds="view"
+ meaning="see; observe; regard" />
+</V>
+<V>
+<f ds="viewable"
+ meaning="visible, able to be seen; worthy of being watched" />
+</V>
+<V>
+<f ds="viewer"
+ meaning="spectator; displayer, program which allows the displaying of certain types of files (Computers)" />
+</V>
+<V>
+<f ds="viewfinder"
+ meaning="device on a camera that shows the photographer which images are included in the picture" />
+</V>
+<V>
+<f ds="viewing habits"
+ meaning="individual habits pertaining to television viewing (such as the usual viewing times, favorite programs, average length of time spent watching television, etc.)" />
+</V>
+<V>
+<f ds="viewing"
+ meaning="observing, seeing" />
+</V>
+<V>
+<f ds="viewpoint"
+ meaning="point of view, standpoint, position; observation point" />
+</V>
+<V>
+<f ds="viewshaft"
+ meaning="scenery of sea or lake or mountains that can be seen between edifices or buildings" />
+</V>
+<V>
+<f ds="vigesimal"
+ meaning="of or counted in segments of twenty; twentieth" />
+</V>
+<V>
+<f ds="vigil"
+ meaning="period of wakefulness during the night (particularly for the purpose of watching or guarding); time of prayer on the eve of a religious holiday" />
+</V>
+<V>
+<f ds="vigilance committee"
+ meaning="police force composed of volunteers" />
+</V>
+<V>
+<f ds="vigilance"
+ meaning="state of being watchful and alert (especially to the possibility of danger)" />
+</V>
+<V>
+<f ds="vigilant"
+ meaning="diligently alert and watchful (especially to the possibility of danger)" />
+</V>
+<V>
+<f ds="vigilante"
+ meaning="one who takes the law into his own hands; volunteer on a vigilance committee" />
+</V>
+<V>
+<f ds="vigilantism"
+ meaning="actions and principles of a vigilance committee; characteristic behavior and attitudes of a vigilante" />
+</V>
+<V>
+<f ds="vigilantly"
+ meaning="in a vigilant manner, watchfully, alertly" />
+</V>
+<V>
+<f ds="vigilantness"
+ meaning="quality of being vigilant" />
+</V>
+<V>
+<f ds="vigneron"
+ meaning="one who cultivates vines for winemaking, winegrower, vineyard owner and winemaker" />
+</V>
+<V>
+<f ds="vignette"
+ meaning="brief elegant characterization of a scene or a person (in written, musical, or dramatic form); picture that fades at the edges without a defined border; decorative illustration in various places in a book (e.g. beginning or end of a chapter)" />
+</V>
+<V>
+<f ds="vignette"
+ meaning="describe a scene or a person in a brief elegant fashion; make the edges of a picture fade gently into the background" />
+</V>
+<V>
+<f ds="vignettist"
+ meaning="one who creates vignettes" />
+</V>
+<V>
+<f ds="vigor"
+ meaning="physical strength; ability to survive (as of plants and animals); energy, vitality" />
+</V>
+<V>
+<f ds="vigorish"
+ meaning="surcharge on bets; interest on a payment (Slang)" />
+</V>
+<V>
+<f ds="vigorous opposition"
+ meaning="strong disapproval, great objection that cannot be compromised" />
+</V>
+<V>
+<f ds="vigorous"
+ meaning="robust, strong; energetic, active" />
+</V>
+<V>
+<f ds="vigorously"
+ meaning="in a vigorous manner, energetically, forcefully" />
+</V>
+<V>
+<f ds="vigorousness"
+ meaning="quality of being vigorous; forcefulness, strength; vitality, robustness, energy" />
+</V>
+<V>
+<f ds="vihara"
+ meaning="Buddhist monastery or temple" />
+</V>
+<V>
+<f ds="viking"
+ meaning="one of the Scandinavian seagoing peoples that raided the northwestern European coast in the 8th-10th centuries" />
+</V>
+<V>
+<f ds="vile"
+ meaning="filthy; repulsive; needy; morally depraved; of poor quality" />
+</V>
+<V>
+<f ds="vileness"
+ meaning="quality of being vile; depravity; indigence; offensiveness" />
+</V>
+<V>
+<f ds="vilification"
+ meaning="slander" />
+</V>
+<V>
+<f ds="vilifier"
+ meaning="slanderer, defamer" />
+</V>
+<V>
+<f ds="vilify"
+ meaning="slander, defame" />
+</V>
+<V>
+<f ds="vilifyingly"
+ meaning="slanderously, in a defamatory manner" />
+</V>
+<V>
+<f ds="vilipend"
+ meaning="contemn, treat with contempt; despise; disparage, slight" />
+</V>
+<V>
+<f ds="vill"
+ meaning="village, small rural settlement; township, ancient territorial division in England that determined administrative regions" />
+</V>
+<V>
+<f ds="villa"
+ meaning="country house with a garden, country estate, large suburban residence" />
+</V>
+<V>
+<f ds="village fool"
+ meaning="one who behaves foolishly at every opportunity" />
+</V>
+<V>
+<f ds="village"
+ meaning="small rural town; people who live in a small rural town" />
+</V>
+<V>
+<f ds="villager"
+ meaning="peasant, one who lives in a village" />
+</V>
+<V>
+<f ds="villain"
+ meaning="scoundrel, wicked person; scoundrel in a story or play" />
+</V>
+<V>
+<f ds="villainess"
+ meaning="female scoundrel or wicked person; female scoundrel in a story or play" />
+</V>
+<V>
+<f ds="villainous"
+ meaning="wicked, sinful; loathsome, abhorrent" />
+</V>
+<V>
+<f ds="villainously"
+ meaning="sinfully, wickedly; abhorrently" />
+</V>
+<V>
+<f ds="villainousness"
+ meaning="wickedness; quality of being abhorrent" />
+</V>
+<V>
+<f ds="villainy"
+ meaning="conduct or character of a villain; wicked act; depravity" />
+</V>
+<V>
+<f ds="villein"
+ meaning="serf, indentured servant, vassal, servant who is bound to a feudal lord and can be transferred with the estate; (Law) type of slave during the feudal era" />
+</V>
+<V>
+<f ds="villeinage"
+ meaning="status of villein; valid land tenure by which a villein held land; base bondage" />
+</V>
+<V>
+<f ds="villose"
+ meaning="hairy, shaggy" />
+</V>
+<V>
+<f ds="villosity"
+ meaning="hairiness, shagginess" />
+</V>
+<V>
+<f ds="villous"
+ meaning="hairy, covered with tiny hairs" />
+</V>
+<V>
+<f ds="villously"
+ meaning="in a villous manner" />
+</V>
+<V>
+<f ds="villus"
+ meaning="small vascular processes, small projections (Anatomy, Botany)" />
+</V>
+<V>
+<f ds="vim"
+ meaning="vitality, enthusiasm, spunk" />
+</V>
+<V>
+<f ds="vinaceous"
+ meaning="similar to wine; containing wine; of nature of the wine; reddish, ruddy, red wine-colored" />
+</V>
+<V>
+<f ds="vinaigrette sauce"
+ meaning="salad dressing made on a base of vinegar and oil" />
+</V>
+<V>
+<f ds="vinaigrette"
+ meaning="salad dressing made from vinegar and oil and various spices; perforated box or bottle for pleasant smelling substances" />
+</V>
+<V>
+<f ds="vincible"
+ meaning="conquerable, defeatable" />
+</V>
+<V>
+<f ds="vinculum"
+ meaning="tie, bond; line appearing above two terms showing that they should be considered as one entity (Mathematics); ligaments which limit the movement of an organ (Anatomy)" />
+</V>
+<V>
+<f ds="vindaloo"
+ meaning="very hot curry sauce (made with red chili, ginger, cumin seeds, tamarind and other spices); meat or fish dish of southern and central India made with this spicy curry sauce" />
+</V>
+<V>
+<f ds="vindicable"
+ meaning="able to be justified, defendable" />
+</V>
+<V>
+<f ds="vindicate"
+ meaning="justify; acquit, exonerate, absolve" />
+</V>
+<V>
+<f ds="vindication"
+ meaning="justification; proof of innocence, acquittal; defense used in an argument" />
+</V>
+<V>
+<f ds="vindicative"
+ meaning="vindicating; of vindication; punishing" />
+</V>
+<V>
+<f ds="vindicator"
+ meaning="one who vindicates; one who successfully maintains a cause" />
+</V>
+<V>
+<f ds="vindicatory"
+ meaning="justifying, defending; punishing" />
+</V>
+<V>
+<f ds="vindictive action"
+ meaning="revenge, retaliatory act" />
+</V>
+<V>
+<f ds="vindictive behavior"
+ meaning="revenge, retaliatory behavior" />
+</V>
+<V>
+<f ds="vindictive"
+ meaning="spiteful; revengeful; of an overly harsh punishment given to a defendant in order to compensate the victim of a crime (Law)" />
+</V>
+<V>
+<f ds="vindictively"
+ meaning="in a vindictive manner; spitefully; while seeking revenge" />
+</V>
+<V>
+<f ds="vindictiveness"
+ meaning="quality of being vindictive; spitefulness" />
+</V>
+<V>
+<f ds="vine clad"
+ meaning="covered with vines" />
+</V>
+<V>
+<f ds="vine pergola"
+ meaning="frame which has vine growing on it" />
+</V>
+<V>
+<f ds="vine"
+ meaning="plant which creeps or climbs as it grows; stem of a climbing plant; grapevine" />
+</V>
+<V>
+<f ds="vine-grower"
+ meaning="one who cultivates vines" />
+</V>
+<V>
+<f ds="vinedresser"
+ meaning="one who cultivates grapevines" />
+</V>
+<V>
+<f ds="vinegar"
+ meaning="acidic liquid that is made from a natural fermentation process and is often used for cooking and as a condiment; sourness; vitality" />
+</V>
+<V>
+<f ds="vinegary"
+ meaning="sour, of or related to vinegar" />
+</V>
+<V>
+<f ds="vinelike"
+ meaning="resembling a vine, similar to a vine" />
+</V>
+<V>
+<f ds="vineyard"
+ meaning="place where grapevines are cultivated" />
+</V>
+<V>
+<f ds="vinic"
+ meaning="of or related to wine" />
+</V>
+<V>
+<f ds="viniculture"
+ meaning="cultivation of grapevines for the purpose of producing wine, viticulture" />
+</V>
+<V>
+<f ds="vino"
+ meaning="(Italian and Spanish) wine; fermented grape juice; cheap wine (Slang)" />
+</V>
+<V>
+<f ds="vinous"
+ meaning="of or related to wine" />
+</V>
+<V>
+<f ds="vintage car"
+ meaning="old car that was built between the years 1919 and 1930" />
+</V>
+<V>
+<f ds="vintage wine"
+ meaning="fine wine, quality wine, very old wine" />
+</V>
+<V>
+<f ds="vintage"
+ meaning="harvest grapes to make wine; gather grapes for wine-making; make wine from grapes" />
+</V>
+<V>
+<f ds="vintage"
+ meaning="wine from a particular harvest; act of gathering ripe grapes; year in which the grapes of a particular wine were harvested; particularly excellent bottle or year and make of wine; group of similar people or things from the same time period" />
+</V>
+<V>
+<f ds="vintage"
+ meaning="choice, high quality; classic; from a good year" />
+</V>
+<V>
+<f ds="vintager"
+ meaning="one who harvests grapes, worker in a vineyard" />
+</V>
+<V>
+<f ds="vintner"
+ meaning="one who sells wines; one who makes wine" />
+</V>
+<V>
+<f ds="vinyl"
+ meaning="synthetic plastic material made from polymerized resin, group of organic compounds" />
+</V>
+<V>
+<f ds="vinylbenzene"
+ meaning="styrene, substance used to manufacture synthetic rubber (Chemistry)" />
+</V>
+<V>
+<f ds="viol"
+ meaning="six-stringed violin-shaped instrument from the 16th and 17th centuries" />
+</V>
+<V>
+<f ds="viola da gamba"
+ meaning="viol, six-stringed violin-shaped instrument from the 16th and 17th centuries" />
+</V>
+<V>
+<f ds="viola"
+ meaning="four-stringed instrument from the violin family that is larger than a violin but smaller than a cello and is held under the chin" />
+</V>
+<V>
+<f ds="violability"
+ meaning="state or condition of being violable" />
+</V>
+<V>
+<f ds="violable"
+ meaning="can be violated; can be desecrated; of a law which can be broken" />
+</V>
+<V>
+<f ds="violably"
+ meaning="in a manner that is vulnerable to violation" />
+</V>
+<V>
+<f ds="violaceous"
+ meaning="purplish-blue; of the violet family" />
+</V>
+<V>
+<f ds="violate a tomb"
+ meaning="desecrate a burial place" />
+</V>
+<V>
+<f ds="violate faith"
+ meaning="betray confidence, betray trust" />
+</V>
+<V>
+<f ds="violate the law"
+ meaning="break the law, commit a crime" />
+</V>
+<V>
+<f ds="violate"
+ meaning="transgress, break (a law); desecrate; attack or disturb violently; rape" />
+</V>
+<V>
+<f ds="violated the law"
+ meaning="break a law, perform an offense, commit a crime" />
+</V>
+<V>
+<f ds="violating the law"
+ meaning="refusal to conform to the orders of the law" />
+</V>
+<V>
+<f ds="violating"
+ meaning="transgressing, breaking (of a law); desecrating; attacking or disturbing violently; raping" />
+</V>
+<V>
+<f ds="violation of civil order"
+ meaning="damaging the peace of the public, damaging the quality of normal life" />
+</V>
+<V>
+<f ds="violation of law"
+ meaning="not following the orders of the law, breaking the official regulations, transgression" />
+</V>
+<V>
+<f ds="violation of the foreign currency laws"
+ meaning="breaking the laws dealing with currency that is not native to the country" />
+</V>
+<V>
+<f ds="violation"
+ meaning="transgression; desecration; violent attack or disruption; rape" />
+</V>
+<V>
+<f ds="violative"
+ meaning="transgressive; desecrating; injurious, molesting" />
+</V>
+<V>
+<f ds="violator"
+ meaning="offender; transgressor; desecrater; rapist" />
+</V>
+<V>
+<f ds="violence"
+ meaning="rough unwarranted force; injurious treatment; vehemence of expression; injury, wrong" />
+</V>
+<V>
+<f ds="violent death"
+ meaning="rough death, death resulting from forceful acts" />
+</V>
+<V>
+<f ds="violent disturbances"
+ meaning="violent rioting, violent disorderly behavior" />
+</V>
+<V>
+<f ds="violent hatred"
+ meaning="deep hostility, great disliking" />
+</V>
+<V>
+<f ds="violent language"
+ meaning="verbal abuse, attack made with words, hostile language" />
+</V>
+<V>
+<f ds="violent movies"
+ meaning="movies which have much aggression and terror" />
+</V>
+<V>
+<f ds="violent person"
+ meaning="person who uses physical force so as to injure" />
+</V>
+<V>
+<f ds="violent resistance"
+ meaning="strategy of warding off an enemy by violent means" />
+</V>
+<V>
+<f ds="violent scenes"
+ meaning="parts of a movie in which are seen acts of violence" />
+</V>
+<V>
+<f ds="violent storm"
+ meaning="powerful storm, forceful storm" />
+</V>
+<V>
+<f ds="violent"
+ meaning="using unwarranted injurious force, brutal; strong, forceful; tempestuous, raging; vehement" />
+</V>
+<V>
+<f ds="violently"
+ meaning="by force, with violence" />
+</V>
+<V>
+<f ds="violet"
+ meaning="having a purple color; resembling a violet" />
+</V>
+<V>
+<f ds="violet"
+ meaning="purple color; any of a number of herbaceous plants that usually have irregular purple flowers (but occasionally have white, blue, or yellow flowers)" />
+</V>
+<V>
+<f ds="violin"
+ meaning="stringed musical instrument which has four strings and is played with a bow while held under the chin" />
+</V>
+<V>
+<f ds="violinist"
+ meaning="one who plays the violin; one who plays a kind of stringed musical instrument which is played with a bow" />
+</V>
+<V>
+<f ds="violist"
+ meaning="player of the viola" />
+</V>
+<V>
+<f ds="violoncellist"
+ meaning="player of the cello" />
+</V>
+<V>
+<f ds="violoncello"
+ meaning="cello, large four-stringed instrument of the violin family that is played with a bow while resting upright between the player&apos;s knees" />
+</V>
+<V>
+<f ds="viosterol"
+ meaning="preparation for supplementing a lack of vitamin D" />
+</V>
+<V>
+<f ds="viper in one&apos;s bosom"
+ meaning="traitorous friend" />
+</V>
+<V>
+<f ds="viper"
+ meaning="any of various venomous snakes (often having fangs)" />
+</V>
+<V>
+<f ds="viper&apos;s grass"
+ meaning="scorzonera, perennial south European plant with long purple-brown carrot-shaped edible roots" />
+</V>
+<V>
+<f ds="viperine"
+ meaning="venomous, of or related to a viper" />
+</V>
+<V>
+<f ds="viperous"
+ meaning="of a viper, of a poisonous snake" />
+</V>
+<V>
+<f ds="virago"
+ meaning="bold or quarrelsome woman" />
+</V>
+<V>
+<f ds="viral diseases"
+ meaning="illnesses that are caused by viruses" />
+</V>
+<V>
+<f ds="viral hepatitis"
+ meaning="severe disease caused by a virus" />
+</V>
+<V>
+<f ds="viral"
+ meaning="relating to or caused by a virus" />
+</V>
+<V>
+<f ds="viremia"
+ meaning="virus in the bloodstream" />
+</V>
+<V>
+<f ds="viremic"
+ meaning="of a virus in the blood" />
+</V>
+<V>
+<f ds="vireo"
+ meaning="any of a number of birds that eat insects and have grey or blue feathers" />
+</V>
+<V>
+<f ds="virescent"
+ meaning="greenish, somewhat green; tending to a green color; becoming green; (of plants) green in an uncommon manner" />
+</V>
+<V>
+<f ds="virgin birth"
+ meaning="birth by a woman who never had intercourse with a man" />
+</V>
+<V>
+<f ds="virgin forest"
+ meaning="first-growth forest, forest that has never been logged by humans" />
+</V>
+<V>
+<f ds="virgin gold"
+ meaning="pure gold, solid gold" />
+</V>
+<V>
+<f ds="virgin land"
+ meaning="field that has not been sown, soil that has not been worked, unplowed land" />
+</V>
+<V>
+<f ds="virgin queen"
+ meaning="(1533-1603) Queen Elizabeth I of England (reigned from 1558-1603)" />
+</V>
+<V>
+<f ds="virgin snow"
+ meaning="snow that never melts; new-fallen snow" />
+</V>
+<V>
+<f ds="virgin soil"
+ meaning="untilled land, field that has not been sown" />
+</V>
+<V>
+<f ds="virgin"
+ meaning="one who has not had sexual intercourse; woman who has taken a vow of chastity for religious reasons" />
+</V>
+<V>
+<f ds="virgin"
+ meaning="not having had sexual intercourse; innocent, pure, chaste; unsullied, untouched; new" />
+</V>
+<V>
+<f ds="virginal membrane"
+ meaning="hymen, maidenhead, vaginal tissue that is torn when a woman has sexual relations for the first time" />
+</V>
+<V>
+<f ds="virginal"
+ meaning="not having had sexual intercourse; innocent, pure, chaste; unsullied, untouched; new" />
+</V>
+<V>
+<f ds="virginally"
+ meaning="in a virgin-like manner; chastely, purely, innocently; in an untouched manner; newly" />
+</V>
+<V>
+<f ds="virginals"
+ meaning="antique musical instrument that is similar to the harpsichord and is often legless" />
+</V>
+<V>
+<f ds="virginity"
+ meaning="condition of being a virgin, condition of not having had sexual intercourse; purity" />
+</V>
+<V>
+<f ds="virginium"
+ meaning="previous name for the chemical element Francium" />
+</V>
+<V>
+<f ds="virgule"
+ meaning="short diagonal line placed between two alternatives" />
+</V>
+<V>
+<f ds="viridescent"
+ meaning="greenish" />
+</V>
+<V>
+<f ds="virile"
+ meaning="masculine; strong, energetic" />
+</V>
+<V>
+<f ds="virilise"
+ meaning="develop masculine characteristics which are usually considered abnormal (as in women), masculinise (also virilize)" />
+</V>
+<V>
+<f ds="virilism"
+ meaning="appearance of male characteristics in a woman" />
+</V>
+<V>
+<f ds="virility"
+ meaning="masculinity; strength" />
+</V>
+<V>
+<f ds="virilization"
+ meaning="abnormal development of masculine characteristics in a woman" />
+</V>
+<V>
+<f ds="virilize"
+ meaning="develop masculine characteristics which are usually considered abnormal (as in women), masculinize (also virilise)" />
+</V>
+<V>
+<f ds="virion"
+ meaning="infectious virus particle that exists outside a host cell" />
+</V>
+<V>
+<f ds="virologic"
+ meaning="of virology, of research of viruses and viral diseases" />
+</V>
+<V>
+<f ds="virological"
+ meaning="of virology, of research of viruses and viral diseases" />
+</V>
+<V>
+<f ds="virologically"
+ meaning="with regards to virology; in connection with viruses and viral diseases" />
+</V>
+<V>
+<f ds="virologist"
+ meaning="expert of virology, researcher of viruses and viral diseases" />
+</V>
+<V>
+<f ds="virology"
+ meaning="branch of science dealing with viruses and viral infections and disease" />
+</V>
+<V>
+<f ds="virosis"
+ meaning="viral infection" />
+</V>
+<V>
+<f ds="virtu"
+ meaning="objects of fine art; love of fine art" />
+</V>
+<V>
+<f ds="virtual community"
+ meaning="online community, group of people who share a common interest and correspond and communicates through the Internet and see themselves as a definite group" />
+</V>
+<V>
+<f ds="virtual memory"
+ meaning="(apparent) increase in the main memory of a computer by using part of the hard disk as additional memory" />
+</V>
+<V>
+<f ds="virtual reality"
+ meaning="3-dimensional image that imitates reality" />
+</V>
+<V>
+<f ds="virtual"
+ meaning="being such in power or effect though not formally recognized; imaginary, hypothetical; computer simulated" />
+</V>
+<V>
+<f ds="virtual"
+ meaning="computerized representation of an actual object (Computers)" />
+</V>
+<V>
+<f ds="virtualise"
+ meaning="convert something to a computer simulation, convert something into a computer simulated virtual reality image; activate a computer program into virtual storage (also virtualize)" />
+</V>
+<V>
+<f ds="virtualize"
+ meaning="convert something to a computer simulation, convert something into a computer simulated virtual reality image; activate a computer program into virtual storage (also virtualise)" />
+</V>
+<V>
+<f ds="virtually"
+ meaning="in essence, in effect, almost, practically, as good as" />
+</V>
+<V>
+<f ds="virtue claim"
+ meaning="ideological request" />
+</V>
+<V>
+<f ds="virtue is its own reward"
+ meaning="a good deed provides its own reward, satisfaction from doing a good deed is the reward" />
+</V>
+<V>
+<f ds="virtue"
+ meaning="goodness; uprightness, integrity; morality (especially in sexual conduct); good quality" />
+</V>
+<V>
+<f ds="virtuosity"
+ meaning="exceptional skill or ability in a certain field (especially music); great appreciation for or knowledge of fine arts" />
+</V>
+<V>
+<f ds="virtuoso"
+ meaning="musical performer who plays with great talent and gracefulness; person with exceptional skill or ability in a particular field, genius, prodigy; one who has a great appreciation for and/or knowledge of fine art, connoisseur" />
+</V>
+<V>
+<f ds="virtuous"
+ meaning="good; moral (especially with regards to sexual conduct); upright; righteous" />
+</V>
+<V>
+<f ds="virtuously"
+ meaning="with integrity; morally (especially regarding sexual conduct)" />
+</V>
+<V>
+<f ds="virtuousness"
+ meaning="quality of being virtuous; goodness; morality; uprightness, integrity" />
+</V>
+<V>
+<f ds="virucidal"
+ meaning="killing viruses" />
+</V>
+<V>
+<f ds="virucide"
+ meaning="substance that kills viruses" />
+</V>
+<V>
+<f ds="virulence"
+ meaning="toxicity; hatred, antagonism" />
+</V>
+<V>
+<f ds="virulency"
+ meaning="hatefulness; quality of being venomous" />
+</V>
+<V>
+<f ds="virulent word"
+ meaning="nasty word, venomous utterance" />
+</V>
+<V>
+<f ds="virulent words"
+ meaning="nasty word, venomous utterance" />
+</V>
+<V>
+<f ds="virulent"
+ meaning="infectious, causing infection; poisonous; hateful; obnoxious" />
+</V>
+<V>
+<f ds="virulently"
+ meaning="poisonously; hatefully; obnoxiously" />
+</V>
+<V>
+<f ds="virus warfare"
+ meaning="use of viruses during war in order to cause disease in the enemy&apos;s population" />
+</V>
+<V>
+<f ds="virus"
+ meaning="microorganism which functions as an infectious agent; computer program which is intended to be spread surreptitiously between computers and usually causes damage (Computers)" />
+</V>
+<V>
+<f ds="virusafe"
+ meaning="anti-virus program, program that identifies filters and removes computer viruses (from the Israeli company Eliashim)" />
+</V>
+<V>
+<f ds="virusscan"
+ meaning="program that locates viruses within computer files (from the McAfee company)" />
+</V>
+<V>
+<f ds="vis"
+ meaning="power, strength (Latin)" />
+</V>
+<V>
+<f ds="vis-a-vis"
+ meaning="(French) person or thing that is face to face (opposite another); opposite number; counterpart; love seat, small sofa for two people" />
+</V>
+<V>
+<f ds="vis-a-vis"
+ meaning="(French) face to face" />
+</V>
+<V>
+<f ds="vis-a-vis"
+ meaning="(French) compared with; in regard to, in relation to; opposite; face to face with" />
+</V>
+<V>
+<f ds="visa"
+ meaning="permit for entering into a country" />
+</V>
+<V>
+<f ds="visa"
+ meaning="issue a visa, authorize entry into a country or passage across a border" />
+</V>
+<V>
+<f ds="visage"
+ meaning="face, countenance; aspect, look, appearance" />
+</V>
+<V>
+<f ds="viscera"
+ meaning="internal organs, any of the internal organs of the body (especially in the abdominal cavity, i.e. the intestines); entrails" />
+</V>
+<V>
+<f ds="visceral"
+ meaning="of the viscus, of or relating to the viscera, splanchnic, of the entrails; affecting the viscera; (of a feeling) instinctive, not rational, not logical, intuitive" />
+</V>
+<V>
+<f ds="viscerally"
+ meaning="through the viscera, in the internal organs; instinctively" />
+</V>
+<V>
+<f ds="viscerotonia"
+ meaning="cheerful and extroverted personality type (Psychology)" />
+</V>
+<V>
+<f ds="viscerotonic"
+ meaning="of a cheerful and extroverted behavior pattern (Psychology)" />
+</V>
+<V>
+<f ds="viscerotropic"
+ meaning="having an affinity for the internal organs, pertaining to the internal organs" />
+</V>
+<V>
+<f ds="viscerotropism"
+ meaning="attraction for the viscera, affinity for the entrails" />
+</V>
+<V>
+<f ds="viscid"
+ meaning="viscous, sticky and thick; adhesive, syrupy" />
+</V>
+<V>
+<f ds="viscidity"
+ meaning="sticky thickness; adhesiveness" />
+</V>
+<V>
+<f ds="viscidly"
+ meaning="viscously, stickily, in a viscous manner" />
+</V>
+<V>
+<f ds="viscoelastic"
+ meaning="having both viscous and elastic properties" />
+</V>
+<V>
+<f ds="viscometer"
+ meaning="device for measuring viscosity" />
+</V>
+<V>
+<f ds="viscometry"
+ meaning="measurement of the thickness of liquids, measurement of viscosity" />
+</V>
+<V>
+<f ds="viscose fabrics"
+ meaning="fabrics made from viscose fibers and look like artificial silk" />
+</V>
+<V>
+<f ds="viscose fibers"
+ meaning="special fibers that resemble artificial silk" />
+</V>
+<V>
+<f ds="viscose shirt"
+ meaning="shirt made of a fabric known as viscose which is similar to silk" />
+</V>
+<V>
+<f ds="viscose"
+ meaning="rayon, artificial silk fabric made from cellulose; cellulosic fibers and thread used to fabricate rayon" />
+</V>
+<V>
+<f ds="viscosimeter"
+ meaning="device which measures viscosity" />
+</V>
+<V>
+<f ds="viscosimetry"
+ meaning="measurement of viscosity" />
+</V>
+<V>
+<f ds="viscosity"
+ meaning="thickness, stickiness" />
+</V>
+<V>
+<f ds="viscount"
+ meaning="nobleman below an earl and above a baron" />
+</V>
+<V>
+<f ds="viscountess"
+ meaning="aristocratic title of a woman married to a viscount; woman carrying the title of viscount" />
+</V>
+<V>
+<f ds="viscous"
+ meaning="sticky and thick, adhesive; having a high viscosity (Physics)" />
+</V>
+<V>
+<f ds="viscously"
+ meaning="stickily, thickly, adhesively" />
+</V>
+<V>
+<f ds="viscousness"
+ meaning="stickiness, thickness, adhesiveness; degree to which a substance is viscous" />
+</V>
+<V>
+<f ds="viscus"
+ meaning="any of the internal organs of the body (especially in the abdominal cavity, i.e. the intestines)" />
+</V>
+<V>
+<f ds="vise"
+ meaning="clamp, device for clamping and holding something firmly in place" />
+</V>
+<V>
+<f ds="visibility conditions"
+ meaning="clarity of sight, how much can be seen in the distance and how clearly" />
+</V>
+<V>
+<f ds="visibility"
+ meaning="quality of being clearly seen; distance to which one can see clearly (Meteorology); state or quality of providing an unobstructed view" />
+</V>
+<V>
+<f ds="visible light"
+ meaning="area of light which a human eye can perceive (Physics)" />
+</V>
+<V>
+<f ds="visible"
+ meaning="can be clearly seen; in view, observable; obvious, apparent" />
+</V>
+<V>
+<f ds="visibly"
+ meaning="in a visible manner; perceptibly, observably; apparently, evidently; obviously" />
+</V>
+<V>
+<f ds="visidnary"
+ meaning="having vision for the future; imaginary; having a tendency to become lost in daydreams; not realistic, impracticable" />
+</V>
+<V>
+<f ds="vision"
+ meaning="act or power of seeing with the eye, sight; insight, foresight; divination, foreknowledge; imagination; apparition, figment of the imagination" />
+</V>
+<V>
+<f ds="vision"
+ meaning="envision; imagine, image; see" />
+</V>
+<V>
+<f ds="visional"
+ meaning="of or belonging to hallucinations; of vision, of the sense of sight" />
+</V>
+<V>
+<f ds="visionary"
+ meaning="seer, one who sees visions; dreamer, one who envisions new concepts" />
+</V>
+<V>
+<f ds="visit"
+ meaning="temporary stay somewhere; instance of spending time with a person or group of people; inspection" />
+</V>
+<V>
+<f ds="visit"
+ meaning="stay somewhere temporarily; spend time with a person or group of people; make an official inspection" />
+</V>
+<V>
+<f ds="visitable"
+ meaning="able to be visited" />
+</V>
+<V>
+<f ds="visitant"
+ meaning="visitor, guest; wandering bird; ghostly visitor" />
+</V>
+<V>
+<f ds="visitation"
+ meaning="visit, act of visiting; instance of a divorced parent spending legally granted time with his children; official inspection or examination; affliction or punishment by god; appearance of an apparition" />
+</V>
+<V>
+<f ds="visitational"
+ meaning="pertaining to a visitation" />
+</V>
+<V>
+<f ds="visitatorial"
+ meaning="of or pertaining to an official visitor; having visitation rights" />
+</V>
+<V>
+<f ds="visited his wrath upon"
+ meaning="took out his anger on" />
+</V>
+<V>
+<f ds="visiter"
+ meaning="visitor, one who visits" />
+</V>
+<V>
+<f ds="visiting card"
+ meaning="business card, card that presents the name of the person and the nature of his business" />
+</V>
+<V>
+<f ds="visiting hours"
+ meaning="hours during which one is allowed to visit, official hours that were determined for accepting guests" />
+</V>
+<V>
+<f ds="visiting nurse"
+ meaning="medical assistant which does house visits to the sick" />
+</V>
+<V>
+<f ds="visiting"
+ meaning="staying for a limited period of time, guest (i.e. visiting lecturer); making visits, calling on" />
+</V>
+<V>
+<f ds="visiting"
+ meaning="visit, calling on, dropping by; inspection" />
+</V>
+<V>
+<f ds="visitor"
+ meaning="one who visits; guest; migrating bird" />
+</V>
+<V>
+<f ds="visitorial"
+ meaning="of a visitor, of a visit" />
+</V>
+<V>
+<f ds="visitress"
+ meaning="female visitor" />
+</V>
+<V>
+<f ds="visor"
+ meaning="supply or cover with a visor" />
+</V>
+<V>
+<f ds="visor"
+ meaning="sun-shield; face shield; projecting brim for shading the eyes; part of a helmet covering the face or eyes" />
+</V>
+<V>
+<f ds="visorless"
+ meaning="having no visor" />
+</V>
+<V>
+<f ds="visquene"
+ meaning="type of sheet of plastic that is airproof and impervious to water" />
+</V>
+<V>
+<f ds="vista"
+ meaning="prospect; (from Italian) view, sight, panorama; comprehensive mental view of a visualized future situation or event which will happen in the future" />
+</V>
+<V>
+<f ds="vistaed"
+ meaning="having a view" />
+</V>
+<V>
+<f ds="visual BASIC"
+ meaning="programming language for developing applications under a Windows environment" />
+</V>
+<V>
+<f ds="visual BASIC language"
+ meaning="programming language for developing applications under a Windows environment" />
+</V>
+<V>
+<f ds="visual C"
+ meaning="programming language for a Windows environment which is based on C" />
+</V>
+<V>
+<f ds="visual C language"
+ meaning="programming language for a Windows environment which is based on C" />
+</V>
+<V>
+<f ds="visual C programming language"
+ meaning="programming language for a Windows environment which is based on C" />
+</V>
+<V>
+<f ds="visual aids"
+ meaning="tools that help to make an issue clearer or easier to understand (pictures, charts, slides, etc.)" />
+</V>
+<V>
+<f ds="visual arts"
+ meaning="arts produced for visual perception (such as painting, sculpture, drawing, etc.)" />
+</V>
+<V>
+<f ds="visual aural range"
+ meaning="range within which one can see and hear" />
+</V>
+<V>
+<f ds="visual contact"
+ meaning="distance from which one can see who is in front of him" />
+</V>
+<V>
+<f ds="visual flight"
+ meaning="control of an airplane using the view from the plane as the main reference point" />
+</V>
+<V>
+<f ds="visual inspection"
+ meaning="examination that is carried out by eye" />
+</V>
+<V>
+<f ds="visual means"
+ meaning="methods that can be seen, visible things" />
+</V>
+<V>
+<f ds="visual memory"
+ meaning="ability to remember details and events in the form of pictures" />
+</V>
+<V>
+<f ds="visual observation"
+ meaning="observation made by the naked eye, observation done without visual aids or other equipment" />
+</V>
+<V>
+<f ds="visual pathway"
+ meaning="system of the sense of sight" />
+</V>
+<V>
+<f ds="visual perception"
+ meaning="perception using the eyes; (Medicine) capability of the eyes and brain to use visual stimuli to create a full picture of the visual world" />
+</V>
+<V>
+<f ds="visual range"
+ meaning="range in which the sense of sight is effective" />
+</V>
+<V>
+<f ds="visual sensation"
+ meaning="perception of visible stimuli; experience resulting from the perception of visual stimuli; sight" />
+</V>
+<V>
+<f ds="visual"
+ meaning="tools that help to make an issue clearer or easier to understand (pictures, charts, slides, etc.)" />
+</V>
+<V>
+<f ds="visual"
+ meaning="relating to or used in vision; seen; optic" />
+</V>
+<V>
+<f ds="visualisation"
+ meaning="imagining, picturing in the mind, envisaging, forming of mental images" />
+</V>
+<V>
+<f ds="visualise"
+ meaning="picture, envisage, conjure up, imagine; make image of internal organs by means of x-rays (also visualize)" />
+</V>
+<V>
+<f ds="visualiser"
+ meaning="one who visualises, visionary (also visualizer)" />
+</V>
+<V>
+<f ds="visualization"
+ meaning="imagining, picturing in the mind, envisaging, forming of mental images" />
+</V>
+<V>
+<f ds="visualize"
+ meaning="picture, envisage, conjure up, imagine; make image of internal organs by means of x-rays (also visualise)" />
+</V>
+<V>
+<f ds="visualizer"
+ meaning="one who visualizes, visionary (also visualiser)" />
+</V>
+<V>
+<f ds="visually impaired"
+ meaning="has a vision defect, has a vision problem" />
+</V>
+<V>
+<f ds="visually"
+ meaning="by means of vision, in a visual manner" />
+</V>
+<V>
+<f ds="visuals"
+ meaning="visual aids, materials such as slides or graphs which visually illustrate an idea" />
+</V>
+<V>
+<f ds="vita"
+ meaning="curriculum vitae, resume, document which summarizes and individual&apos;s education and employment history (life in Latin)" />
+</V>
+<V>
+<f ds="vital area"
+ meaning="essential region, necessary area" />
+</V>
+<V>
+<f ds="vital force"
+ meaning="force of life, life force" />
+</V>
+<V>
+<f ds="vital importance"
+ meaning="of great significance" />
+</V>
+<V>
+<f ds="vital information"
+ meaning="essential information, information without which it is difficult to take action" />
+</V>
+<V>
+<f ds="vital needs"
+ meaning="requirements for survival" />
+</V>
+<V>
+<f ds="vital organ"
+ meaning="essential organ" />
+</V>
+<V>
+<f ds="vital organs"
+ meaning="essential body parts" />
+</V>
+<V>
+<f ds="vital personality"
+ meaning="active personality, active character" />
+</V>
+<V>
+<f ds="vital principle"
+ meaning="source of life, life force" />
+</V>
+<V>
+<f ds="vital records"
+ meaning="records of marriage and birth and death, marriage and birth and death certificates which a government authority keeps" />
+</V>
+<V>
+<f ds="vital spark"
+ meaning="spark of life" />
+</V>
+<V>
+<f ds="vital"
+ meaning="lively, living, animated, vigorous; crucial, critical, necessary" />
+</V>
+<V>
+<f ds="vitalise"
+ meaning="give vitality; animate; make a person or something lively (also vitalize)" />
+</V>
+<V>
+<f ds="vitaliser"
+ meaning="person who instills with life, one who fills with life, person who vitality to other people (also vitalizer)" />
+</V>
+<V>
+<f ds="vitalism"
+ meaning="belief that life in organisms is caused and maintained by a force that is distinct from all chemical and physical forces" />
+</V>
+<V>
+<f ds="vitalist"
+ meaning="one who believes that all life is supported and maintained by a force that is distinct from all chemical and physical forces" />
+</V>
+<V>
+<f ds="vitalistic"
+ meaning="of or pertaining to vitalism" />
+</V>
+<V>
+<f ds="vitality"
+ meaning="vigor, power to live, energy, liveliness" />
+</V>
+<V>
+<f ds="vitalization"
+ meaning="act of giving vitality; animation" />
+</V>
+<V>
+<f ds="vitalize"
+ meaning="give vitality; animate; make a person or something lively (also vitalise)" />
+</V>
+<V>
+<f ds="vitalizer"
+ meaning="person who instills with life, one who fills with life, person who vitality to other people (also vitaliser)" />
+</V>
+<V>
+<f ds="vitally"
+ meaning="critically, urgently, essentially; vigorously, animatedly, spiritedly" />
+</V>
+<V>
+<f ds="vitalness"
+ meaning="quality of being necessary, indispensability, essentialness" />
+</V>
+<V>
+<f ds="vitals"
+ meaning="vital or essential organs (heart, lungs, liver and brain)" />
+</V>
+<V>
+<f ds="vitamer"
+ meaning="substance which resembles a vitamin in its structure and function (Biochemistry)" />
+</V>
+<V>
+<f ds="vitamin A"
+ meaning="retinol, yellow fat-soluble terpene alcohol found in liver oil and carotenoids (essential for growth and good vision)" />
+</V>
+<V>
+<f ds="vitamin A acid"
+ meaning="retinoic acid, acid derived from vitamin A and used for treating acne, tretinoin" />
+</V>
+<V>
+<f ds="vitamin C"
+ meaning="essential vitamin found mainly in fruits and vegetables" />
+</V>
+<V>
+<f ds="vitamin D deficiency"
+ meaning="(Medicine) rickets, childhood disease characterized by softening of the bones (caused by a deficiency of vitamin D, and poor metabolism of calcium and phosphorus)" />
+</V>
+<V>
+<f ds="vitamin"
+ meaning="natural or manmade organic substances necessary for physical development and functioning" />
+</V>
+<V>
+<f ds="vitaminise"
+ meaning="supplement with vitamins (also vitaminize)" />
+</V>
+<V>
+<f ds="vitaminization"
+ meaning="supplementation with vitamins" />
+</V>
+<V>
+<f ds="vitaminize"
+ meaning="supplement with vitamins (also vitaminise)" />
+</V>
+<V>
+<f ds="vitellin"
+ meaning="substance found in egg yolk" />
+</V>
+<V>
+<f ds="vitelline"
+ meaning="substance present in the yolk of an egg" />
+</V>
+<V>
+<f ds="vitellus"
+ meaning="egg yolk" />
+</V>
+<V>
+<f ds="vitiate"
+ meaning="weaken; corrupt" />
+</V>
+<V>
+<f ds="vitiation"
+ meaning="weakening; corruption" />
+</V>
+<V>
+<f ds="vitiator"
+ meaning="one who damages; one who corrupts" />
+</V>
+<V>
+<f ds="viticultural"
+ meaning="of or related to cultivation of grapevines" />
+</V>
+<V>
+<f ds="viticulture"
+ meaning="cultivation of grapevines" />
+</V>
+<V>
+<f ds="viticulturist"
+ meaning="one who cultivates grapevines" />
+</V>
+<V>
+<f ds="vitiliginous"
+ meaning="of or pertaining to the skin disease vitiligo" />
+</V>
+<V>
+<f ds="vitiligo"
+ meaning="skin disease causing smooth white patches on the body" />
+</V>
+<V>
+<f ds="vitrage"
+ meaning="light and transparent material used on woodwork of a French hinged window or a glazed door" />
+</V>
+<V>
+<f ds="vitreous humor"
+ meaning="substance that is like clear jelly and fills the eyeball between the lens and the retina" />
+</V>
+<V>
+<f ds="vitreous"
+ meaning="of or like glass" />
+</V>
+<V>
+<f ds="vitrifiable"
+ meaning="able to be turned to glass" />
+</V>
+<V>
+<f ds="vitrification"
+ meaning="turning into glass" />
+</V>
+<V>
+<f ds="vitrify"
+ meaning="turn into glass" />
+</V>
+<V>
+<f ds="vitrine"
+ meaning="glass-paneled display case; display window" />
+</V>
+<V>
+<f ds="vitriol"
+ meaning="biting sarcasm; glassy metallic sulfate; sulfuric acid (Archaic)" />
+</V>
+<V>
+<f ds="vitriolic"
+ meaning="of or pertaining to vitriol; bitingly sarcastic; resembling glassy metallic sulfate" />
+</V>
+<V>
+<f ds="vituperable"
+ meaning="liable to vituperation, that deserves an abusive rebuke or condemnation" />
+</V>
+<V>
+<f ds="vituperate"
+ meaning="condemn or rebuke in a harsh abusive way" />
+</V>
+<V>
+<f ds="vituperation"
+ meaning="harsh or abusive rebuke or condemnation" />
+</V>
+<V>
+<f ds="vituperative"
+ meaning="of or characterized by vituperation, with harsh condemnation" />
+</V>
+<V>
+<f ds="vituperatively"
+ meaning="in a verbally harsh and abusively critical manner" />
+</V>
+<V>
+<f ds="viva"
+ meaning="long live... ! , here&apos;s to... ! (expression of praise or tribute)" />
+</V>
+<V>
+<f ds="viva"
+ meaning="examination which is given orally in universities (British)" />
+</V>
+<V>
+<f ds="vivace"
+ meaning="in a lively manner (Music)" />
+</V>
+<V>
+<f ds="vivacious"
+ meaning="merry, full of life, enthusiastic, excited" />
+</V>
+<V>
+<f ds="vivaciously"
+ meaning="merrily, cheerfully, enthusiastically" />
+</V>
+<V>
+<f ds="vivaciousness"
+ meaning="merriness, enthusiasm, liveliness" />
+</V>
+<V>
+<f ds="vivacity"
+ meaning="gaiety, cheer, enthusiasm" />
+</V>
+<V>
+<f ds="vivant"
+ meaning="(French) living" />
+</V>
+<V>
+<f ds="vivarium"
+ meaning="place where animals are kept in conditions that simulate their natural habitat in order to scientifically observe and research their natural behavior" />
+</V>
+<V>
+<f ds="vive"
+ meaning="live, long live (French)" />
+</V>
+<V>
+<f ds="vivid colors"
+ meaning="lively colors, colors which give life" />
+</V>
+<V>
+<f ds="vivid description"
+ meaning="lifelike description, lifelike depiction" />
+</V>
+<V>
+<f ds="vivid"
+ meaning="lively, lifelike; bright, dazzling; clear, distinct; graphic" />
+</V>
+<V>
+<f ds="vividly"
+ meaning="brightly; distinctly; graphically; in a lively manner" />
+</V>
+<V>
+<f ds="vividness"
+ meaning="brightness; distinctness; quality of being graphic; liveliness" />
+</V>
+<V>
+<f ds="vivification"
+ meaning="giving of life, animation" />
+</V>
+<V>
+<f ds="vivifier"
+ meaning="person or thing that gives life" />
+</V>
+<V>
+<f ds="vivify"
+ meaning="give life, animate" />
+</V>
+<V>
+<f ds="viviparity"
+ meaning="condition of giving birth to living young rather than laying eggs; condition of having seeds that germinate while still attached to the main plant" />
+</V>
+<V>
+<f ds="viviparous"
+ meaning="giving birth to living young rather than laying eggs (as of mammals); having seeds that germinate while still attached to the main plan" />
+</V>
+<V>
+<f ds="viviparously"
+ meaning="by giving birth to live offspring (as opposed to laying eggs)" />
+</V>
+<V>
+<f ds="vivisect"
+ meaning="perform a vivisection, perform a surgery on a living animal in medical research, operate on living animals" />
+</V>
+<V>
+<f ds="vivisection"
+ meaning="surgery performed on a living animal in medical research, operation on living animals" />
+</V>
+<V>
+<f ds="vivisectional"
+ meaning="concerning vivisection, concerning operating on living animals in medical research" />
+</V>
+<V>
+<f ds="vivisectionist"
+ meaning="researcher of animal medicine, one who performs research operations on living animals" />
+</V>
+<V>
+<f ds="vivisector"
+ meaning="researcher of animal medicine, one who performs research operations on living animals" />
+</V>
+<V>
+<f ds="vivre"
+ meaning="be alive, live (French)" />
+</V>
+<V>
+<f ds="vixen"
+ meaning="female fox; (Slang) quarrelsome and contentious woman (offensive)" />
+</V>
+<V>
+<f ds="vixenish"
+ meaning="vixen-like; contentious and quarrelsome (derogatorily said of a woman)" />
+</V>
+<V>
+<f ds="vixenishly"
+ meaning="in a vixenish manner" />
+</V>
+<V>
+<f ds="viz"
+ meaning="that is, in other words" />
+</V>
+<V>
+<f ds="vizard"
+ meaning="mask; visor, part of helmet which protects the face (Archaic)" />
+</V>
+<V>
+<f ds="vizier"
+ meaning="high ranking executive officer in Muslim countries" />
+</V>
+<V>
+<f ds="vocab"
+ meaning="(Informal) vocabulary" />
+</V>
+<V>
+<f ds="vocable"
+ meaning="term, word, name; word considered merely as a grouping of letters which can be pronounced rather than a carrier of meaning" />
+</V>
+<V>
+<f ds="vocabularian"
+ meaning="of or pertaining to vocabulary" />
+</V>
+<V>
+<f ds="vocabulary"
+ meaning="stock of words used by an individual or existing in a language, lexicon; list of words and their definitions in alphabetical order (especially for the purpose of learning)" />
+</V>
+<V>
+<f ds="vocal answer"
+ meaning="automatic recording of messages, electronic operator which gives out information, vocal answering service" />
+</V>
+<V>
+<f ds="vocal cord"
+ meaning="chord in the throat used for speaking" />
+</V>
+<V>
+<f ds="vocal cords"
+ meaning="set of organs in the throat responsible for the production of voice" />
+</V>
+<V>
+<f ds="vocal effects"
+ meaning="different additions of voices" />
+</V>
+<V>
+<f ds="vocal information"
+ meaning="verbal information, vocal answering service" />
+</V>
+<V>
+<f ds="vocal music"
+ meaning="music that is performed by human voices" />
+</V>
+<V>
+<f ds="vocal range"
+ meaning="range of human voice from high to low pitches" />
+</V>
+<V>
+<f ds="vocal score"
+ meaning="musical score having just voice parts" />
+</V>
+<V>
+<f ds="vocal speech sound"
+ meaning="sound pronounced by moving the vocal chords" />
+</V>
+<V>
+<f ds="vocal"
+ meaning="musical piece which is sung; voiced sound" />
+</V>
+<V>
+<f ds="vocal"
+ meaning="of or pertaining to the voice, spoken, oral; outspoken" />
+</V>
+<V>
+<f ds="vocalic"
+ meaning="of or pertaining to vowels; containing many vowels; characterized by vowels" />
+</V>
+<V>
+<f ds="vocalise"
+ meaning="produce a sound; pronounce a consonant as a vowel; sing; express a feeling or opinion out loud; mark an unvowelled text with vowel marks (also vocalize)" />
+</V>
+<V>
+<f ds="vocaliser"
+ meaning="one who vocalises, one who articulates; vocalist (also vocalizer)" />
+</V>
+<V>
+<f ds="vocalist"
+ meaning="singer" />
+</V>
+<V>
+<f ds="vocalization"
+ meaning="act or instance of vocalizing; production of a voiced sound; instance of expressing a feeling or opinion out loud" />
+</V>
+<V>
+<f ds="vocalize"
+ meaning="produce a sound; pronounce a consonant as a vowel; sing; express a feeling or opinion out loud; mark an unvowelled text with vowel marks (also vocalise)" />
+</V>
+<V>
+<f ds="vocalizer"
+ meaning="one who vocalizes, one who articulates; vocalist (also vocaliser)" />
+</V>
+<V>
+<f ds="vocally"
+ meaning="by means of the voice, in a vocal manner; outspokenly" />
+</V>
+<V>
+<f ds="vocat."
+ meaning="vocative case, case which denotes that someone is being addressed (Grammar)" />
+</V>
+<V>
+<f ds="vocation"
+ meaning="calling; career, profession; capability, skill" />
+</V>
+<V>
+<f ds="vocational college"
+ meaning="college where students learn vocations" />
+</V>
+<V>
+<f ds="vocational guidance"
+ meaning="vocational instruction, guidance in choosing a vocation" />
+</V>
+<V>
+<f ds="vocational orientation"
+ meaning="aid in searching for a job" />
+</V>
+<V>
+<f ds="vocational school"
+ meaning="professional school, school that in addition to its theoretical studies allows one to learn a trade as well, school for practical professional learning" />
+</V>
+<V>
+<f ds="vocational training"
+ meaning="teaching someone how to find an appropriate job, job education" />
+</V>
+<V>
+<f ds="vocational training center"
+ meaning="place used for preparing people for professional tasks by learning the secrets of the profession in depth" />
+</V>
+<V>
+<f ds="vocational"
+ meaning="of or pertaining to an occupation; of or pertaining to training in career skills" />
+</V>
+<V>
+<f ds="vocative"
+ meaning="(Grammar) word which is employed to address someone; vocative case, case which denotes that someone is being addressed (e.g.: &quot;You are a good boy, John Smith&quot;)" />
+</V>
+<V>
+<f ds="vocative"
+ meaning="employed to address someone (Grammar)" />
+</V>
+<V>
+<f ds="vocatively"
+ meaning="while using the vocative, while using the case which denotes that a specific person or thing is being addressed" />
+</V>
+<V>
+<f ds="voce"
+ meaning="(Italian) voice" />
+</V>
+<V>
+<f ds="vociferate"
+ meaning="yell, shout, cry out (especially in protest)" />
+</V>
+<V>
+<f ds="vociferation"
+ meaning="shout, shouting, cry (especially of protest)" />
+</V>
+<V>
+<f ds="vociferous complaint"
+ meaning="vocal expression of dissatisfaction, vocal grievance" />
+</V>
+<V>
+<f ds="vociferous"
+ meaning="loud, noisy, clamorous" />
+</V>
+<V>
+<f ds="vociferously"
+ meaning="loudly, noisily, clamorously" />
+</V>
+<V>
+<f ds="vociferousness"
+ meaning="loudness, shouting, noisiness, clamorousness" />
+</V>
+<V>
+<f ds="vocoder"
+ meaning="speech analyzing device that uses filters to divide the speech spectrum into separate bands (also known as a voice coder)" />
+</V>
+<V>
+<f ds="vodka"
+ meaning="colorless alcoholic liquor that was originally made in Russia from grain" />
+</V>
+<V>
+<f ds="vogue word"
+ meaning="buzzword, technical word or neologism that has become stylish, fashion word" />
+</V>
+<V>
+<f ds="vogue"
+ meaning="fashion; popularity" />
+</V>
+<V>
+<f ds="voguish"
+ meaning="fashionable, modish, trendy, stylish, chic" />
+</V>
+<V>
+<f ds="voice capable modem"
+ meaning="modem which can handle voice sounds and communications" />
+</V>
+<V>
+<f ds="voice channel"
+ meaning="channel through which a voice travels" />
+</V>
+<V>
+<f ds="voice detecting"
+ meaning="technology of identifying voices by a computer" />
+</V>
+<V>
+<f ds="voice detecting program"
+ meaning="program designed to identify voices using a computer" />
+</V>
+<V>
+<f ds="voice in the wilderness"
+ meaning="prophet, helper" />
+</V>
+<V>
+<f ds="voice mail"
+ meaning="computerized answering service which stores and plays back digital audio messages for subscribers" />
+</V>
+<V>
+<f ds="voice of conscience"
+ meaning="imaginary voice that admonishes a person after doing wrong, one&apos;s conscience &quot;speaking&quot; and causing one to feel remorse" />
+</V>
+<V>
+<f ds="voice recognition"
+ meaning="ability of a computer to understand human speech and to use the speech to build text or instructions" />
+</V>
+<V>
+<f ds="voice synthesis"
+ meaning="program which produces sounds of human speech according to typed text" />
+</V>
+<V>
+<f ds="voice training"
+ meaning="instruction in singing and the proper way to use one&apos;s voice" />
+</V>
+<V>
+<f ds="voice"
+ meaning="sound produced in the throat; expression; language" />
+</V>
+<V>
+<f ds="voice"
+ meaning="raise an opinion; adjust the tone of" />
+</V>
+<V>
+<f ds="voice-over"
+ meaning="(Television, Film) recorded narration or voice added after the completion of a film; film or video sequence containing an off-screen narrator; voice of an off-screen character or narrator" />
+</V>
+<V>
+<f ds="voiced his protest"
+ meaning="stated his objection to the issue, expressed his dissatisfaction" />
+</V>
+<V>
+<f ds="voiced sound"
+ meaning="speech sound along with a sound from the vocal cords" />
+</V>
+<V>
+<f ds="voiced"
+ meaning="having a voice of a particular kind (e.g. high-voiced); expressed vocally; tonal, resonant" />
+</V>
+<V>
+<f ds="voicedness"
+ meaning="state of having a specific kind of voice (e.g. high-voicedness); vocal expression" />
+</V>
+<V>
+<f ds="voiceful"
+ meaning="vociferous, vocal, noisy" />
+</V>
+<V>
+<f ds="voiceless sound"
+ meaning="sound that is not produced by using the voice" />
+</V>
+<V>
+<f ds="voiceless"
+ meaning="without a voice; silent; having no opinion; without influence; having no vote" />
+</V>
+<V>
+<f ds="voicelessly"
+ meaning="silently, mutely; without influence" />
+</V>
+<V>
+<f ds="voicelessness"
+ meaning="state of being without a voice; condition of lacking an opinion; condition of having no influence" />
+</V>
+<V>
+<f ds="voiceover"
+ meaning="(Television, Film) recorded narration or voice added after the completion of a film; film or video sequence containing an off-screen narrator; voice of an off-screen character or narrator" />
+</V>
+<V>
+<f ds="voiceprint"
+ meaning="spectrographically produced voice characteristics which are individual to each voice" />
+</V>
+<V>
+<f ds="voicing"
+ meaning="raising an opinion; adjusting the tone of" />
+</V>
+<V>
+<f ds="void ab initio"
+ meaning="lacked validity from the start, is not obligatory" />
+</V>
+<V>
+<f ds="void ballot"
+ meaning="blank ballot, blank vote" />
+</V>
+<V>
+<f ds="void contract"
+ meaning="agreement which is lacking legal validity" />
+</V>
+<V>
+<f ds="void"
+ meaning="emptiness, space, vacuity, opening, gap" />
+</V>
+<V>
+<f ds="void"
+ meaning="empty; make invalid" />
+</V>
+<V>
+<f ds="void"
+ meaning="lacking legal validity, null" />
+</V>
+<V>
+<f ds="voidable contract"
+ meaning="agreement in which one or both of the parties involved have the ability to cancel" />
+</V>
+<V>
+<f ds="voidable"
+ meaning="can be voided; can be canceled, annullable" />
+</V>
+<V>
+<f ds="voidableness"
+ meaning="state of being voidable or cancelable" />
+</V>
+<V>
+<f ds="voidance"
+ meaning="cancellation; evisceration" />
+</V>
+<V>
+<f ds="voided"
+ meaning="invalid, canceled; empty" />
+</V>
+<V>
+<f ds="voider"
+ meaning="one who nullifies or cancels" />
+</V>
+<V>
+<f ds="voidness"
+ meaning="space, emptiness; invalidness" />
+</V>
+<V>
+<f ds="voila"
+ meaning="(French) see there!, here you are! (expression used to draw someone&apos;s attention to a triumph or an accomplishment)" />
+</V>
+<V>
+<f ds="voile"
+ meaning="thin translucent fabric of cotton or silk or rayon" />
+</V>
+<V>
+<f ds="voir dire"
+ meaning="(French) oath of witness; initial examination of a legal witness in order to determine if he or she is fit to give testimony" />
+</V>
+<V>
+<f ds="voir"
+ meaning="(French) see" />
+</V>
+<V>
+<f ds="voivode"
+ meaning="(Archaic) military commander in Slavic countries; local governor of a town or province in a Slavic country (esp. Poland, Moldavia, Transylvania &amp; Wallachia)" />
+</V>
+<V>
+<f ds="vol."
+ meaning="mountain which spews forth lava" />
+</V>
+<V>
+<f ds="vol."
+ meaning="part of a series (of books, music recordings, etc.)" />
+</V>
+<V>
+<f ds="volant"
+ meaning="able to fly; with wings spread out (heraldy); agile, nimble, quick" />
+</V>
+<V>
+<f ds="volatile area"
+ meaning="changeable area, area that is not likely to remain in the same state" />
+</V>
+<V>
+<f ds="volatile issue"
+ meaning="problem that is likely to explode, problem that can easily change" />
+</V>
+<V>
+<f ds="volatile oil"
+ meaning="oil that is likely to explode or change" />
+</V>
+<V>
+<f ds="volatile substance"
+ meaning="substance that evaporates quickly" />
+</V>
+<V>
+<f ds="volatile"
+ meaning="liquid that quickly vaporizes at relatively low temperatures (i.e. gasoline, paint thinner, etc.)" />
+</V>
+<V>
+<f ds="volatile"
+ meaning="evaporating easily; rapidly changing; fickle" />
+</V>
+<V>
+<f ds="volatilisation"
+ meaning="making or causing to be volatile, causing to volatilize (also volatilization)" />
+</V>
+<V>
+<f ds="volatilise"
+ meaning="make evaporate; evaporate; cause to become volatile (also volatilize)" />
+</V>
+<V>
+<f ds="volatility"
+ meaning="state of threatening to explode; fickleness; characteristic of memory which requires a constant electrical supply in order to keep the data from being erased (Computers)" />
+</V>
+<V>
+<f ds="volatilizable"
+ meaning="may be evaporated, may be vaporized" />
+</V>
+<V>
+<f ds="volatilization"
+ meaning="making or causing to be volatile, causing to volatilize (also volatilisation)" />
+</V>
+<V>
+<f ds="volatilize"
+ meaning="make evaporate; evaporate; cause to become volatile (also volatilise)" />
+</V>
+<V>
+<f ds="volcanic action"
+ meaning="activity of a volcano, thundering and erupting of a volcano; activity which is volcano-like" />
+</V>
+<V>
+<f ds="volcanic"
+ meaning="of or pertaining to volcanoes; eruptive" />
+</V>
+<V>
+<f ds="volcanically"
+ meaning="in a volcanic manner; explosively" />
+</V>
+<V>
+<f ds="volcanism"
+ meaning="volcanic processes and phenomena" />
+</V>
+<V>
+<f ds="volcano"
+ meaning="vent in the earth&apos;s crust through which molten rock is ejected; mountain comprising such a vent" />
+</V>
+<V>
+<f ds="volcanological"
+ meaning="pertaining to the study of volcanoes and volcanic phenomenon" />
+</V>
+<V>
+<f ds="volcanologist"
+ meaning="expert in the study of volcanoes and volcanic phenomena" />
+</V>
+<V>
+<f ds="volcanology"
+ meaning="study of volcanoes and volcanic phenomena" />
+</V>
+<V>
+<f ds="vole"
+ meaning="field mouse, rodent resembling a small rat with shorter legs and a shorter tail" />
+</V>
+<V>
+<f ds="volition"
+ meaning="free will, determination by will, choice" />
+</V>
+<V>
+<f ds="volitional"
+ meaning="of or related to free will" />
+</V>
+<V>
+<f ds="volitionally"
+ meaning="intentionally, willfully" />
+</V>
+<V>
+<f ds="volitive"
+ meaning="of or pertaining to volition or will; that expresses a wish" />
+</V>
+<V>
+<f ds="volley"
+ meaning="concurrent burst or discharge of words or ammunition from opposite sides; firing of numerous missiles at once; return of a ball before it touches the ground (Sports)" />
+</V>
+<V>
+<f ds="volley"
+ meaning="hit a ball back and forth without letting it fall to the ground; discharge simultaneously from two sides (as of heated words or ammunition); barrage with missiles" />
+</V>
+<V>
+<f ds="volleyball game"
+ meaning="type of ball game played by hitting the ball over a net using the hands" />
+</V>
+<V>
+<f ds="volleyball team"
+ meaning="group of volleyball players who belong to the same club" />
+</V>
+<V>
+<f ds="volleyball"
+ meaning="game in which two teams position themselves on either side of a high net on a rectangular court and hit a ball back and forth over the net" />
+</V>
+<V>
+<f ds="volleyer"
+ meaning="person who volleys" />
+</V>
+<V>
+<f ds="volplane"
+ meaning="gliding with engine shut off (of an airplane)" />
+</V>
+<V>
+<f ds="volplane"
+ meaning="glide in an airplane; fly in a glider" />
+</V>
+<V>
+<f ds="vols"
+ meaning="series of books" />
+</V>
+<V>
+<f ds="volt"
+ meaning="unit of electro-motive force which constantly applied to a conductor whose resistance is one ohm will produce a current of one ampere" />
+</V>
+<V>
+<f ds="volt-ampere"
+ meaning="unit for measuring electrical force" />
+</V>
+<V>
+<f ds="volta"
+ meaning="turn, time (Music)" />
+</V>
+<V>
+<f ds="voltage booster"
+ meaning="electrical device that is used to amplify the voltage strength" />
+</V>
+<V>
+<f ds="voltage divider"
+ meaning="something used to divide and partition voltage" />
+</V>
+<V>
+<f ds="voltage drop"
+ meaning="situation in which a sudden decrease in the intensity of the voltage occurs" />
+</V>
+<V>
+<f ds="voltage regulator"
+ meaning="apparatus that regulates the level of electrical voltage" />
+</V>
+<V>
+<f ds="voltage source"
+ meaning="origin of electrical voltage" />
+</V>
+<V>
+<f ds="voltage"
+ meaning="amount of electrical tension expressed in volts" />
+</V>
+<V>
+<f ds="voltaic"
+ meaning="of or related to voltage" />
+</V>
+<V>
+<f ds="voltaism"
+ meaning="creation of electricity through chemical reactions" />
+</V>
+<V>
+<f ds="voltameter"
+ meaning="device for measuring the voltage of a direct electrical current" />
+</V>
+<V>
+<f ds="volte face"
+ meaning="about-face, act of turning to face the opposite direction from the original position (Military); complete change in position or attitude; sudden reversal in opinion or policy" />
+</V>
+<V>
+<f ds="voltmeter"
+ meaning="instrument for measuring voltage, instrument for measuring electric potential" />
+</V>
+<V>
+<f ds="volubility"
+ meaning="fluency, talkativeness, loquaciousness, garrulousness; condition of being able to turn easily on an axis" />
+</V>
+<V>
+<f ds="voluble"
+ meaning="fluent, talkative, loquacious, garrulous; turning with ease on an axis" />
+</V>
+<V>
+<f ds="volubly"
+ meaning="fluently, talkatively, loquaciously, garrulously; while turning easily on an axis" />
+</V>
+<V>
+<f ds="volume control"
+ meaning="apparatus that regulates the level of electrical power" />
+</V>
+<V>
+<f ds="volume detector"
+ meaning="alarm system that is activated by a change in volume" />
+</V>
+<V>
+<f ds="volume label"
+ meaning="logical name given to each disk at the time of startup (Computers)" />
+</V>
+<V>
+<f ds="volume of fire"
+ meaning="amount of shots fired from various firearms during a given period of time" />
+</V>
+<V>
+<f ds="volume"
+ meaning="book, book forming one of a series of books; capacity, bulk, displacement; degree of loudness; quantity, amount" />
+</V>
+<V>
+<f ds="volumenometer"
+ meaning="instrument used to measure volume of a solid or changes in volume" />
+</V>
+<V>
+<f ds="volumeter"
+ meaning="device for measuring volume" />
+</V>
+<V>
+<f ds="volumetric"
+ meaning="of or related to the measurement of volume" />
+</V>
+<V>
+<f ds="volumetrically"
+ meaning="by the measurement of volume" />
+</V>
+<V>
+<f ds="voluminosity"
+ meaning="fullness of volume; fruitfulness, abundance" />
+</V>
+<V>
+<f ds="voluminous"
+ meaning="with a large capacity; productive" />
+</V>
+<V>
+<f ds="voluminously"
+ meaning="abundantly, fully; largely, bulkily; fruitfully" />
+</V>
+<V>
+<f ds="voluminousness"
+ meaning="productivity; abundance" />
+</V>
+<V>
+<f ds="voluntarily"
+ meaning="in a voluntary manner, not by force, done or given by free will" />
+</V>
+<V>
+<f ds="voluntary active euthanasia"
+ meaning="euthanasia in which one willingly participates" />
+</V>
+<V>
+<f ds="voluntary association"
+ meaning="figure which operates for a specific purpose without receiving payment" />
+</V>
+<V>
+<f ds="voluntary bankruptcy"
+ meaning="declaration of bankruptcy according to the request of the person in debt" />
+</V>
+<V>
+<f ds="voluntary liquidation"
+ meaning="liquidation of a company according to the request of the company&apos;s shareholders" />
+</V>
+<V>
+<f ds="voluntary loan"
+ meaning="loan that is given or taken by one&apos;s own free will" />
+</V>
+<V>
+<f ds="voluntary muscles"
+ meaning="drawn muscles, muscles whose activities can be controlled, skeletal muscles" />
+</V>
+<V>
+<f ds="voluntary mutism"
+ meaning="elective mutism, mutism caused by psychogenic reasons, mutism that is voluntary on the part of a patient" />
+</V>
+<V>
+<f ds="voluntary purchaser"
+ meaning="one who purchases an asset willingly" />
+</V>
+<V>
+<f ds="voluntary savings"
+ meaning="savings that is made by free choice" />
+</V>
+<V>
+<f ds="voluntary seller"
+ meaning="one who sells an asset willingly" />
+</V>
+<V>
+<f ds="voluntary"
+ meaning="improvised piece of organ music played throughout a religious service; short piece of music which introduces a longer composition; volunteer" />
+</V>
+<V>
+<f ds="voluntary"
+ meaning="done by free choice; unpaid; having free will; functioning with the help of volunteers, supported by donations; intentional, deliberate (Law)" />
+</V>
+<V>
+<f ds="volunteer an opinion"
+ meaning="offer one&apos;s opinion" />
+</V>
+<V>
+<f ds="volunteer"
+ meaning="one who offers his services of his own free will or without pay" />
+</V>
+<V>
+<f ds="volunteer"
+ meaning="offer to do or give something voluntarily; propose, put forward (without being invited to do so); offer that someone else will do or give something voluntarily" />
+</V>
+<V>
+<f ds="volunteering policemen unit"
+ meaning="unit of law enforcement police that is comprised of volunteers" />
+</V>
+<V>
+<f ds="volunteerism"
+ meaning="act of donating one&apos;s time to a particular activity (without salary)" />
+</V>
+<V>
+<f ds="volunteers are required"
+ meaning="request made to the public to volunteer for some group or cause" />
+</V>
+<V>
+<f ds="voluptuary"
+ meaning="lover of pleasure, lover of luxury" />
+</V>
+<V>
+<f ds="voluptuous"
+ meaning="sensual, sensuous; luxurious, hedonistic; having an attractive full figure (of a woman)" />
+</V>
+<V>
+<f ds="voluptuously"
+ meaning="in a voluptuous manner; sensually; with a full and attractive figure" />
+</V>
+<V>
+<f ds="voluptuousness"
+ meaning="quality of being voluptuous; sensuousness; attractive fullness of figure (of a woman)" />
+</V>
+<V>
+<f ds="volute"
+ meaning="curling or spiral figure decorating the top of an Ionic column; mollusk which has a spiralling sometimes colorful shell" />
+</V>
+<V>
+<f ds="volutin"
+ meaning="easily stained substance with a basic dye which contains a large amount of phosphorus and can be found in the cytoplasm of bacterial and fungal cells" />
+</V>
+<V>
+<f ds="volvox"
+ meaning="freshwater green algae that forms hollow spheres of multicellular communities" />
+</V>
+<V>
+<f ds="volvulus"
+ meaning="abnormal twist in the intestine (Medicine)" />
+</V>
+<V>
+<f ds="vomer"
+ meaning="thin flat bone which divides the nostrils in the nose" />
+</V>
+<V>
+<f ds="vomerine"
+ meaning="of the bone of the nose, of the vomer" />
+</V>
+<V>
+<f ds="vomica"
+ meaning="pus-filled cavity that is caused by tissue deterioration and usually occurs in the lung (Medicine)" />
+</V>
+<V>
+<f ds="vomit"
+ meaning="stomach contents which have been expelled through the mouth" />
+</V>
+<V>
+<f ds="vomit"
+ meaning="eject stomach contents through the mouth; throw up" />
+</V>
+<V>
+<f ds="vomiter"
+ meaning="one who vomits or is in the act of vomiting" />
+</V>
+<V>
+<f ds="vomitive"
+ meaning="drug which causes vomiting" />
+</V>
+<V>
+<f ds="vomitive"
+ meaning="causing vomiting" />
+</V>
+<V>
+<f ds="vomitous"
+ meaning="nauseating, that causes vomiting, of or pertaining to vomiting; on the verge of vomiting" />
+</V>
+<V>
+<f ds="vomiturition"
+ meaning="act of forcefully attempting to vomit (usually unsuccessfully)" />
+</V>
+<V>
+<f ds="vomitus"
+ meaning="vomit, throw-up" />
+</V>
+<V>
+<f ds="von"
+ meaning="(German) from (used in names to indicate origin, nobility, or noble ancestry)" />
+</V>
+<V>
+<f ds="voodoo"
+ meaning="form of religious witchcraft of African origin which is common in the West Indies; one who practices voodoo" />
+</V>
+<V>
+<f ds="voodooism"
+ meaning="voodoo ritualism of Africa and Haiti entailing sorcery and talismans and superstition" />
+</V>
+<V>
+<f ds="voracious reader"
+ meaning="book worm, one who likes to read" />
+</V>
+<V>
+<f ds="voracious"
+ meaning="ardently enthusiastic about a certain activity; ravenous; unsatisfiable, cannot be satiated, insatiable" />
+</V>
+<V>
+<f ds="voraciously"
+ meaning="enthusiastically; ravenously" />
+</V>
+<V>
+<f ds="voraciousness"
+ meaning="ardent enthusiasm for a certain activity; ravenousness" />
+</V>
+<V>
+<f ds="voracity"
+ meaning="ardent enthusiasm for a certain activity; ravenousness" />
+</V>
+<V>
+<f ds="vortex"
+ meaning="eddy, whirlpool; engulfing situation" />
+</V>
+<V>
+<f ds="vortical"
+ meaning="of a vortex; resembling a whirlpool or vortex" />
+</V>
+<V>
+<f ds="vorticella"
+ meaning="one-celled organism with a bell-shaped body that attaches itself to underwater plants by means of a slender stalk" />
+</V>
+<V>
+<f ds="votable"
+ meaning="may be voted on; may be determined by a vote" />
+</V>
+<V>
+<f ds="votaress"
+ meaning="woman who is a votary, female admirer, female devotee" />
+</V>
+<V>
+<f ds="votary"
+ meaning="admirer, devotee; worshiper" />
+</V>
+<V>
+<f ds="vote by a show of hands"
+ meaning="vote by raising one&apos;s hand to indicate one&apos;s choice" />
+</V>
+<V>
+<f ds="vote by ballot"
+ meaning="give an opinion regarding an election by placing a paper with your opinion into a specific box" />
+</V>
+<V>
+<f ds="vote contracting"
+ meaning="payment for voting in favor of a specific candidate, voting bribery" />
+</V>
+<V>
+<f ds="vote contractor"
+ meaning="one who offers payment in return for a vote for a specific candidate" />
+</V>
+<V>
+<f ds="vote counting"
+ meaning="tallying the number of votes cast for each candidate" />
+</V>
+<V>
+<f ds="vote down"
+ meaning="reject by a majority vote" />
+</V>
+<V>
+<f ds="vote for the individual not for the label"
+ meaning="vote in favor of a candidate but not for the whole political party" />
+</V>
+<V>
+<f ds="vote of confidence"
+ meaning="vote intended to demonstrate faith in the government or its leadership" />
+</V>
+<V>
+<f ds="vote of non-confidence"
+ meaning="attempt to throw over the government, voting with a lack of faith" />
+</V>
+<V>
+<f ds="vote of nonconfidence"
+ meaning="attempt to overturn the government, vote whose goal it is to overthrow the leadership" />
+</V>
+<V>
+<f ds="vote of protest"
+ meaning="demonstrative vote that is done for the sake of protest" />
+</V>
+<V>
+<f ds="vote out"
+ meaning="win an election" />
+</V>
+<V>
+<f ds="vote solid"
+ meaning="vote unanimously, vote entirely for the same choice" />
+</V>
+<V>
+<f ds="vote today and have a say"
+ meaning="your vote counts, whoever participates in the election has an influence on vital issues" />
+</V>
+<V>
+<f ds="vote with one&apos;s feet"
+ meaning="express one&apos;s disapprobation by leaving; public display of sympathy or opposition carried out as a mass demonstration or march" />
+</V>
+<V>
+<f ds="vote"
+ meaning="voice; act of making an official choice, election; official choice; eligibility to vote; total number of votes; result of an election" />
+</V>
+<V>
+<f ds="vote"
+ meaning="cast a ballot; officially choose one out of a number of options; voice a suggestion" />
+</V>
+<V>
+<f ds="voted against"
+ meaning="showed personal disagreement by voting for the other party" />
+</V>
+<V>
+<f ds="voteless"
+ meaning="lacking the right to vote, lacking ballot privileges" />
+</V>
+<V>
+<f ds="voter registration record"
+ meaning="list of voters" />
+</V>
+<V>
+<f ds="voter turnout"
+ meaning="total number or percentage of eligible voters who cast ballots in an election" />
+</V>
+<V>
+<f ds="voter"
+ meaning="one who casts a ballot; one who chooses" />
+</V>
+<V>
+<f ds="voters roll"
+ meaning="list of voters" />
+</V>
+<V>
+<f ds="voters&apos; list"
+ meaning="summary of everyone who is voting, summary of everyone who has the privilege to vote" />
+</V>
+<V>
+<f ds="voting booth"
+ meaning="cubicle or alcove used by one voter at a time in order to ensure privacy during the voting process" />
+</V>
+<V>
+<f ds="voting record"
+ meaning="list showing a candidate&apos;s or elected official&apos;s voting history (often in relation to a specific issue)" />
+</V>
+<V>
+<f ds="voting viva voce"
+ meaning="election during which people who are eligible to vote are able to vote only after their name is called" />
+</V>
+<V>
+<f ds="voting"
+ meaning="casting of ballots" />
+</V>
+<V>
+<f ds="votive"
+ meaning="given or dedicated to the fulfillment of a vow; expressing a wish or a desire" />
+</V>
+<V>
+<f ds="votre"
+ meaning="your, belongs to you (in French)" />
+</V>
+<V>
+<f ds="vouch"
+ meaning="attest, confirm; guarantee, answer for; prove, substantiate" />
+</V>
+<V>
+<f ds="vouchee"
+ meaning="(Law) person for whom another vouches" />
+</V>
+<V>
+<f ds="voucher check"
+ meaning="check which a coupon on the side where the details of the transaction can be recorded" />
+</V>
+<V>
+<f ds="voucher"
+ meaning="certificate that bears monetary value, coupon; receipt; authorizer, endorser" />
+</V>
+<V>
+<f ds="voucherable"
+ meaning="able to be vouched for, able to verified" />
+</V>
+<V>
+<f ds="vouchsafe"
+ meaning="condescend to giving or granting something (as a wish); agree or commit to something" />
+</V>
+<V>
+<f ds="vous"
+ meaning="you (plural); you (singular - used to show courtesy and respect in French)" />
+</V>
+<V>
+<f ds="vow"
+ meaning="pledge; solemn promise" />
+</V>
+<V>
+<f ds="vow"
+ meaning="pledge; make a solemn promise" />
+</V>
+<V>
+<f ds="vowel letters"
+ meaning="letters pronounced without disrupting air flow from the lungs (a, e, i, o, u, y)" />
+</V>
+<V>
+<f ds="vowel point"
+ meaning="punctuated vowel, vowel represented by punctuation rather than letters (Grammar)" />
+</V>
+<V>
+<f ds="vowel rhyme"
+ meaning="assonance, resemblance of sounds in words or in syllables, repetition of vowel sounds" />
+</V>
+<V>
+<f ds="vowel shift"
+ meaning="phonetic phenomenon of changing pronunciation of vowels" />
+</V>
+<V>
+<f ds="vowel"
+ meaning="vocal sound that has no obstructions (Linguistics)" />
+</V>
+<V>
+<f ds="vower"
+ meaning="one who promises, one who pledges, one who takes a vow" />
+</V>
+<V>
+<f ds="vox pop"
+ meaning="(British usage) vox populi, popular opinion, public opinion" />
+</V>
+<V>
+<f ds="vox populi"
+ meaning="(Latin) &quot;voice of the people&quot;, public sentiment, public opinion" />
+</V>
+<V>
+<f ds="vox populi vox Dei"
+ meaning="(Latin) the voice of the general population is the voice of God, the Voice of the People Is the Voice of God" />
+</V>
+<V>
+<f ds="vox"
+ meaning="(Latin) voice" />
+</V>
+<V>
+<f ds="voxel"
+ meaning="dimension of 3D volume that is parallel to a pixel (used in dimensional modelling)" />
+</V>
+<V>
+<f ds="voyage"
+ meaning="trip, journey; travel, cruise; story of a journey" />
+</V>
+<V>
+<f ds="voyage"
+ meaning="take a cruise, travel, make a journey" />
+</V>
+<V>
+<f ds="voyager"
+ meaning="traveler, one who journeys, one who goes on trips" />
+</V>
+<V>
+<f ds="voyeur"
+ meaning="one who is stimulated by watching sexual acts or naked bodies (especially in secret); one who derives enjoyment from seeing misery or sordidness" />
+</V>
+<V>
+<f ds="voyeurism"
+ meaning="stimulation derived from secretly watching sexual acts or naked bodies; enjoyment from seeing misery or sordidness" />
+</V>
+<V>
+<f ds="voyeuristic"
+ meaning="of voyeurism; of or having characteristics of a voyeur" />
+</V>
+<V>
+<f ds="vs."
+ meaning="in comparison to, in contrast with" />
+</V>
+<V>
+<f ds="vulcanise"
+ meaning="treat crude rubber with sulphur and expose it to high temperatures to increase its durability and elasticity (also vulcanize)" />
+</V>
+<V>
+<f ds="vulcaniser"
+ meaning="person or thing which treats crude rubber with sulphur and exposes it to high temperatures to increase its durability and elasticity (also vulcanizer)" />
+</V>
+<V>
+<f ds="vulcanism"
+ meaning="volcanic processes and phenomena" />
+</V>
+<V>
+<f ds="vulcanite"
+ meaning="hard and inelastic rubber made by the vulcanizing of natural rubber with sulfur" />
+</V>
+<V>
+<f ds="vulcanization"
+ meaning="method of treating crude rubber with sulphur and exposing it to high temperatures to increase its durability and elasticity" />
+</V>
+<V>
+<f ds="vulcanize"
+ meaning="treat crude rubber with sulphur and expose it to high temperatures to increase its durability and elasticity (also vulcanise)" />
+</V>
+<V>
+<f ds="vulcanizer"
+ meaning="person or thing which treats crude rubber with sulphur and exposes it to high temperatures to increase its durability and elasticity (also vulcaniser)" />
+</V>
+<V>
+<f ds="vulcanologist"
+ meaning="volcanologist, expert in the study of volcanoes and volcanic phenomena" />
+</V>
+<V>
+<f ds="vulcanology"
+ meaning="volcanology, study of volcanoes and volcanic phenomena" />
+</V>
+<V>
+<f ds="vulgar advertisement"
+ meaning="rude advertisement, advertisement that contains offensive material" />
+</V>
+<V>
+<f ds="vulgar behavior"
+ meaning="rudeness, use of obscenity, crudeness" />
+</V>
+<V>
+<f ds="vulgar fraction"
+ meaning="simple fraction (Mathematics)" />
+</V>
+<V>
+<f ds="vulgar language"
+ meaning="street language, crude speech, simple and common way of speaking" />
+</V>
+<V>
+<f ds="vulgar person"
+ meaning="coarse person, loud person" />
+</V>
+<V>
+<f ds="vulgar"
+ meaning="uncouth, indecent; lacking in taste; vernacular; ordinary; offensively gaudy" />
+</V>
+<V>
+<f ds="vulgarian"
+ meaning="vulgar person, rich person who makes an offensively gaudy display of his wealth" />
+</V>
+<V>
+<f ds="vulgaris"
+ meaning="of the usual type; regular, common; ordinary (in Medicine &amp; in Botany meaning the most widespread in the genus; in Biology: common species&quot;)" />
+</V>
+<V>
+<f ds="vulgarisation"
+ meaning="debasement and coarsening of something, popularization (also vulgarization)" />
+</V>
+<V>
+<f ds="vulgarise"
+ meaning="popularize; make vulgar, coarsen (also vulgarize)" />
+</V>
+<V>
+<f ds="vulgariser"
+ meaning="person or thing that popularizes; person or thing that makes vulgar (also vulgarizer)" />
+</V>
+<V>
+<f ds="vulgarism"
+ meaning="vulgarness; vernacular or unrefined term" />
+</V>
+<V>
+<f ds="vulgarity"
+ meaning="vulgar act; quality of being crude, indecency" />
+</V>
+<V>
+<f ds="vulgarization"
+ meaning="debasement and coarsening of something, popularization (also vulgarisation)" />
+</V>
+<V>
+<f ds="vulgarize"
+ meaning="popularize; make vulgar, coarsen (also vulgarise)" />
+</V>
+<V>
+<f ds="vulgarizer"
+ meaning="person or thing that popularizes; person or thing that makes vulgar (also vulgariser)" />
+</V>
+<V>
+<f ds="vulgarly"
+ meaning="in a manner befitting the masses; coarsely, obscenely" />
+</V>
+<V>
+<f ds="vulgarness"
+ meaning="quality of being vulgar; crudeness, lack of refinement" />
+</V>
+<V>
+<f ds="vulgate"
+ meaning="Latin translation of the Bible that was made in the 4th century" />
+</V>
+<V>
+<f ds="vulgus"
+ meaning="crowd, mass (Latin); scholastic exercise in Latin" />
+</V>
+<V>
+<f ds="vulnerability"
+ meaning="defenselessness; susceptibility; quality of being easily hurt or harmed, sensitivity" />
+</V>
+<V>
+<f ds="vulnerable point"
+ meaning="weak point, sensitive point, point that can be easily injured" />
+</V>
+<V>
+<f ds="vulnerable target"
+ meaning="target that is easy to hit; sensitive target" />
+</V>
+<V>
+<f ds="vulnerable"
+ meaning="unprotected, defenseless; exposed; susceptible" />
+</V>
+<V>
+<f ds="vulnerably"
+ meaning="defenselessly; susceptibly; in an assailable manner, without protection" />
+</V>
+<V>
+<f ds="vulnerary"
+ meaning="medication used to heal wounds (Archaic)" />
+</V>
+<V>
+<f ds="vulnerary"
+ meaning="used for healing wounds, that heals wounds (Archaic)" />
+</V>
+<V>
+<f ds="vulpine"
+ meaning="fox-like; cunning, sly, clever, shrewd" />
+</V>
+<V>
+<f ds="vulture"
+ meaning="any of various large carrion-eating birds; predatory person or thing" />
+</V>
+<V>
+<f ds="vulturous"
+ meaning="raptorial, predatory; of or relating to a vulture, having the characteristics of a vulture" />
+</V>
+<V>
+<f ds="vulva"
+ meaning="opening and external parts of female genitals" />
+</V>
+<V>
+<f ds="vulval"
+ meaning="pertaining to the vulva" />
+</V>
+<V>
+<f ds="vulvar"
+ meaning="pertaining to the vulva" />
+</V>
+<V>
+<f ds="vulvectomy"
+ meaning="surgical removal of the vulva, surgical removal of the external portions of the female genitals" />
+</V>
+<V>
+<f ds="vulvitis"
+ meaning="inflammation of the vulva" />
+</V>
+<V>
+<f ds="vulvovaginitis"
+ meaning="inflammation of the vagina and vulva" />
+</V>
+</dataroot>

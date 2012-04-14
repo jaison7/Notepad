@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<Y>
+<f ds="y"
+ meaning="25th letter of the alphabet" />
+</Y>
+<Y>
+<f ds="y&apos;all"
+ meaning="&quot;you&quot; in plural, when addressing two or more people; &quot;you&quot; when addressing one person but representing another or others as well" />
+</Y>
+<Y>
+<f ds="y-axis"
+ meaning="vertical axis (Mathematics)" />
+</Y>
+<Y>
+<f ds="y."
+ meaning="period of time equal to 12 months" />
+</Y>
+<Y>
+<f ds="y."
+ meaning="abbreviation for yard, measure of length equal to 3 feet or 0.91 meters" />
+</Y>
+<Y>
+<f ds="ya"
+ meaning="(Informal) second person pronoun (singular and plural)" />
+</Y>
+<Y>
+<f ds="yabbie"
+ meaning="yabby, small freshwater crayfish native to Australia" />
+</Y>
+<Y>
+<f ds="yabby"
+ meaning="yabbie, small freshwater crayfish native to Australia" />
+</Y>
+<Y>
+<f ds="yacc"
+ meaning="computer software that is used as the standard parser generator on Unix systems" />
+</Y>
+<Y>
+<f ds="yacht anchorage"
+ meaning="place for mooring a yacht" />
+</Y>
+<Y>
+<f ds="yacht club"
+ meaning="boating club, sailing club" />
+</Y>
+<Y>
+<f ds="yacht"
+ meaning="tour boat, race boat; large boat; luxury sail or motored boat" />
+</Y>
+<Y>
+<f ds="yacht"
+ meaning="sail in a yacht (vessel for private cruising); participate in a yacht race" />
+</Y>
+<Y>
+<f ds="yachter"
+ meaning="one who owns a yacht (small cruise ship); one who sails a yacht" />
+</Y>
+<Y>
+<f ds="yachting"
+ meaning="cruising in a yacht (type of boat)" />
+</Y>
+<Y>
+<f ds="yachtsman"
+ meaning="yacht owner, yachter; yacht sailor" />
+</Y>
+<Y>
+<f ds="yachtsmanship"
+ meaning="sailing in a yacht, cruising in a yacht" />
+</Y>
+<Y>
+<f ds="yachtswoman"
+ meaning="female owner of yacht; female yacht sailor" />
+</Y>
+<Y>
+<f ds="yack"
+ meaning="talk much or idly, chatter, babble, prattle" />
+</Y>
+<Y>
+<f ds="yacker"
+ meaning="chatter" />
+</Y>
+<Y>
+<f ds="yaffle"
+ meaning="green woodpecker (British use)" />
+</Y>
+<Y>
+<f ds="yahoo!"
+ meaning="yippee!, oh yeah! (expression of joy or excitement)" />
+</Y>
+<Y>
+<f ds="yahoo"
+ meaning="coarse or ill-bred person" />
+</Y>
+<Y>
+<f ds="yahrzeit"
+ meaning="(Yiddish) anniversary of the death of a relative, jahrzeit (in Judaism)" />
+</Y>
+<Y>
+<f ds="yahveh"
+ meaning="one of the Hebrew names for God, Jehovah, Yahweh" />
+</Y>
+<Y>
+<f ds="yahwist"
+ meaning="supporter of referring to God as &quot;Yahweh&quot;" />
+</Y>
+<Y>
+<f ds="yak"
+ meaning="long-haired ox of Tibet; act of talking too much or chattering" />
+</Y>
+<Y>
+<f ds="yak"
+ meaning="chat, gab, prattle" />
+</Y>
+<Y>
+<f ds="yaki-mono"
+ meaning="(Japanese) dishes of of meat that are prepared with soy sauce or seasonings and are broiled or grilled or fried in a pan" />
+</Y>
+<Y>
+<f ds="yakimono"
+ meaning="(Japanese) dishes of of meat that are prepared with soy sauce or seasonings and are broiled or grilled or fried in a pan, yaki-mono" />
+</Y>
+<Y>
+<f ds="yakitori"
+ meaning="(Japanese cooking) dish of small pieces of marinated boneless chicken placed on a skewers and grilled" />
+</Y>
+<Y>
+<f ds="yakut"
+ meaning="of or pertaining to the Yakut people" />
+</Y>
+<Y>
+<f ds="yakuza"
+ meaning="organized crime in Japan; any of the closely connected Japanese criminal organizations; collective name of such organizations; gangster; member of a Yakuza" />
+</Y>
+<Y>
+<f ds="yam"
+ meaning="tropical vine that bears edible tuberous roots; edible starchy tuber of the yam plant; sweet potato (USA)" />
+</Y>
+<Y>
+<f ds="yammer"
+ meaning="complain; complain in a loud voice; scream, shout" />
+</Y>
+<Y>
+<f ds="yammerer"
+ meaning="complainer, grumbler; screamer, yeller" />
+</Y>
+<Y>
+<f ds="yangtze river"
+ meaning="river in China which is the longest river of Asia (flows eastward from Tibet to the East China Sea in the east)" />
+</Y>
+<Y>
+<f ds="yank"
+ meaning="strong tug, drawing towards" />
+</Y>
+<Y>
+<f ds="yank"
+ meaning="pull with a sudden jerking motion; wrench; pull out; uproot" />
+</Y>
+<Y>
+<f ds="yankeedom"
+ meaning="region populated by Yankees; Yankees as a group" />
+</Y>
+<Y>
+<f ds="yankeeism"
+ meaning="Americanism, quality of being a Yankee; American behavior, American expression" />
+</Y>
+<Y>
+<f ds="yanqui"
+ meaning="Yankee, American" />
+</Y>
+<Y>
+<f ds="yap"
+ meaning="yelp, bark; chatter, foolish talk; uncouth person; mouth (Slang)" />
+</Y>
+<Y>
+<f ds="yap"
+ meaning="yelp, bark; talk noisily or foolishly; chatter" />
+</Y>
+<Y>
+<f ds="yapper"
+ meaning="one who talks a lot, chatter; barker; one who speaks in a loud voice" />
+</Y>
+<Y>
+<f ds="yard bird"
+ meaning="(Slang) soldier restrained to a restricted area as punishment; soldier who is assigned servile tasks as punishment; inept military recruit; prisoner; convict" />
+</Y>
+<Y>
+<f ds="yard pet"
+ meaning="car that does not sell (Slang)" />
+</Y>
+<Y>
+<f ds="yard sale"
+ meaning="informal sale of personal possessions usually held on one&apos;s premises; informal estate sale" />
+</Y>
+<Y>
+<f ds="yard"
+ meaning="lawn, enclosure, lot, courtyard; unit of measure equal to 0.9144 meters; storage area; train yard, yard where railway cars and engines are stored and maintained; pen, enclosure for livestock; crossbeam for a sail (Nautical)" />
+</Y>
+<Y>
+<f ds="yardage"
+ meaning="number of yards, length of yards" />
+</Y>
+<Y>
+<f ds="yardarm"
+ meaning="either end of ship" />
+</Y>
+<Y>
+<f ds="yardbird"
+ meaning="(Slang) soldier restrained to a restricted area as punishment; soldier who is assigned servile tasks as punishment; inept military recruit; prisoner; convict" />
+</Y>
+<Y>
+<f ds="yardman"
+ meaning="one who works on the railroad" />
+</Y>
+<Y>
+<f ds="yardmaster"
+ meaning="inspector of a railroad yard" />
+</Y>
+<Y>
+<f ds="yardstick"
+ meaning="criterion, standard of measurement; yard-long measuring stick (about 0.91 meters long)" />
+</Y>
+<Y>
+<f ds="yarmelke"
+ meaning="headcovering work in the Jewish religion" />
+</Y>
+<Y>
+<f ds="yarmulka"
+ meaning="headcovering worn by religious Jews, skullcap" />
+</Y>
+<Y>
+<f ds="yarmulke"
+ meaning="headcovering worn by religious Jews" />
+</Y>
+<Y>
+<f ds="yarn"
+ meaning="woven string; tale, story" />
+</Y>
+<Y>
+<f ds="yarn"
+ meaning="weave a story, tell a tale" />
+</Y>
+<Y>
+<f ds="yarovise"
+ meaning="vernalise, speed up the development process of a plant by exposing its seed or bulb to cold temperatures (also yarovize)" />
+</Y>
+<Y>
+<f ds="yarovize"
+ meaning="vernalize, speed up the development process of a plant by exposing its seed or bulb to cold temperatures (also yarovise)" />
+</Y>
+<Y>
+<f ds="yarrow"
+ meaning="plant from the genus Achillea" />
+</Y>
+<Y>
+<f ds="yashmak"
+ meaning="veil worn by Muslim women" />
+</Y>
+<Y>
+<f ds="yatagan"
+ meaning="long curved Turkish sword with a single-edged blade" />
+</Y>
+<Y>
+<f ds="yataghan"
+ meaning="long curved Turkish sword with a single-edged blade" />
+</Y>
+<Y>
+<f ds="yaupon"
+ meaning="evergreen holly native of southeast United States with smooth oval leaves and red or yellow fruit; tea made from the dried leaves of the yaupon shrub" />
+</Y>
+<Y>
+<f ds="yaw rate"
+ meaning="rate of deviation from the path (of an airplane or ship)" />
+</Y>
+<Y>
+<f ds="yaw"
+ meaning="deviation; angle of deviation (Aerodynamics, Nautical)" />
+</Y>
+<Y>
+<f ds="yaw"
+ meaning="deviate from course (Aerodynamics, Nautical)" />
+</Y>
+<Y>
+<f ds="yawl"
+ meaning="sailboat, schooner" />
+</Y>
+<Y>
+<f ds="yawn"
+ meaning="involuntary deep intake of air from drowsiness or fatigue" />
+</Y>
+<Y>
+<f ds="yawn"
+ meaning="involuntarily open the mouth wide and inhale due to drowsiness or fatigue" />
+</Y>
+<Y>
+<f ds="yawner"
+ meaning="one who yawns; boring show, uninteresting performance (Slang)" />
+</Y>
+<Y>
+<f ds="yawning chasm"
+ meaning="deep gaping hole in the earth" />
+</Y>
+<Y>
+<f ds="yawning"
+ meaning="act of open the mouth wide and taking a deep breath (involuntarily - from tiredness or boredom)" />
+</Y>
+<Y>
+<f ds="yawp"
+ meaning="hoarse yelp, noisy silly utterance" />
+</Y>
+<Y>
+<f ds="yawp"
+ meaning="talk noisily; shout; make a clamorous noise" />
+</Y>
+<Y>
+<f ds="yawper"
+ meaning="barker; person who talks a lot, chatter" />
+</Y>
+<Y>
+<f ds="yaws"
+ meaning="tropical disease" />
+</Y>
+<Y>
+<f ds="yclept"
+ meaning="called by name (Archaic)" />
+</Y>
+<Y>
+<f ds="yd."
+ meaning="unit of measurement" />
+</Y>
+<Y>
+<f ds="yds."
+ meaning="36 inches, unit of measurement of length" />
+</Y>
+<Y>
+<f ds="ye"
+ meaning="(Old English) you (often plural)" />
+</Y>
+<Y>
+<f ds="ye"
+ meaning="the (Archaic)" />
+</Y>
+<Y>
+<f ds="yea and nay"
+ meaning="hesitancy, wavering, &quot;sitting on the fence&quot;, being unsure what stance to take" />
+</Y>
+<Y>
+<f ds="yea"
+ meaning="expression of yes; vote in favor; affirmative answer; one who votes in favor; one who says yes" />
+</Y>
+<Y>
+<f ds="yea"
+ meaning="yes; really; that and more" />
+</Y>
+<Y>
+<f ds="yea"
+ meaning="yes; really; that and more" />
+</Y>
+<Y>
+<f ds="yeah"
+ meaning="yes (Informal)" />
+</Y>
+<Y>
+<f ds="yean"
+ meaning="give birth to a young goat or sheep (Archaic)" />
+</Y>
+<Y>
+<f ds="yeanling"
+ meaning="(Archaic) young goat or sheep, kid; lamb" />
+</Y>
+<Y>
+<f ds="year after year"
+ meaning="each year, every year, annually" />
+</Y>
+<Y>
+<f ds="year by year"
+ meaning="from year to year, one year at a time" />
+</Y>
+<Y>
+<f ds="year in year out"
+ meaning="constantly, all the time" />
+</Y>
+<Y>
+<f ds="year of manufacture"
+ meaning="model, year during which the car is produced, year of birth" />
+</Y>
+<Y>
+<f ds="year of maturity"
+ meaning="year in which the repayment of a loan is due" />
+</Y>
+<Y>
+<f ds="year of mourning"
+ meaning="year of grief for the dead" />
+</Y>
+<Y>
+<f ds="year of the comet"
+ meaning="year when a comet nears Earth and can be seen" />
+</Y>
+<Y>
+<f ds="year to date"
+ meaning="(Finance) total transactions from the start of the year to now; period starting at the beginning of the calendar year up to the present date" />
+</Y>
+<Y>
+<f ds="year"
+ meaning="period of 12 months, period of 365 days" />
+</Y>
+<Y>
+<f ds="year-end"
+ meaning="occurring at the year-end, made at the year-end" />
+</Y>
+<Y>
+<f ds="year-over-year"
+ meaning="(Finance) compared to the same period last year" />
+</Y>
+<Y>
+<f ds="yearbook"
+ meaning="book published for remembering a past year&apos;s events (e.g. in a school)" />
+</Y>
+<Y>
+<f ds="yearling"
+ meaning="one-year old (often of animals)" />
+</Y>
+<Y>
+<f ds="yearlong"
+ meaning="during the year, lasting the entire year" />
+</Y>
+<Y>
+<f ds="yearly event"
+ meaning="occurrence which takes place every year" />
+</Y>
+<Y>
+<f ds="yearly"
+ meaning="occurring every year; continuing for a year" />
+</Y>
+<Y>
+<f ds="yearly"
+ meaning="once a year, every year, annually; throughout the year" />
+</Y>
+<Y>
+<f ds="yearn"
+ meaning="desire, long, crave; pine, miss someone or something" />
+</Y>
+<Y>
+<f ds="yearned for"
+ meaning="desired, longed for, his soul thirsted for" />
+</Y>
+<Y>
+<f ds="yearning"
+ meaning="desire, longing, craving; pining, missing someone or something" />
+</Y>
+<Y>
+<f ds="yearningly"
+ meaning="longingly, cravingly; wistfully" />
+</Y>
+<Y>
+<f ds="years ago"
+ meaning="a long time ago, in the distant past, many years before" />
+</Y>
+<Y>
+<f ds="years in prison"
+ meaning="number of years that someone serves in jail as a punishment for breaking the law" />
+</Y>
+<Y>
+<f ds="years of experience"
+ meaning="years of practical work, period of experience that is often required as a prerequisite when applying for a new job" />
+</Y>
+<Y>
+<f ds="years"
+ meaning="long time; advanced or old age; general term for time (past, present and future); specific period of time" />
+</Y>
+<Y>
+<f ds="yeas and nays"
+ meaning="ones in favor and the ones opposed" />
+</Y>
+<Y>
+<f ds="yeast cake"
+ meaning="cake which is baked with the use of fermenting agents" />
+</Y>
+<Y>
+<f ds="yeast cell"
+ meaning="one cell of yeast, one living yeast organism" />
+</Y>
+<Y>
+<f ds="yeast dough"
+ meaning="dough that is reduced via yeast" />
+</Y>
+<Y>
+<f ds="yeast powder"
+ meaning="dried powder form of yeast that becomes active when added to water" />
+</Y>
+<Y>
+<f ds="yeast"
+ meaning="general term for a type of unicellular fungi that multiply by budding (Medicine); leavening agent (used in bread and beer)" />
+</Y>
+<Y>
+<f ds="yeastiness"
+ meaning="resemblance to yeast; vigorousness, energy; joyfulness of youth; superficiality, shallowness" />
+</Y>
+<Y>
+<f ds="yeastlike"
+ meaning="resembling yeast, similar to yeast" />
+</Y>
+<Y>
+<f ds="yeasty"
+ meaning="concerning yeast; yeast-like; fermented, frothy; powerful, vigorous, effervescent, &quot;excited&quot;; superficial, light" />
+</Y>
+<Y>
+<f ds="yecch"
+ meaning="exclamation of disgust, exclamation of aversion" />
+</Y>
+<Y>
+<f ds="yegg"
+ meaning="criminal; burglar; safecracker" />
+</Y>
+<Y>
+<f ds="yeggman"
+ meaning="criminal; burglar" />
+</Y>
+<Y>
+<f ds="yeh"
+ meaning="(Slang) marijuana" />
+</Y>
+<Y>
+<f ds="yeh"
+ meaning="(Slang) yes, yea" />
+</Y>
+<Y>
+<f ds="yelk"
+ meaning="vitellus; yolk; oily discharge that covers the wool of sheep" />
+</Y>
+<Y>
+<f ds="yell an order"
+ meaning="shout a command" />
+</Y>
+<Y>
+<f ds="yell with pain"
+ meaning="scream from pain, shout from physical aches" />
+</Y>
+<Y>
+<f ds="yell"
+ meaning="shout, scream, cry, shriek" />
+</Y>
+<Y>
+<f ds="yell"
+ meaning="shout, scream, cry, shriek" />
+</Y>
+<Y>
+<f ds="yelled at him"
+ meaning="screamed at him" />
+</Y>
+<Y>
+<f ds="yeller"
+ meaning="one who shouts, one who yells" />
+</Y>
+<Y>
+<f ds="yelling"
+ meaning="shouting, act of yelling, act of screaming, act of calling out; act of shouting a loud unclear cry of excitement or pain" />
+</Y>
+<Y>
+<f ds="yello"
+ meaning="amusing form of &quot;hello&quot;" />
+</Y>
+<Y>
+<f ds="yellow belt"
+ meaning="low category or rank in most of the martial arts" />
+</Y>
+<Y>
+<f ds="yellow book"
+ meaning="(in France) official government publication having yellow covers" />
+</Y>
+<Y>
+<f ds="yellow card"
+ meaning="warning to a soccer player due to his infraction of the rules of the game" />
+</Y>
+<Y>
+<f ds="yellow dog"
+ meaning="despicable person; despicable thing" />
+</Y>
+<Y>
+<f ds="yellow dog contract"
+ meaning="employment contract between a worker and an employer wherein an employee agrees not to join a labor union" />
+</Y>
+<Y>
+<f ds="yellow earth"
+ meaning="yellow clay colored by iron" />
+</Y>
+<Y>
+<f ds="yellow fever"
+ meaning="untreatable tropical disease that is transmitted by mosquito stings" />
+</Y>
+<Y>
+<f ds="yellow flag"
+ meaning="quarantine flag, yellow flag flown by itself by a ship requesting pratique on entering a harbor to indicate that the ship has no disease on board; flag flown by a ship with another flag to indicate that it has contagious or infectious disease aboard; yell" />
+</Y>
+<Y>
+<f ds="yellow gold"
+ meaning="choice gold, high-quality gold" />
+</Y>
+<Y>
+<f ds="yellow jack"
+ meaning="yellow fever, untreatable tropical disease that is transmitted by mosquito stings; yellow flag; quarantine flag; silver and yellow food fish of western Atlantic and Gulf of Mexico" />
+</Y>
+<Y>
+<f ds="yellow jacket"
+ meaning="paper wasp that has black and shiny yellow strips; (Slang) yellow capsule of phenobarbital" />
+</Y>
+<Y>
+<f ds="yellow journalism"
+ meaning="reporting of sensationalist news, journalism that exploits or hyperbolizes the news in order to attract readers" />
+</Y>
+<Y>
+<f ds="yellow light"
+ meaning="traffic light that is yellow in color; traffic light which warns drivers to slow down and prepare to come to a full stop (in the USA); traffic light which warns drivers to get ready to drive again after having come to a full stop (in most of Europe)" />
+</Y>
+<Y>
+<f ds="yellow metal"
+ meaning="metal that has a yellow coloring; gold" />
+</Y>
+<Y>
+<f ds="yellow pages"
+ meaning="telephone guide for businesses and services" />
+</Y>
+<Y>
+<f ds="yellow press"
+ meaning="yellow journalism, gossip-filled and sensationalistic reports" />
+</Y>
+<Y>
+<f ds="yellow race"
+ meaning="race of peoples with yellowish-colored skin, races from the Far East" />
+</Y>
+<Y>
+<f ds="yellow spot"
+ meaning="yellow stain; yellowish fleck in the reticulum of the eye" />
+</Y>
+<Y>
+<f ds="yellow"
+ meaning="color yellow; yolk of an egg; coward (Slang)" />
+</Y>
+<Y>
+<f ds="yellow"
+ meaning="make yellow, paint or dye yellow; turn yellow (e.g. old paper)" />
+</Y>
+<Y>
+<f ds="yellow"
+ meaning="having a yellow color; cowardly (Slang); jealous; sensationalistic (about a newspaper)" />
+</Y>
+<Y>
+<f ds="yellow-green"
+ meaning="color that is green and a bit yellow, yellowish-green" />
+</Y>
+<Y>
+<f ds="yellow-hammer"
+ meaning="gold hammer, small bunting bird with yellow breast and crown" />
+</Y>
+<Y>
+<f ds="yellow-vented bulbul"
+ meaning="(Zoology) common songbird found in Singapore" />
+</Y>
+<Y>
+<f ds="yellowback"
+ meaning="cheap popular sensational novel" />
+</Y>
+<Y>
+<f ds="yellowbelly"
+ meaning="coward, one who lacks courage" />
+</Y>
+<Y>
+<f ds="yellowhammer"
+ meaning="yellow bunting, species of European songbird with bright yellow markings on the chest and head; golden woodpecker (type of bird native to North America)" />
+</Y>
+<Y>
+<f ds="yellowing"
+ meaning="making yellow, turning yellow" />
+</Y>
+<Y>
+<f ds="yellowish"
+ meaning="somewhat yellow" />
+</Y>
+<Y>
+<f ds="yellowness"
+ meaning="state of being colored yellow" />
+</Y>
+<Y>
+<f ds="yellowtail"
+ meaning="marine fish with a yellow tail found in California; type of yellow snapper; yellowtail flounder; type of other fishes with a yellow caudal fin" />
+</Y>
+<Y>
+<f ds="yellowwood"
+ meaning="any of several trees with a yellowish wood or producing a yellow extract; yellow wood of any of the yellowwood trees; small tree that has white flowers and heavy hardwood that produces yellow dye" />
+</Y>
+<Y>
+<f ds="yellowy"
+ meaning="yellowish, somewhat yellow" />
+</Y>
+<Y>
+<f ds="yelp"
+ meaning="bark, yap; shrill cry, squeal" />
+</Y>
+<Y>
+<f ds="yelp"
+ meaning="bark, yap; utter a shrill cry, squeal" />
+</Y>
+<Y>
+<f ds="yen"
+ meaning="unit of currency in Japan" />
+</Y>
+<Y>
+<f ds="yen"
+ meaning="yearning, longing; desire" />
+</Y>
+<Y>
+<f ds="yen"
+ meaning="miss; long for" />
+</Y>
+<Y>
+<f ds="yenta"
+ meaning="gabber, know-it-all; meddler; gossiper" />
+</Y>
+<Y>
+<f ds="yeoman"
+ meaning="petty officer (U.S. Navy); independent farmer, landowner; clerk; servant" />
+</Y>
+<Y>
+<f ds="yeomanly"
+ meaning="loyal" />
+</Y>
+<Y>
+<f ds="yeomanly"
+ meaning="loyally" />
+</Y>
+<Y>
+<f ds="yeomanry"
+ meaning="independent farmers; landowners; horsemen of the national guard (England)" />
+</Y>
+<Y>
+<f ds="yep"
+ meaning="Yes (slang)" />
+</Y>
+<Y>
+<f ds="yep"
+ meaning="Yes!, uh-huh" />
+</Y>
+<Y>
+<f ds="yer"
+ meaning="(Informal) your" />
+</Y>
+<Y>
+<f ds="yer"
+ meaning="ere; before (Archaic)" />
+</Y>
+<Y>
+<f ds="yerk"
+ meaning="beat severely, thrash; excite, arouse; move with a quick sudden motion; bind together; kick, strike with the foot" />
+</Y>
+<Y>
+<f ds="yes and no"
+ meaning="maybe (expression used to express ambivalence)" />
+</Y>
+<Y>
+<f ds="yes and no man"
+ meaning="hesitater, indecisive person" />
+</Y>
+<Y>
+<f ds="yes man"
+ meaning="person who agrees to everything, person who works to please others" />
+</Y>
+<Y>
+<f ds="yes sir"
+ meaning="yes indeed!" />
+</Y>
+<Y>
+<f ds="yes siree"
+ meaning="yes indeed!" />
+</Y>
+<Y>
+<f ds="yes"
+ meaning="aye, yea; affirmative reply" />
+</Y>
+<Y>
+<f ds="yes"
+ meaning="yea, aye; indeed?, truly?" />
+</Y>
+<Y>
+<f ds="yeshiva"
+ meaning="religious learning institution (Judaism)" />
+</Y>
+<Y>
+<f ds="yeshivah"
+ meaning="religious learning institution (Judaism)" />
+</Y>
+<Y>
+<f ds="yeshivot"
+ meaning="institute for Jewish religious education and the training of rabbis, institute where students study Judaism and the Jewish sacred writings" />
+</Y>
+<Y>
+<f ds="yessir"
+ meaning="(Informal) yessiree, yes siree, yes indeed!, exclamation expressing agreement" />
+</Y>
+<Y>
+<f ds="yessiree"
+ meaning="yes siree, yes indeed!" />
+</Y>
+<Y>
+<f ds="yester year"
+ meaning="yesteryear, last year" />
+</Y>
+<Y>
+<f ds="yester"
+ meaning="yesterday" />
+</Y>
+<Y>
+<f ds="yester"
+ meaning="of or pertaining to yesterday" />
+</Y>
+<Y>
+<f ds="yesterday evening"
+ meaning="on the evening before this evening, on the evening of the day before today" />
+</Y>
+<Y>
+<f ds="yesterday morning"
+ meaning="in the morning of the day before today" />
+</Y>
+<Y>
+<f ds="yesterday"
+ meaning="of or pertaining to the yesterday, of or pertaining to the immediate past" />
+</Y>
+<Y>
+<f ds="yesterday"
+ meaning="day before the present day" />
+</Y>
+<Y>
+<f ds="yesterday"
+ meaning="on the day before the present day; short time ago" />
+</Y>
+<Y>
+<f ds="yesterday&apos;s news"
+ meaning="old information" />
+</Y>
+<Y>
+<f ds="yesterday&apos;s newspaper"
+ meaning="newspaper that was published yesterday" />
+</Y>
+<Y>
+<f ds="yesterday&apos;s paper"
+ meaning="yesterday&apos;s newspaper" />
+</Y>
+<Y>
+<f ds="yesterday&apos;s"
+ meaning="of yesterday, of or pertaining to the day before the present day (E.g.: &quot;this is yesterday&apos;s newspaper&quot;)" />
+</Y>
+<Y>
+<f ds="yesterdays"
+ meaning="time in recent past, the past" />
+</Y>
+<Y>
+<f ds="yestereve"
+ meaning="yesterevening, during yesterday evening" />
+</Y>
+<Y>
+<f ds="yestereve"
+ meaning="evening of yesterday" />
+</Y>
+<Y>
+<f ds="yesterevening"
+ meaning="during yesterday evening" />
+</Y>
+<Y>
+<f ds="yesterevening"
+ meaning="yesterday evening" />
+</Y>
+<Y>
+<f ds="yesteryear"
+ meaning="past year; last year (like yesterday)" />
+</Y>
+<Y>
+<f ds="yesteryear"
+ meaning="last year; not long ago" />
+</Y>
+<Y>
+<f ds="yesteryear&apos;s snow"
+ meaning="not relevant, it&apos;s time has passed, old, example of something which was destroyed and then forgotten" />
+</Y>
+<Y>
+<f ds="yestreen"
+ meaning="during yesterday evening; during last evening" />
+</Y>
+<Y>
+<f ds="yestreen"
+ meaning="yesterday evening; last evening" />
+</Y>
+<Y>
+<f ds="yet better"
+ meaning="even better" />
+</Y>
+<Y>
+<f ds="yet"
+ meaning="still; already; in addition; nevertheless; but; in spite of; although" />
+</Y>
+<Y>
+<f ds="yet"
+ meaning="but; in spite of, despite" />
+</Y>
+<Y>
+<f ds="yeti"
+ meaning="Abominable Snowman (Tibetan)" />
+</Y>
+<Y>
+<f ds="yew"
+ meaning="evergreen tree with poisonous needles; wood of yew tree; bow made of yew wood (Archaic)" />
+</Y>
+<Y>
+<f ds="yield a secret"
+ meaning="reveal a secret, tell a secret, disclose a secret" />
+</Y>
+<Y>
+<f ds="yield benefits"
+ meaning="bring in something useful" />
+</Y>
+<Y>
+<f ds="yield ground"
+ meaning="concede territory, give up territory" />
+</Y>
+<Y>
+<f ds="yield strength"
+ meaning="stress at which a material exhibits a specific deviation (usually 0.2%) from the standard proportion between stress and strain (Mechanics)" />
+</Y>
+<Y>
+<f ds="yield the breath"
+ meaning="die, pass away" />
+</Y>
+<Y>
+<f ds="yield to fate"
+ meaning="submit to destiny" />
+</Y>
+<Y>
+<f ds="yield"
+ meaning="crop, harvest, return, produce; income, profit" />
+</Y>
+<Y>
+<f ds="yield"
+ meaning="produce, supply, bear (profit, harvest, fruit, etc.); give; relinquish; surrender; comply; withdraw" />
+</Y>
+<Y>
+<f ds="yielded profits"
+ meaning="produced profits, made earnings" />
+</Y>
+<Y>
+<f ds="yielded to the temptation"
+ meaning="gave in to the temptation, gave in to the enticement" />
+</Y>
+<Y>
+<f ds="yielding"
+ meaning="submissive; disciplined; compliant; giving up, forgoing; producing" />
+</Y>
+<Y>
+<f ds="yieldingly"
+ meaning="submissively, while giving in, while acquiescing" />
+</Y>
+<Y>
+<f ds="yikes"
+ meaning="exclamation that expresses shock and dismay; exclamation that expresses surprise" />
+</Y>
+<Y>
+<f ds="yill"
+ meaning="strong ale (Scottish use)" />
+</Y>
+<Y>
+<f ds="yin and yang"
+ meaning="existence of a universal balance of opposite and complementary principles (Chinese Philosophy)" />
+</Y>
+<Y>
+<f ds="yip"
+ meaning="bark" />
+</Y>
+<Y>
+<f ds="yip"
+ meaning="bark" />
+</Y>
+<Y>
+<f ds="yipee"
+ meaning="yahoo! , hooray! (cheer of joy)" />
+</Y>
+<Y>
+<f ds="yippee"
+ meaning="shout of joy" />
+</Y>
+<Y>
+<f ds="yippie"
+ meaning="Hurray! (shout of joy, cheer)" />
+</Y>
+<Y>
+<f ds="yippie"
+ meaning="member of the hippie pacifist movement" />
+</Y>
+<Y>
+<f ds="yird"
+ meaning="earth (term used in Scotland and Northern England)" />
+</Y>
+<Y>
+<f ds="yird"
+ meaning="bury" />
+</Y>
+<Y>
+<f ds="yo yo"
+ meaning="coming and going, action which is repeated over and over" />
+</Y>
+<Y>
+<f ds="yo"
+ meaning="hey! (call to catch someone&apos;s attention)" />
+</Y>
+<Y>
+<f ds="yo-ho"
+ meaning="whoo-hoo (exclamation)" />
+</Y>
+<Y>
+<f ds="yob"
+ meaning="(British Slang) hooligan; rowdy or tough person" />
+</Y>
+<Y>
+<f ds="yobbo"
+ meaning="mean and brutal person, one who harasses weaker people, roughneck, rowdy or tough person; hooligan" />
+</Y>
+<Y>
+<f ds="yobo"
+ meaning="mean and brutal person, one who harasses weaker people, roughneck, rowdy or tough person; hooligan" />
+</Y>
+<Y>
+<f ds="yod"
+ meaning="Hebrew letter" />
+</Y>
+<Y>
+<f ds="yodel"
+ meaning="falsetto-pitched song of Swiss and Tyrolean mountaineers; yodeling cry or call" />
+</Y>
+<Y>
+<f ds="yodel"
+ meaning="sing high-pitched falsetto song of Swiss and Tyrolese mountaineers" />
+</Y>
+<Y>
+<f ds="yodeler"
+ meaning="yodel-singer, one who sings the high-pitched falsetto song of Swiss and Tyrolese mountaineers" />
+</Y>
+<Y>
+<f ds="yodeller"
+ meaning="yodel-singer, one who sings the high-pitched falsetto song of Swiss and Tyrolese mountaineers" />
+</Y>
+<Y>
+<f ds="yoga exercises"
+ meaning="relaxation process" />
+</Y>
+<Y>
+<f ds="yoga"
+ meaning="Indian system for training the body and soul using breathing exercises and meditation" />
+</Y>
+<Y>
+<f ds="yoghurt"
+ meaning="dairy product created with the use of bacteria" />
+</Y>
+<Y>
+<f ds="yogi"
+ meaning="one who practices Yoga; adherent of the Yoga philosophy; teacher of Yoga" />
+</Y>
+<Y>
+<f ds="yogurt ice-cream"
+ meaning="ice cream which is made from frozen yogurt" />
+</Y>
+<Y>
+<f ds="yogurt"
+ meaning="dairy product created with the use of bacteria" />
+</Y>
+<Y>
+<f ds="yoicks"
+ meaning="exclamation used by fox hunters to encourage foxhounds" />
+</Y>
+<Y>
+<f ds="yokan"
+ meaning="popular Japanese thick jello made of sweet azuki beans" />
+</Y>
+<Y>
+<f ds="yoke of oxen"
+ meaning="pair of oxen, two oxen" />
+</Y>
+<Y>
+<f ds="yoke"
+ meaning="burden; pair of harnessed oxen; shoulder of a garment; connection; slavery; directing coil in a computer monitor" />
+</Y>
+<Y>
+<f ds="yoke"
+ meaning="put a burden on; connect, join; enslave" />
+</Y>
+<Y>
+<f ds="yokefellow"
+ meaning="mate, friend; companion, associate; partner; yokemate; spouse" />
+</Y>
+<Y>
+<f ds="yokel"
+ meaning="rude farmer, country bumpkin" />
+</Y>
+<Y>
+<f ds="yokemate"
+ meaning="mate, friend; companion, associate; partner; yokefellow; spouse" />
+</Y>
+<Y>
+<f ds="yokozuna"
+ meaning="highest rank in sumo wrestling; sumo wrestler of highest rank" />
+</Y>
+<Y>
+<f ds="yokuts"
+ meaning="member of a group of Native American tribes which inhabited the San Joaquin Valley in California; family of languages spoken by Yokuts tribes" />
+</Y>
+<Y>
+<f ds="yolk sac"
+ meaning="thin membrane which surrounds the yolk of an egg and supplies nutrients to the embryo (in mammals, the yolk sac ceases to function when the placenta forms)" />
+</Y>
+<Y>
+<f ds="yolk stalk"
+ meaning="(Medicine) narrow tube that connects the yolk sac with the midgut of the embryo" />
+</Y>
+<Y>
+<f ds="yolk"
+ meaning="yellow part of an egg" />
+</Y>
+<Y>
+<f ds="yolked"
+ meaning="containing a yolk" />
+</Y>
+<Y>
+<f ds="yom"
+ meaning="(Hebrew) &quot;day&quot; (e.g., Yom Kippur)" />
+</Y>
+<Y>
+<f ds="yon"
+ meaning="that one; those ones" />
+</Y>
+<Y>
+<f ds="yon"
+ meaning="over there, there, in that place, yonder" />
+</Y>
+<Y>
+<f ds="yon"
+ meaning="that, there, farther off, yonder (Archaic)" />
+</Y>
+<Y>
+<f ds="yonder"
+ meaning="that, those" />
+</Y>
+<Y>
+<f ds="yonder"
+ meaning="over there, hither (Archaic)" />
+</Y>
+<Y>
+<f ds="yonder"
+ meaning="over there; hither (Archaic)" />
+</Y>
+<Y>
+<f ds="yonks"
+ meaning="(Slang) ages, very long time" />
+</Y>
+<Y>
+<f ds="yoof"
+ meaning="(British Slang) young people as a group" />
+</Y>
+<Y>
+<f ds="yore"
+ meaning="distant past (Archaic)" />
+</Y>
+<Y>
+<f ds="yore"
+ meaning="in the distant past, many years ago (Archaic)" />
+</Y>
+<Y>
+<f ds="yorker"
+ meaning="straight ball (Cricket)" />
+</Y>
+<Y>
+<f ds="yorkshire tyke"
+ meaning="person from Yorkshire (British); colloquialism of Yorkshire dialect" />
+</Y>
+<Y>
+<f ds="yosemite national park"
+ meaning="national park in California (USA)" />
+</Y>
+<Y>
+<f ds="yottabyte"
+ meaning="(Computers) unit of data size equal to 2 to the 80th power bytes or 1024 zettabytes (largest unit of data size)" />
+</Y>
+<Y>
+<f ds="you all"
+ meaning="&quot;you&quot; in plural when addressing two or more people; &quot;you&quot; when addressing one person but representing another or others as well" />
+</Y>
+<Y>
+<f ds="you amuse me"
+ meaning="you make me laugh" />
+</Y>
+<Y>
+<f ds="you and yours"
+ meaning="you together with your family, you and your close friends" />
+</Y>
+<Y>
+<f ds="you are barking up the wrong tree"
+ meaning="you are complaining to the wrong person" />
+</Y>
+<Y>
+<f ds="you are bothering me"
+ meaning="you are annoying me" />
+</Y>
+<Y>
+<f ds="you are cordially invited"
+ meaning="you are invited in a hearty manner, your are cordialy asked to be present, you are warmly invited" />
+</Y>
+<Y>
+<f ds="you are definitely a piece of something"
+ meaning="you certainly are something special, you are very unique" />
+</Y>
+<Y>
+<f ds="you are history"
+ meaning="you&apos;re finished, you&apos;re dead (can be thought of as dead)" />
+</Y>
+<Y>
+<f ds="you are kidding"
+ meaning="you must be joking!; this is not true!" />
+</Y>
+<Y>
+<f ds="you are really something"
+ meaning="you are extremely special, you amaze me" />
+</Y>
+<Y>
+<f ds="you are right"
+ meaning="you are correct" />
+</Y>
+<Y>
+<f ds="you are telling me?"
+ meaning="I already know that!, No kidding!" />
+</Y>
+<Y>
+<f ds="you are welcome"
+ meaning="we&apos;re glad you&apos;re here (greeting to guests); at your service (used in response to &quot;thank you&quot;)" />
+</Y>
+<Y>
+<f ds="you are what you eat"
+ meaning="concept that to be fit and healthy you must eat good nutritious food" />
+</Y>
+<Y>
+<f ds="you bet"
+ meaning="definitely, for sure, of course" />
+</Y>
+<Y>
+<f ds="you bet your life"
+ meaning="definitely, for sure, of course" />
+</Y>
+<Y>
+<f ds="you bet!"
+ meaning="certainly!, for sure!" />
+</Y>
+<Y>
+<f ds="you betcha"
+ meaning="absolutely, for sure, you can bet on it" />
+</Y>
+<Y>
+<f ds="you can never know"
+ meaning="one never knows what the future holds him, life certainly holds a lot of surprises" />
+</Y>
+<Y>
+<f ds="you can see for yourself"
+ meaning="you can see with your own two eyes, you can see the truth for yourself, you understand, it&apos;s obvious, there is no doubt" />
+</Y>
+<Y>
+<f ds="you can&apos;t always get what you want"
+ meaning="one must make a distinction between what one desires and what one already has" />
+</Y>
+<Y>
+<f ds="you can&apos;t fit a round peg in a square hole"
+ meaning="you can&apos;t force a person into roles for which he/she is not suited" />
+</Y>
+<Y>
+<f ds="you can&apos;t make an omelet without breaking eggs"
+ meaning="it is difficult to gain something significant without causing any unpleasant impacts, you must give up something to achieve something" />
+</Y>
+<Y>
+<f ds="you can&apos;t miss it"
+ meaning="you will find it easily" />
+</Y>
+<Y>
+<f ds="you can&apos;t say a without saying b"
+ meaning="of course, its clear that, it is understood that" />
+</Y>
+<Y>
+<f ds="you cannot eat your cake and have it"
+ meaning="you cannot get everything you want, it is not possible to achieve every dream you may have" />
+</Y>
+<Y>
+<f ds="you could cut it with a knife"
+ meaning="very uncomfortable atmosphere, very tense atmosphere, extremely tense tension in a room; something very thick (hot and humid air, heavy accent)" />
+</Y>
+<Y>
+<f ds="you don&apos;t have the guts"
+ meaning="you aren&apos;t brave enough" />
+</Y>
+<Y>
+<f ds="you don&apos;t know what you are saying"
+ meaning="you&apos;re talking trash, you&apos;re talking foolishly, your words are highly illogical" />
+</Y>
+<Y>
+<f ds="you don&apos;t say!"
+ meaning="what are you saying, what are you talking about" />
+</Y>
+<Y>
+<f ds="you had better"
+ meaning="you ought to, you must" />
+</Y>
+<Y>
+<f ds="you had better go"
+ meaning="you must go, you should leave" />
+</Y>
+<Y>
+<f ds="you have a smart mouth"
+ meaning="you have a big mouth, you say things that you shouldn&apos;t" />
+</Y>
+<Y>
+<f ds="you have hit it!"
+ meaning="right on target!, direct hit!" />
+</Y>
+<Y>
+<f ds="you have nothing to worry about"
+ meaning="you really don&apos;t have to worry, you can relax, I will help you, everything will be all right, everything will work out just fine" />
+</Y>
+<Y>
+<f ds="you have work to do"
+ meaning="you should be busy, you shouldn&apos;t be playing till you finish your work; there is a lot of work left to be done" />
+</Y>
+<Y>
+<f ds="you joke"
+ meaning="you are not serious!, you jest! (expression of disbelief or sarcasm)" />
+</Y>
+<Y>
+<f ds="you know"
+ meaning="it&apos;s obvious that you know, you&apos;re already aware of" />
+</Y>
+<Y>
+<f ds="you know"
+ meaning="(Informal) used in speech instead of a pause, symbolizes a comma or period (Example: &quot;She left, you know, and then she...&quot;)" />
+</Y>
+<Y>
+<f ds="you know what"
+ meaning="guess what?, listen!; you already know" />
+</Y>
+<Y>
+<f ds="you may rest assured"
+ meaning="you can be certain, no need to worry, don&apos;t you worry, be sure" />
+</Y>
+<Y>
+<f ds="you never can tell"
+ meaning="it&apos;s impossible to know for sure" />
+</Y>
+<Y>
+<f ds="you ought to know"
+ meaning="you should know, you definitely know" />
+</Y>
+<Y>
+<f ds="you scratch my back and I&apos;ll scratch yours"
+ meaning="one hand washes the other, doing a favor for someone so as to receive a favor back from him" />
+</Y>
+<Y>
+<f ds="you shouldn&apos;t have"
+ meaning="you gave too much, you exaggerated, thank you very much" />
+</Y>
+<Y>
+<f ds="you suck"
+ meaning="you&apos;re a jerk, I don&apos;t like you" />
+</Y>
+<Y>
+<f ds="you there!"
+ meaning="hey you!" />
+</Y>
+<Y>
+<f ds="you too"
+ meaning="you also" />
+</Y>
+<Y>
+<f ds="you"
+ meaning="being one especially" />
+</Y>
+<Y>
+<f ds="you"
+ meaning="pronoun which replaces the name of the person or persons being addressed (2nd person, singular and plural)" />
+</Y>
+<Y>
+<f ds="you&apos;d"
+ meaning="verb used together with another verb to indicate future tense" />
+</Y>
+<Y>
+<f ds="you&apos;d"
+ meaning="verb used together with another verb to indicate past tense" />
+</Y>
+<Y>
+<f ds="you&apos;ll hear from me"
+ meaning="you have not heard the last of me!, I&apos;ll get back to you!, that is not the end of this unresolved matter" />
+</Y>
+<Y>
+<f ds="you&apos;ll"
+ meaning="verb used together with another verb to indicate future tense" />
+</Y>
+<Y>
+<f ds="you&apos;re a dead man"
+ meaning="you will not leave here alive" />
+</Y>
+<Y>
+<f ds="you&apos;re barking up the wrong tree"
+ meaning="find another tree to climb on; go find someone else to harass; you&apos;re way off the mark, you&apos;re wrong" />
+</Y>
+<Y>
+<f ds="you&apos;re going to pay for this"
+ meaning="I&apos;m going to get back at you, you won&apos;t come out clean-handed from this, I&apos;ll teach you a lesson you&apos;ll never forget" />
+</Y>
+<Y>
+<f ds="you&apos;re telling me?"
+ meaning="I know such without you informing me, you aren&apos;t telling me anything new" />
+</Y>
+<Y>
+<f ds="you&apos;re the boss"
+ meaning="you are the one who decides, all of the responsibility is yours" />
+</Y>
+<Y>
+<f ds="you&apos;re welcome"
+ meaning="don&apos;t mention it" />
+</Y>
+<Y>
+<f ds="you&apos;re"
+ meaning="you exist, you live, you occupy a certain position, you exist in a certain state" />
+</Y>
+<Y>
+<f ds="you&apos;ve got the wrong guy"
+ meaning="I am not the person that you are looking for; I am not guilty" />
+</Y>
+<Y>
+<f ds="you&apos;ve got to be kidding!"
+ meaning="you are not serious!, what you are saying can&apos;t be true!" />
+</Y>
+<Y>
+<f ds="you&apos;ve made your bed now lie in it"
+ meaning="accept the consequences of your own actions, deal with the situation that you have created for yourself" />
+</Y>
+<Y>
+<f ds="you&apos;ve"
+ meaning="you possess; verb used together with another verb to indicate past tense" />
+</Y>
+<Y>
+<f ds="young and old"
+ meaning="people of all ages, children and the elderly" />
+</Y>
+<Y>
+<f ds="young at heart"
+ meaning="feels young although he really isn&apos;t" />
+</Y>
+<Y>
+<f ds="young audience"
+ meaning="audience made up of children, crowd of children spectators" />
+</Y>
+<Y>
+<f ds="young blood"
+ meaning="new person, young person" />
+</Y>
+<Y>
+<f ds="young bull"
+ meaning="young male cow" />
+</Y>
+<Y>
+<f ds="young couple"
+ meaning="young man dating a young woman" />
+</Y>
+<Y>
+<f ds="young deer"
+ meaning="immature male deer" />
+</Y>
+<Y>
+<f ds="young for his age"
+ meaning="immature for his age, doesn&apos;t act his age" />
+</Y>
+<Y>
+<f ds="young genius"
+ meaning="child prodigy" />
+</Y>
+<Y>
+<f ds="young gentleman"
+ meaning="nice young man, polite young man" />
+</Y>
+<Y>
+<f ds="young girl"
+ meaning="girl of a young age; woman of a young age" />
+</Y>
+<Y>
+<f ds="young goat"
+ meaning="immature male goat" />
+</Y>
+<Y>
+<f ds="young horse"
+ meaning="immature male horse" />
+</Y>
+<Y>
+<f ds="young lady"
+ meaning="young girl, young woman" />
+</Y>
+<Y>
+<f ds="young lion"
+ meaning="immature male lion" />
+</Y>
+<Y>
+<f ds="young man"
+ meaning="boy, male teenager" />
+</Y>
+<Y>
+<f ds="young master"
+ meaning="son of the master of a house" />
+</Y>
+<Y>
+<f ds="young men&apos;s christian association"
+ meaning="YMCA, international organization promoting physical and mental welfare (originally for young Christian men)" />
+</Y>
+<Y>
+<f ds="young talents"
+ meaning="young people which discover special abilities in different aspects of art" />
+</Y>
+<Y>
+<f ds="young women&apos;s christian association"
+ meaning="YWCA, American organization for Christian females" />
+</Y>
+<Y>
+<f ds="young women&apos;s hebrew association"
+ meaning="YWHA, American organization of Jewish females" />
+</Y>
+<Y>
+<f ds="young"
+ meaning="youth, the young generation, young people; puppy, cub; recently born animal, offspring" />
+</Y>
+<Y>
+<f ds="young"
+ meaning="of childhood, of youth; at the beginning of life; fresh, novice, beginning" />
+</Y>
+<Y>
+<f ds="younger generation"
+ meaning="children, the new generation" />
+</Y>
+<Y>
+<f ds="younger"
+ meaning="junior; of an inferior in age" />
+</Y>
+<Y>
+<f ds="youngest child"
+ meaning="last child in a family, child born to elderly parents" />
+</Y>
+<Y>
+<f ds="youngish"
+ meaning="somewhat young, somewhat youthful" />
+</Y>
+<Y>
+<f ds="youngling"
+ meaning="young person; young animal; young plant; recruit, someone lacking experience" />
+</Y>
+<Y>
+<f ds="youngster"
+ meaning="youth, kid, child; young animal; young seaman (U.S. and British navies)" />
+</Y>
+<Y>
+<f ds="your fly is undone"
+ meaning="the zipper of your pants is open" />
+</Y>
+<Y>
+<f ds="your honor"
+ meaning="your dignity, honorable judge" />
+</Y>
+<Y>
+<f ds="your humble servant"
+ meaning="your loyal worker" />
+</Y>
+<Y>
+<f ds="your letter of the"
+ meaning="the letter you sent on (date)" />
+</Y>
+<Y>
+<f ds="your loving friend"
+ meaning="with love, fondly (closing of a personal letter)" />
+</Y>
+<Y>
+<f ds="your obedient servant"
+ meaning="your loyal worker" />
+</Y>
+<Y>
+<f ds="your time zone"
+ meaning="the particular local time zone where you live (ex: Central European Time zone, Eastern Standard Time zone. etc.)" />
+</Y>
+<Y>
+<f ds="your whole life is before you"
+ meaning="you are still young, you have a long time left to live" />
+</Y>
+<Y>
+<f ds="your"
+ meaning="belonging to a person who is being spoken to (i.e: &quot;what is your address?&quot;; &quot;your house&quot;); a person&apos;s; of something belonging or relating to a person who is not specified; (Informal) indicating in a characteristic manner, referring to a person or somethin" />
+</Y>
+<Y>
+<f ds="your"
+ meaning="belonging to you, belonging to the person or persons being addressed (possessive - 2nd person, singular and plural)" />
+</Y>
+<Y>
+<f ds="yours faithfully"
+ meaning="loyally at your service" />
+</Y>
+<Y>
+<f ds="yours sincerely"
+ meaning="with blessings, friendly yours (at the end of a letter)" />
+</Y>
+<Y>
+<f ds="yours truly"
+ meaning="yours with blessings (at the end of a letter)" />
+</Y>
+<Y>
+<f ds="yours truly"
+ meaning="(Informal) me, myself (referring to oneself)" />
+</Y>
+<Y>
+<f ds="yours"
+ meaning="belonging to you" />
+</Y>
+<Y>
+<f ds="yourself"
+ meaning="your own person; by your own person; to your own person; from your own person" />
+</Y>
+<Y>
+<f ds="yourselves"
+ meaning="your own persons; by your own persons; to your own persons; from your own persons" />
+</Y>
+<Y>
+<f ds="youth battalions"
+ meaning="battalions made of youngsters in a paramilitary organization" />
+</Y>
+<Y>
+<f ds="youth delegation"
+ meaning="contingent of youngsters, teenage delegation" />
+</Y>
+<Y>
+<f ds="youth department"
+ meaning="municipal department that handles children&apos;s activities both in and out of school" />
+</Y>
+<Y>
+<f ds="youth employment project"
+ meaning="school network that integrates studies and work, school that prepare students for professions" />
+</Y>
+<Y>
+<f ds="youth fare"
+ meaning="fare for young people (age usually ranging from 12 years to 22 or 25 years of age)" />
+</Y>
+<Y>
+<f ds="youth hostel"
+ meaning="hotel-like establishment which provides affordable sleeping arrangements for groups of young people" />
+</Y>
+<Y>
+<f ds="youth in distress"
+ meaning="child in a difficult situation, child having an emotional crisis" />
+</Y>
+<Y>
+<f ds="youth instructor"
+ meaning="one who trains the youth battalions" />
+</Y>
+<Y>
+<f ds="youth movement"
+ meaning="framework for youth activities" />
+</Y>
+<Y>
+<f ds="youth organization"
+ meaning="group which young people join" />
+</Y>
+<Y>
+<f ds="youth"
+ meaning="childhood; child; young person, youngster; young people in a collective manner; early period of anything" />
+</Y>
+<Y>
+<f ds="youthful"
+ meaning="young; soft, fresh; juvenile" />
+</Y>
+<Y>
+<f ds="youthfully"
+ meaning="as someone young; vigorously, actively, energetically" />
+</Y>
+<Y>
+<f ds="youthfulness"
+ meaning="quality of being youthful, quality of being young (immature, childish; vigorous, active)" />
+</Y>
+<Y>
+<f ds="youthquake"
+ meaning="shift in cultural standards that are affected by the traditional customs of a community and their values" />
+</Y>
+<Y>
+<f ds="youths"
+ meaning="young people in a collective manner" />
+</Y>
+<Y>
+<f ds="yow"
+ meaning="Ooh! (cry of surprise, disappointment, or pain)" />
+</Y>
+<Y>
+<f ds="yowl"
+ meaning="howl, wail, long distressful cry" />
+</Y>
+<Y>
+<f ds="yowl"
+ meaning="howl, wail, emit a long distressful cry" />
+</Y>
+<Y>
+<f ds="yperite"
+ meaning="mustard gas (Chemistry)" />
+</Y>
+<Y>
+<f ds="yr."
+ meaning="twelve-month period, 365 days" />
+</Y>
+<Y>
+<f ds="yr."
+ meaning="object which belongs to you (abbreviation)" />
+</Y>
+<Y>
+<f ds="yrs."
+ meaning="plural of year (12 month period)" />
+</Y>
+<Y>
+<f ds="yrs."
+ meaning="belonging to you" />
+</Y>
+<Y>
+<f ds="ytterbic"
+ meaning="of the chemical element ytterbium" />
+</Y>
+<Y>
+<f ds="ytterbium"
+ meaning="metallic chemical element" />
+</Y>
+<Y>
+<f ds="yttrium"
+ meaning="(Y) metallic chemical element (Chemistry)" />
+</Y>
+<Y>
+<f ds="yuan"
+ meaning="unit of currency in China" />
+</Y>
+<Y>
+<f ds="yuca"
+ meaning="cassava, tropical plant" />
+</Y>
+<Y>
+<f ds="yucca"
+ meaning="any plant from the genus Yucca, type of plant that grows in warm dry climates" />
+</Y>
+<Y>
+<f ds="yuck"
+ meaning="gross! (cry of disgust or repulsion)" />
+</Y>
+<Y>
+<f ds="yucky"
+ meaning="disgusting, repulsive, offensive, gross (Slang)" />
+</Y>
+<Y>
+<f ds="yukata"
+ meaning="light cotton kimono, Japanese lounging robe" />
+</Y>
+<Y>
+<f ds="yuko"
+ meaning="(Sports) near waza-ari (in judo and karate)" />
+</Y>
+<Y>
+<f ds="yule block"
+ meaning="large log of wood (in the past burned in a fireplace at Christmas)" />
+</Y>
+<Y>
+<f ds="yule log"
+ meaning="large log of wood (in the past burned in a fireplace at Christmas)" />
+</Y>
+<Y>
+<f ds="yum yum"
+ meaning="interjection used to express delicious or tasty (in the taste of food)" />
+</Y>
+<Y>
+<f ds="yummy"
+ meaning="this is delicious!" />
+</Y>
+<Y>
+<f ds="yummy"
+ meaning="delicious, tasty, appetizing, stimulating; attractive, nice, pretty" />
+</Y>
+<Y>
+<f ds="yup"
+ meaning="(Slang) yep, yes" />
+</Y>
+<Y>
+<f ds="yuppie"
+ meaning="&quot;Young Urban Professional&quot;, (slang term for) young wealthy successful person" />
+</Y>
+<Y>
+<f ds="yuppify"
+ meaning="populate with yuppies; make attractive to yuppies; turn an urban area attractive to young wealthy residents" />
+</Y>
+<Y>
+<f ds="yurt"
+ meaning="rounded building characteristic of the Mongols and the Turks of central Asia" />
+</Y>
+<Y>
+<f ds="yurta"
+ meaning="rounded building characteristic of the Mongols and the Turks of central Asia" />
+</Y>
+</dataroot>

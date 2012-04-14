@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<data type="a">
+		<val eng="a" hin="&#x0905;" />
+		<val eng="aa" hin="&#x0906;" />
+	  <val eng="ae" hin="&#x090F;" />
+    <val eng="ai" hin="&#x0910;" />
+    <val eng="ao" hin="&#x0913;" />
+    <val eng="au" hin="&#x0914;" />
+	</data>
+
+  <data type="i">
+		<val eng="i" hin="&#x0907;" />
+		<val eng="ii" hin="&#x0908;" />
+  </data>
+
+  <data type="u">
+		<val eng="u" hin="&#x0909;" />
+		<val eng="uu" hin="&#x090A;" />
+  </data>
+
+  <data type="o">
+		<val eng="o" hin="&#x0913;" />
+		<val eng="oo" hin="&#x090A;" />
+  </data>
+  <data type="e">
+		<val eng="e" hin="&#x0907;" />
+		<val eng="ee" hin="&#x0908;" />
+  </data>
+
+  <data type="?">
+		<val eng="?" hin="&#x003F;" />
+  </data>
+
+  <data type=".">
+		<val eng="." hin="&#x0964;" />
+  </data>
+  <data type="0">
+		<val eng="0" hin="&#x0966;" />
+  </data>
+  <data type="1">
+		<val eng="1" hin="&#x0967;" />
+  </data>
+  <data type="2">
+		<val eng="2" hin="&#x0968;" />
+  </data>
+  <data type="3">
+		<val eng="3" hin="&#x0969;" />
+  </data>
+  <data type="4">
+		<val eng="4" hin="&#x096A;" />
+  </data>
+  <data type="5">
+		<val eng="5" hin="&#x096B;" />
+  </data>
+  <data type="6">
+		<val eng="6" hin="&#x096C;" />
+  </data>
+  <data type="7">
+		<val eng="7" hin="&#x096D;" />
+  </data>
+  <data type="8">
+		<val eng="8" hin="&#x096E;" />
+  </data>
+  <data type="9">
+		<val eng="9" hin="&#x096F;" />
+  </data>
+
+
+
+
+  <data type="c">
+    <val eng="c" hin="&#x0915;" />
+    <val eng="ca" hin="&#x0915;" />
+    <val eng="caa" hin="&#x0915;&#x093E;" />
+    <val eng="ci" hin="&#x0915;&#x093F;" />
+    <val eng="cee" hin="&#x0915;&#x0940;" />
+    <val eng="cu" hin="&#x0915;&#x0941;" />
+    <val eng="coo" hin="&#x0915;&#x0942;" />
+    <val eng="ce" hin="&#x0915;&#x0947;" />
+    <val eng="cai" hin="&#x0915;&#x0948;" />
+    <val eng="co" hin="&#x0915;&#x094B;" />
+    <val eng="cau" hin="&#x0915;&#x094C;" />
+  </data>
+  <data type="k">
+	  <val eng="k" hin="&#x0915;" />
+	  <val eng="ka" hin="&#x0915;" />
+	  <val eng="kaa" hin="&#x0915;&#x093E;" />
+    <val eng="ki" hin="&#x0915;&#x093F;" />
+    <val eng="kee" hin="&#x0915;&#x0940;" />
+    <val eng="ku" hin="&#x0915;&#x0941;" />
+    <val eng="koo" hin="&#x0915;&#x0942;" />
+    <val eng="ke" hin="&#x0915;&#x0947;" />
+    <val eng="kai" hin="&#x0915;&#x0948;" />
+    <val eng="ko" hin="&#x0915;&#x094B;" />
+    <val eng="kau" hin="&#x0915;&#x094C;" />
+	</data>
+  <data type="kh">
+    <val eng="kh" hin="&#x0916;" />
+    <val eng="kha" hin="&#x0916;" />
+    <val eng="khaa" hin="&#x0916;&#x093E;" />
+    <val eng="khi" hin="&#x0916;&#x093F;" />
+    <val eng="khee" hin="&#x0916;&#x0940;" />
+    <val eng="khu" hin="&#x0916;&#x0941;" />
+    <val eng="khoo" hin="&#x0916;&#x0942;" />
+    <val eng="khae" hin="&#x0916;&#x0947;" />
+    <val eng="khai" hin="&#x0916;&#x0948;" />
+    <val eng="kho" hin="&#x0916;&#x094B;" />
+    <val eng="khau" hin="&#x0916;&#x094C;" />
+  </data>
+  <data type="g">
+    <val eng="g" hin="&#x0917;" />
+    <val eng="ga" hin="&#x0917;" />
+    <val eng="gaa" hin="&#x0917;&#x093E;" />
+    <val eng="gi" hin="&#x0917;&#x093F;" />
+    <val eng="gee" hin="&#x0917;&#x0940;" />
+    <val eng="gu" hin="&#x0917;&#x0941;" />
+    <val eng="goo" hin="&#x0917;&#x0942;" />
+    <val eng="ge" hin="&#x0917;&#x0947;" />
+    <val eng="gai" hin="&#x0917;&#x0948;" />
+    <val eng="go" hin="&#x0917;&#x094B;" />
+    <val eng="gau" hin="&#x0917;&#x094C;" />
+  </data>
+  <data type="gh">
+    <val eng="gh" hin="&#x0918;" />
+    <val eng="gha" hin="&#x0918;" />
+    <val eng="ghaa" hin="&#x0918;&#x093E;" />
+    <val eng="ghi" hin="&#x0918;&#x093F;" />
+    <val eng="ghee" hin="&#x0918;&#x0940;" />
+    <val eng="ghu" hin="&#x0918;&#x0941;" />
+    <val eng="ghoo" hin="&#x0918;&#x0942;" />
+    <val eng="ghe" hin="&#x0918;&#x0947;" />
+    <val eng="ghai" hin="&#x0918;&#x0948;" />
+    <val eng="gho" hin="&#x0918;&#x094B;" />
+    <val eng="ghau" hin="&#x0918;&#x094C;" />
+  </data>
+  <data type="ch">
+    <val eng="ch" hin="&#x091A;" />
+    <val eng="cha" hin="&#x091A;" />
+    <val eng="chaa" hin="&#x091A;&#x093E;" />
+    <val eng="chi" hin="&#x091A;&#x093F;" />
+    <val eng="chee" hin="&#x091A;&#x0940;" />
+    <val eng="chu" hin="&#x091A;&#x0941;" />
+    <val eng="choo" hin="&#x091A;&#x0942;" />
+    <val eng="che" hin="&#x091A;&#x0947;" />
+    <val eng="chai" hin="&#x091A;&#x0948;" />
+    <val eng="cho" hin="&#x091A;&#x094B;" />
+    <val eng="chau" hin="&#x091A;&#x094C;" />
+  </data>
+  <data type="chh">
+    <val eng="chh" hin="&#x091B;" />
+    <val eng="chha" hin="&#x091B;" />
+    <val eng="chhaa" hin="&#x091B;&#x093E;" />
+    <val eng="chhi" hin="&#x091B;&#x093F;" />
+    <val eng="chee" hin="&#x091B;&#x0940;" />
+    <val eng="chhu" hin="&#x091B;&#x0941;" />
+    <val eng="chhoo" hin="&#x091B;&#x0942;" />
+    <val eng="chhe" hin="&#x091B;&#x0947;" />
+    <val eng="chhai" hin="&#x091B;&#x0948;" />
+    <val eng="chho" hin="&#x091B;&#x094B;" />
+    <val eng="chhau" hin="&#x091B;&#x094C;" />
+  </data>
+  <data type="j">
+    <val eng="j" hin="&#x091C;" />
+    <val eng="ja" hin="&#x091C;" />
+    <val eng="jaa" hin="&#x091C;&#x093E;" />
+    <val eng="ji" hin="&#x091C;&#x093F;" />
+    <val eng="jee" hin="&#x091C;&#x0940;" />
+    <val eng="ju" hin="&#x091C;&#x0941;" />
+    <val eng="joo" hin="&#x091C;&#x0942;" />
+    <val eng="je" hin="&#x091C;&#x0947;" />
+    <val eng="jai" hin="&#x091C;&#x0948;" />
+    <val eng="jo" hin="&#x091C;&#x094B;" />
+    <val eng="jau" hin="&#x091C;&#x094C;" />
+  </data>
+  <data type="jh">
+    <val eng="jh" hin="&#x091D;" />
+    <val eng="jha" hin="&#x091D;" />
+    <val eng="jhaa" hin="&#x091D;&#x093E;" />
+    <val eng="jhi" hin="&#x091D;&#x093F;" />
+    <val eng="jhee" hin="&#x091D;&#x0940;" />
+    <val eng="jhu" hin="&#x091D;&#x0941;" />
+    <val eng="jhoo" hin="&#x091D;&#x0942;" />
+    <val eng="jhe" hin="&#x091D;&#x0947;" />
+    <val eng="jhai" hin="&#x091D;&#x0948;" />
+    <val eng="jho" hin="&#x091D;&#x094B;" />
+    <val eng="jhau" hin="&#x091D;&#x094C;" />
+  </data>
+
+<data type="t">
+    <val eng="t" hin="&#x091F;" />
+    <val eng="ta" hin="&#x091F;" />
+    <val eng="taa" hin="&#x091F;&#x093E;" />
+    <val eng="ti" hin="&#x091F;&#x093F;" />
+    <val eng="tee" hin="&#x091F;&#x0940;" />
+    <val eng="tu" hin="&#x091F;&#x0941;" />
+    <val eng="too" hin="&#x091F;&#x0942;" />
+    <val eng="te" hin="&#x091F;&#x0947;" />
+    <val eng="tai" hin="&#x091F;&#x0948;" />
+    <val eng="to" hin="&#x091F;&#x094B;" />
+    <val eng="tau" hin="&#x091F;&#x094C;" />
+  </data>
+
+<data type="th">
+    <val eng="th" hin="&#x0924;" />
+    <val eng="tha" hin="&#x0924;" />
+    <val eng="thaa" hin="&#x0924;&#x093E;" />
+    <val eng="thi" hin="&#x0924;&#x093F;" />
+    <val eng="thee" hin="&#x0924;&#x0940;" />
+    <val eng="thu" hin="&#x0924;&#x0941;" />
+    <val eng="thoo" hin="&#x0924;&#x0942;" />
+    <val eng="the" hin="&#x0924;&#x0947;" />
+    <val eng="thai" hin="&#x0924;&#x0948;" />
+    <val eng="tho" hin="&#x0924;&#x094B;" />
+    <val eng="thau" hin="&#x0924;&#x094C;" />
+  </data>
+
+  <data type="d">
+    <val eng="d" hin="&#x0921;" />
+    <val eng="da" hin="&#x0921;" />
+    <val eng="daa" hin="&#x0921;&#x093E;" />
+    <val eng="di" hin="&#x0921;&#x093F;" />
+    <val eng="dee" hin="&#x0921;&#x0940;" />
+    <val eng="du" hin="&#x0921;&#x0941;" />
+    <val eng="doo" hin="&#x0921;&#x0942;" />
+    <val eng="de" hin="&#x0921;&#x0947;" />
+    <val eng="dai" hin="&#x0921;&#x0948;" />
+    <val eng="do" hin="&#x0921;&#x094B;" />
+    <val eng="dau" hin="&#x0921;&#x094C;" />
+  </data>
+  <data type="dh">
+    <val eng="dh" hin="&#x0922;" />
+    <val eng="dha" hin="&#x0922;" />
+    <val eng="dhaa" hin="&#x0922;&#x093E;" />
+    <val eng="dhi" hin="&#x0922;&#x093F;" />
+    <val eng="dhee" hin="&#x0922;&#x0940;" />
+    <val eng="dhu" hin="&#x0922;&#x0941;" />
+    <val eng="dhoo" hin="&#x0922;&#x0942;" />
+    <val eng="dhe" hin="&#x0922;&#x0947;" />
+    <val eng="dhai" hin="&#x0922;&#x0948;" />
+    <val eng="dho" hin="&#x0922;&#x094B;" />
+    <val eng="dhau" hin="&#x0922;&#x094C;" />
+  </data>
+
+  <data type="n">
+    <val eng="n" hin="&#x0928;" />
+    <val eng="na" hin="&#x0928;" />
+    <val eng="naa" hin="&#x0928;&#x093E;" />
+    <val eng="ni" hin="&#x0928;&#x093F;" />
+    <val eng="nee" hin="&#x0928;&#x0940;" />
+    <val eng="nu" hin="&#x0928;&#x0941;" />
+    <val eng="noo" hin="&#x0928;&#x0942;" />
+    <val eng="ne" hin="&#x0928;&#x0947;" />
+    <val eng="nai" hin="&#x0928;&#x0948;" />
+    <val eng="no" hin="&#x0928;&#x094B;" />
+    <val eng="nau" hin="&#x0928;&#x094C;" />
+  </data>
+  <data type="nn">
+    <val eng="nn" hin="&#x0923;" />
+    <val eng="nna" hin="&#x0923;" />
+    <val eng="nnaa" hin="&#x0923;&#x093E;" />
+    <val eng="nni" hin="&#x0923;&#x093F;" />
+    <val eng="nnee" hin="&#x0923;&#x0940;" />
+    <val eng="nnu" hin="&#x0923;&#x0941;" />
+    <val eng="nnoo" hin="&#x0923;&#x0942;" />
+    <val eng="nne" hin="&#x0923;&#x0947;" />
+    <val eng="nnai" hin="&#x0923;&#x0948;" />
+    <val eng="nno" hin="&#x0923;&#x094B;" />
+    <val eng="nnau" hin="&#x0923;&#x094C;" />
+  </data>
+
+  <data type="tt">
+    <val eng="tt" hin="&#x091F;" />
+    <val eng="tta" hin="&#x091F;" />
+    <val eng="ttaa" hin="&#x091F;&#x093E;" />
+    <val eng="tti" hin="&#x091F;&#x093F;" />
+    <val eng="ttee" hin="&#x091F;&#x0940;" />
+    <val eng="ttu" hin="&#x091F;&#x0941;" />
+    <val eng="ttoo" hin="&#x091F;&#x0942;" />
+    <val eng="tte" hin="&#x091F;&#x0947;" />
+    <val eng="ttai" hin="&#x091F;&#x0948;" />
+    <val eng="tto" hin="&#x091F;&#x094B;" />
+    <val eng="ttau" hin="&#x091F;&#x094C;" />
+  </data>
+  <data type="tth">
+    <val eng="tth" hin="&#x0920;" />
+    <val eng="ttha" hin="&#x0920;" />
+    <val eng="tthaa" hin="&#x0920;&#x093E;" />
+    <val eng="tthi" hin="&#x0920;&#x093F;" />
+    <val eng="tthee" hin="&#x0920;&#x0940;" />
+    <val eng="tthu" hin="&#x0920;&#x0941;" />
+    <val eng="tthoo" hin="&#x0920;&#x0942;" />
+    <val eng="tthe" hin="&#x0920;&#x0947;" />
+    <val eng="tthai" hin="&#x0920;&#x0948;" />
+    <val eng="ttho" hin="&#x0920;&#x094B;" />
+    <val eng="tthau" hin="&#x0920;&#x094C;" />
+  </data>
+  <data type="p">
+    <val eng="p" hin="&#x092A;" />
+    <val eng="pa" hin="&#x092A;" />
+    <val eng="paa" hin="&#x092A;&#x093E;" />
+    <val eng="pi" hin="&#x092A;&#x093F;" />
+    <val eng="pee" hin="&#x092A;&#x0940;" />
+    <val eng="pu" hin="&#x092A;&#x0941;" />
+    <val eng="poo" hin="&#x092A;&#x0942;" />
+    <val eng="pe" hin="&#x092A;&#x0947;" />
+    <val eng="pai" hin="&#x092A;&#x0948;" />
+    <val eng="po" hin="&#x092A;&#x094B;" />
+    <val eng="pau" hin="&#x092A;&#x094C;" />
+  </data>
+  <data type="ph">
+    <val eng="ph" hin="&#x092B;" />
+    <val eng="pha" hin="&#x092B;" />
+    <val eng="phaa" hin="&#x092B;&#x093E;" />
+    <val eng="phi" hin="&#x092B;&#x093F;" />
+    <val eng="phee" hin="&#x092B;&#x0940;" />
+    <val eng="phu" hin="&#x092B;&#x0941;" />
+    <val eng="phoo" hin="&#x092B;&#x0942;" />
+    <val eng="phe" hin="&#x092B;&#x0947;" />
+    <val eng="phai" hin="&#x092B;&#x0948;" />
+    <val eng="pho" hin="&#x092B;&#x094B;" />
+    <val eng="phau" hin="&#x092B;&#x094C;" />
+  </data>
+
+  <data type="f">
+    <val eng="f" hin="&#x092B;" />
+    <val eng="fa" hin="&#x092B;" />
+    <val eng="faa" hin="&#x092B;&#x093E;" />
+    <val eng="fi" hin="&#x092B;&#x093F;" />
+    <val eng="fee" hin="&#x092B;&#x0940;" />
+    <val eng="fu" hin="&#x092B;&#x0941;" />
+    <val eng="foo" hin="&#x092B;&#x0942;" />
+    <val eng="fe" hin="&#x092B;&#x0947;" />
+    <val eng="fai" hin="&#x092B;&#x0948;" />
+    <val eng="fo" hin="&#x092B;&#x094B;" />
+    <val eng="fau" hin="&#x092B;&#x094C;" />
+  </data>
+
+  <data type="b">
+    <val eng="b" hin="&#x092C;" />
+    <val eng="ba" hin="&#x092C;" />
+    <val eng="baa" hin="&#x092C;&#x093E;" />
+    <val eng="bi" hin="&#x092C;&#x093F;" />
+    <val eng="bee" hin="&#x092C;&#x0940;" />
+    <val eng="bu" hin="&#x092C;&#x0941;" />
+    <val eng="boo" hin="&#x092C;&#x0942;" />
+    <val eng="be" hin="&#x092C;&#x0947;" />
+    <val eng="bai" hin="&#x092C;&#x0948;" />
+    <val eng="bo" hin="&#x092C;&#x094B;" />
+    <val eng="bau" hin="&#x092C;&#x094C;" />
+  </data>
+
+  <data type="bh">
+    <val eng="bh" hin="&#x092D;" />
+    <val eng="bha" hin="&#x092D;" />
+    <val eng="bhaa" hin="&#x092D;&#x093E;" />
+    <val eng="bhi" hin="&#x092D;&#x093F;" />
+    <val eng="bhee" hin="&#x092D;&#x0940;" />
+    <val eng="bhu" hin="&#x092D;&#x0941;" />
+    <val eng="bhoo" hin="&#x092D;&#x0942;" />
+    <val eng="bhe" hin="&#x092D;&#x0947;" />
+    <val eng="bhai" hin="&#x092D;&#x0948;" />
+    <val eng="bho" hin="&#x092D;&#x094B;" />
+    <val eng="bhau" hin="&#x092D;&#x094C;" />
+  </data>
+
+  <data type="m">
+    <val eng="m" hin="&#x092E;" />
+    <val eng="ma" hin="&#x092E;" />
+    <val eng="maa" hin="&#x092E;&#x093E;" />
+    <val eng="mi" hin="&#x092E;&#x093F;" />
+    <val eng="mee" hin="&#x092E;&#x0940;" />
+    <val eng="mu" hin="&#x092E;&#x0941;" />
+    <val eng="moo" hin="&#x092E;&#x0942;" />
+    <val eng="me" hin="&#x092E;&#x0947;" />
+    <val eng="mai" hin="&#x092E;&#x0948;" />
+    <val eng="mo" hin="&#x092E;&#x094B;" />
+    <val eng="mau" hin="&#x092E;&#x094C;" />
+  </data>
+
+  <data type="y">
+    <val eng="y" hin="&#x092F;" />
+    <val eng="ya" hin="&#x092F;" />
+    <val eng="yaa" hin="&#x092F;&#x093E;" />
+    <val eng="yi" hin="&#x092F;&#x093F;" />
+    <val eng="yee" hin="&#x092F;&#x0940;" />
+    <val eng="yu" hin="&#x092F;&#x0941;" />
+    <val eng="yoo" hin="&#x092F;&#x0942;" />
+    <val eng="ye" hin="&#x092F;&#x0947;" />
+    <val eng="yai" hin="&#x092F;&#x0948;" />
+    <val eng="yo" hin="&#x092F;&#x094B;" />
+    <val eng="yau" hin="&#x092F;&#x094C;" />
+  </data>
+  <data type="r">
+    <val eng="r" hin="&#x0930;" />
+    <val eng="ra" hin="&#x0930;" />
+    <val eng="raa" hin="&#x0930;&#x093E;" />
+    <val eng="ri" hin="&#x0930;&#x093F;" />
+    <val eng="ree" hin="&#x0930;&#x0940;" />
+    <val eng="ru" hin="&#x0930;&#x0941;" />
+    <val eng="roo" hin="&#x0930;&#x0942;" />
+    <val eng="re" hin="&#x0930;&#x0947;" />
+    <val eng="rai" hin="&#x0930;&#x0948;" />
+    <val eng="ro" hin="&#x0930;&#x094B;" />
+    <val eng="rau" hin="&#x0930;&#x094C;" />
+    <val eng="rou" hin="&#x0930;&#x094C;" />
+  </data>
+  <data type="rr">
+    <val eng="rr" hin="&#x0931;" />
+    <val eng="rra" hin="&#x0931;" />
+    <val eng="rraa" hin="&#x0931;&#x093E;" />
+    <val eng="rri" hin="&#x0931;&#x093F;" />
+    <val eng="rree" hin="&#x0931;&#x0940;" />
+    <val eng="rru" hin="&#x0931;&#x0941;" />
+    <val eng="rroo" hin="&#x0931;&#x0942;" />
+    <val eng="rre" hin="&#x0931;&#x0947;" />
+    <val eng="rrai" hin="&#x0931;&#x0948;" />
+    <val eng="rro" hin="&#x0931;&#x094B;" />
+    <val eng="rrau" hin="&#x0931;&#x094C;" />
+    <val eng="rrou" hin="&#x0931;&#x094C;" />
+  </data>
+  <data type="l">
+    <val eng="l" hin="&#x0932;" />
+    <val eng="la" hin="&#x0932;" />
+    <val eng="laa" hin="&#x0932;&#x093E;" />
+    <val eng="li" hin="&#x0932;&#x093F;" />
+    <val eng="lee" hin="&#x0932;&#x0940;" />
+    <val eng="lu" hin="&#x0932;&#x0941;" />
+    <val eng="loo" hin="&#x0932;&#x0942;" />
+    <val eng="le" hin="&#x0932;&#x0947;" />
+    <val eng="lai" hin="&#x0932;&#x0948;" />
+    <val eng="lo" hin="&#x0932;&#x094B;" />
+    <val eng="lau" hin="&#x0932;&#x094C;" />
+    <val eng="lou" hin="&#x0932;&#x094C;" />
+  </data>
+  <data type="ll">                            <!--also can use 'lh' for this-->
+    <val eng="ll" hin="&#x0933;" />
+    <val eng="lla" hin="&#x0933;" />
+    <val eng="llaa" hin="&#x0933;&#x093E;" />
+    <val eng="lli" hin="&#x0933;&#x093F;" />
+    <val eng="llee" hin="&#x0933;&#x0940;" />
+    <val eng="llu" hin="&#x0933;&#x0941;" />
+    <val eng="lloo" hin="&#x0933;&#x0942;" />
+    <val eng="lle" hin="&#x0933;&#x0947;" />
+    <val eng="llai" hin="&#x0933;&#x0948;" />
+    <val eng="llo" hin="&#x0933;&#x094B;" />
+    <val eng="llau" hin="&#x0933;&#x094C;" />
+    <val eng="llou" hin="&#x0933;&#x094C;" />
+  </data>
+  <data type="lll">
+    <val eng="lll" hin="&#x0934;" />
+    <val eng="llla" hin="&#x0934;" />
+    <val eng="lllaa" hin="&#x0934;&#x093E;" />
+    <val eng="llli" hin="&#x0934;&#x093F;" />
+    <val eng="lllee" hin="&#x0934;&#x0940;" />
+    <val eng="lllu" hin="&#x0934;&#x0941;" />
+    <val eng="llloo" hin="&#x0934;&#x0942;" />
+    <val eng="llle" hin="&#x0934;&#x0947;" />
+    <val eng="lllai" hin="&#x0934;&#x0948;" />
+    <val eng="lllo" hin="&#x0934;&#x094B;" />
+    <val eng="lllau" hin="&#x0934;&#x094C;" />
+    <val eng="lllou" hin="&#x0934;&#x094C;" />
+  </data>
+  <data type="v">
+    <val eng="v" hin="&#x0935;" />
+    <val eng="va" hin="&#x0935;" />
+    <val eng="vaa" hin="&#x0935;&#x093E;" />
+    <val eng="vi" hin="&#x0935;&#x093F;" />
+    <val eng="vee" hin="&#x0935;&#x0940;" />
+    <val eng="vu" hin="&#x0935;&#x0941;" />
+    <val eng="voo" hin="&#x0935;&#x0942;" />
+    <val eng="ve" hin="&#x0935;&#x0947;" />
+    <val eng="vai" hin="&#x0935;&#x0948;" />
+    <val eng="vo" hin="&#x0935;&#x094B;" />
+    <val eng="vau" hin="&#x0935;&#x094C;" />
+    <val eng="vou" hin="&#x0935;&#x094C;" />
+  </data>
+  <data type="w">
+    <val eng="w" hin="&#x0935;" />
+    <val eng="wa" hin="&#x0935;" />
+    <val eng="waa" hin="&#x0935;&#x093E;" />
+    <val eng="wi" hin="&#x0935;&#x093F;" />
+    <val eng="wee" hin="&#x0935;&#x0940;" />
+    <val eng="wu" hin="&#x0935;&#x0941;" />
+    <val eng="woo" hin="&#x0935;&#x0942;" />
+    <val eng="we" hin="&#x0935;&#x0947;" />
+    <val eng="wai" hin="&#x0935;&#x0948;" />
+    <val eng="wo" hin="&#x0935;&#x094B;" />
+    <val eng="wau" hin="&#x0935;&#x094C;" />
+    <val eng="wou" hin="&#x0935;&#x094C;" />
+  </data>
+  <data type="sh">
+    <val eng="sh" hin="&#x0936;" />
+    <val eng="sha" hin="&#x0936;" />
+    <val eng="shaa" hin="&#x0936;&#x093E;" />
+    <val eng="shi" hin="&#x0936;&#x093F;" />
+    <val eng="shee" hin="&#x0936;&#x0940;" />
+    <val eng="shu" hin="&#x0936;&#x0941;" />
+    <val eng="shoo" hin="&#x0936;&#x0942;" />
+    <val eng="she" hin="&#x0936;&#x0947;" />
+    <val eng="shai" hin="&#x0936;&#x0948;" />
+    <val eng="sho" hin="&#x0936;&#x094B;" />
+    <val eng="shau" hin="&#x0936;&#x094C;" />
+    <val eng="shou" hin="&#x0936;&#x094C;" />
+  </data>
+  <data type="ss">
+    <val eng="ss" hin="&#x0937;" />
+    <val eng="ssa" hin="&#x0937;" />
+    <val eng="ssaa" hin="&#x0937;&#x093E;" />
+    <val eng="ssi" hin="&#x0937;&#x093F;" />
+    <val eng="ssee" hin="&#x0937;&#x0940;" />
+    <val eng="ssu" hin="&#x0937;&#x0941;" />
+    <val eng="ssoo" hin="&#x0937;&#x0942;" />
+    <val eng="sse" hin="&#x0937;&#x0947;" />
+    <val eng="ssai" hin="&#x0937;&#x0948;" />
+    <val eng="sso" hin="&#x0937;&#x094B;" />
+    <val eng="ssau" hin="&#x0937;&#x094C;" />
+    <val eng="ssou" hin="&#x0937;&#x094C;" />
+  </data>
+  <data type="s">
+    <val eng="s" hin="&#x0938;" />
+    <val eng="sa" hin="&#x0938;" />
+    <val eng="saa" hin="&#x0938;&#x093E;" />
+    <val eng="si" hin="&#x0938;&#x093F;" />
+    <val eng="see" hin="&#x0938;&#x0940;" />
+    <val eng="su" hin="&#x0938;&#x0941;" />
+    <val eng="soo" hin="&#x0938;&#x0942;" />
+    <val eng="se" hin="&#x0938;&#x0947;" />
+    <val eng="sai" hin="&#x0938;&#x0948;" />
+    <val eng="so" hin="&#x0938;&#x094B;" />
+    <val eng="sau" hin="&#x0938;&#x094C;" />
+    <val eng="sou" hin="&#x0938;&#x094C;" />
+  </data>
+  <data type="h">
+    <val eng="h" hin="&#x0939;" />
+    <val eng="ha" hin="&#x0939;" />
+    <val eng="haa" hin="&#x0939;&#x093E;" />
+    <val eng="hi" hin="&#x0939;&#x093F;" />
+    <val eng="hee" hin="&#x0939;&#x0940;" />
+    <val eng="hu" hin="&#x0939;&#x0941;" />
+    <val eng="hoo" hin="&#x0939;&#x0942;" />
+    <val eng="he" hin="&#x0939;&#x0947;" />
+    <val eng="hai" hin="&#x0939;&#x0948;" />
+    <val eng="ho" hin="&#x0939;&#x094B;" />
+    <val eng="hau" hin="&#x0939;&#x094C;" />
+    <val eng="hou" hin="&#x0939;&#x094C;" />
+  </data>
+
+
+</index>
