@@ -1,11 +1,11 @@
-Put all the current directory files + dict folder + free..1.2 folder
+Put all the current directory files + dict folder + free..1.2 folder(download here http://db.tt/CrqPutzE)
 in one directory of your choice
 
 set classpath variable as 
         .;c:\freetts-1.2\lib\jsapi.jar;c:\freetts-1.2\lib\freetts.jar;
 	and freett.. folder should be in c: or whatever directory you set path as
 
-See if all 1,2,4 steps mentioned in below file (FeeTTS Overview) are done
-	Vocal Java   Java.net.htm file
+See if all 1,2,4 steps mentioned in below file link (FeeTTS Overview) are done
+	http://db.tt/SveKy7N3
 
 compile and run Main.java
